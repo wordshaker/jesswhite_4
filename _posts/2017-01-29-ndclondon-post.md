@@ -18,8 +18,8 @@ Last year I learnt the amazing thing about being cheeky. The best thing that can
 Honestly, I was very nervous walking towards the ExCel. I didn't really know what I was in for. After meeting the crew and organisers those worries  went out the window. We got shown the area, given our t-shirts and shown what we would be needed to do 
 
 ![NDC Tee](http://i64.tinypic.com/2cnfbpv.jpg "NDC Tee")
-
-Volunteering consists of helping set up and keeping an eye on set rooms for half a day. This includes making sure there is water, that the speaker has what they need, counting votes and giving them the speaker gift. 
+ 
+After training, one of the other volunteers and I walked back to the Travelodge. That would be the last good nights sleep I would have for a few days.
 
 ##### The Conference
 
@@ -29,6 +29,10 @@ Now NDC is the biggest conference I have been too. The keynote was about [Humani
 
 The whole set up was impressive. The stalls, people, food... it was all impressive. Volunteering at NDC is a really good deal as well. I'm not going through the whole conference experience but as a volunteer you spend half the day taking care of a room and the other half doing what you want. Taking care of the room involves making sure the speaker is happy, counting the votes and reporting them back and giving the speaker their gift.
 
+For the first day, I worked the afternoon. The first talk I attended was Patterns for application development with ASP.NET Core by Damin Edwards adn David Fowler. It was a great first talk to attend. They were enthusiastic, really knew their topic and note only did I learn a lot but I was buzzig with excitement afterwards. Teh day continued in the same vein. I watched Scott Allen's talk on ASP.NET Core and then my first shift started. The first room I had to look after was room 5, and as such the first speaker I kept an eye out for was Mathew McLoughlin. Being nervous, I arrived a bit early but that was fine because it meant I got to talk to him a bit. This not only calmed my nerves about the volunteer work, but he told me a a lot about how he got into speaking.
+
+Another great thing about volunteering is that you end up seeing talks you might not otherwise have seen. I saw some great talks. That afternoon alone I heard more about data and Docker, caching, and about process involved in delivering projects.
+
 After the end of the first day, I went on the evening boat cruise on the Thames. 
 
 ![Boat Trip](http://i66.tinypic.com/2libxc1.jpg)
@@ -37,7 +41,7 @@ Aboard the Dixie Queen, a memorable night was had. Volunteers, speakers and atte
 
 Joking aside, I got to have a laugh with the volunteers, talked to some developers from Tombola about their stack, their experiences and the conference and have a casual drink with some of the speakers as well.
 
-It was surreal, and for my first big conference alone, it was teh perfect first night. Turned out everybody else was just another person wanting to learn, have a great time and have a bit too much to drink. Also, it was a boat on the Thames! It was beautiful (and cold).
+For my first big conference alone, it was the perfect first night. Turned out everybody else was just another person wanting to learn, have a great time and have a bit too much to drink. Also, it was a boat on the Thames! It was beautiful (and cold).
 
 After and eventful night, I was up again at 7am for another morning of volunteering at the conference. Did I mention I really, really love NDC? The range of talks, the people; it is all done right. I tried to do a mix of topics I would use at work and topics I had had no exposure to before. This has led to a strong interest in functional programming - we'll see where that leads.
 
