@@ -2,7 +2,7 @@
 layout: post
 title: "My First NDC"
 description: "Volunteering at NDC London 2017"
-date: 2016-11-12
+date: 2017-01-29
 tags: [conference, volunteer, volunteering]
 comments: true
 share: true
