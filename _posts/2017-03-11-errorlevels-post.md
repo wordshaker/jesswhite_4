@@ -12,9 +12,10 @@ share: true
 
 We are going to explore different levels of error, what they mean and when they should be used. Before we begin, there is a disclaimer: in my 
 opinion logging is very important - but so is avoiding noise. I prefer logs that have a purpose and are going to be used. If I can't use it or
-act on it at any time, it's not getting logged. This article is based off what I have learnt and my experience using logs as a developer. I'm 
-currently using these levels in C# using Serilog, so this is where they will probably most applicable but the concepts will be made as generic
- as possible.
+act on it at any time, it's not getting logged. 
+
+This article is based off what I have learnt and my experience using logs as a developer. I'm currently using these levels in C# using Serilog, 
+so this is where they will probably most applicable but the concepts will be made as generic as possible.
 
 ## Basic Error levels
 
@@ -49,14 +50,15 @@ It is for any problems that require immediate intervention.
 
 #### WARN
 
-This is for problems that do not require immediate intervention, but that may cause issues at some point or peculiarities. It provide information
+This is for problems that do not require immediate intervention, but that may cause issues or peculiarities at some point. It provide information
 but it isn't something to act upon. The application continues even if it's full behaviour isn't quite as expected.
 
-Personally, I wouldn't use this level of logging, as if it's not actionable, in my opinion people won't pay attention to it. Why not throw an error 
-where it would be a problem instead, or if possible, guard against the possibility of their being an issue. 
+Personally, I wouldn't use this level of logging, as if it's not actionable, people won't pay attention to it. Why not throw an error 
+where the problem occurs, or if possible, guard against the possibility of their being an issue. 
 
-It is used however. An example given in [2] is for logging bad login attempts for example. This could be used to assess problems in user exeperience.
-Something to consider is there are other tools that could be used for this purpose effectively.
+It is used however. An example given in [2](http://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels) is for logging bad login attempts. 
+This could be used to assess problems in user exeperience. Something to consider is there are other tools that could be used for this purpose effectively. Is logging 
+right for this use case?
 
 #### INFO
 
@@ -64,36 +66,34 @@ The information level of logging is generally used for things you want to know a
 log files is the right place for these details or not is another question. Yes, you can restrict your logs to a certain level and the detials at this level 
 can be useful - but does using info add too much noise to those precious logs we rely on?
 
-The details that could be logged at this level, but I tend to log as debug includes the elapsed time of inputs and outputs of a service. It will become clear
-why I chose to log these details at a debug level.
-
-Honestly, I haven't used this level of logging during my career so far. A lot of what could be used in this level of log I have logged as a debug, be
- it right or wrong.
+The details that could be logged at this level, I tend to log at Debug level. For example, I like to have the elapsed time of inputs and outputs of a service available in logs. 
+Why I chose to log these details at a Debug level instead of Information will be discussed in the next section. 
 
 #### DEBUG
 
-The Debug level is there to help diagnose issues. Again, some developers choose not to use this level of log at all, or filter it out choosing to avoif the noise.
+The Debug level is there to help diagnose issues. Again, some developers choose not to use this level of log at all, or filter it out, choosing to avoid the noise.
 In my experience, the debug level has been useful for logging certain information about the application. As mentioned in the information level section, I have seen 
-it used (and used it myself) for logging information such as the elapsed time of a request or storing something to a database. The reason we keep this is the logs is 
-so that we can use dashboards to assess performance and potentially work out issues or see signs that something is going wrong / slowly in a component. 
+it used (and used it myself) for logging information such as the elapsed time of a request or time of storing something to a database. The reason I keep this is the logs is 
+so that it can be used in dashboards to assess performance, potentially help work out issues or see signs that something is going wrong / slowly in a component. 
 
-Centralised logging and dashboards can be used to see early signs of issues such as performance issues. This is why we log such information here. Whether it should 
-be at the information level instead - I don't have an answer for. I see it being valid to put it in these section as developers will use such information to debug 
-components. 
+Centralised logging and dashboards can be used to see early signs of different types of issues and for fine tuning. This is why we log such information here. Whether it should 
+be at the information level instead - I don't have an answer for. It could be argued again that other tools can be used for such measurements and maybe it shouldn't be in logging at all.
+There are no fixed formula's for how to use these different logging levels. I find this useful, but there are alternative ways of tackling this issue.
 
-#### TRACE
+#### TRACE / VEBOSE
 
-The Trace level of logging is often used for very detailed level logging. For example it can be used to log user input. Often these logs do not live for long. They are
+The Trace or Verbose level of logging is often used for very detailed level logging. For example it can be used to log user input. Often these logs do not live for long. They are
 put in to fix an issue and then are removed. This is to reduce the amount of noise thrown into the logs. Its been mentioned many times, but you don't want to log something 
 you don't use as it will just cause fatigue and excess logging.
 
-Again, the Trace level is not a level of logging I personally have used much. I can definitely see how it could be useful if used with dicipline.
+Again, the Trace level is not a level of logging I personally have used much. I can definitely see how it could be useful if used with discipline.
 
 ### In conclusion..
 
 As mentioned throughout, how to use logging levels is not something that is completely concrete. In this article, I have explored my interpretation of
 what the levels mean and how to use them. This is from how I would use them in my job as a developer, but also from reading other peoples useage. Please send me any 
 resources on the topic, or experiences that you have found useful.
+
 
 <div style="align:center; width:300px; margin-left: 30%;" markdown="1">
 ![End](/assets/images/2017-03-11/end.gif)
