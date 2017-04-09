@@ -54,15 +54,15 @@ It is used however. An example given in [reference 2](http://stackoverflow.com/q
 
 #### INFO
 
-The information level of logging is generally used for things you want to know about but that don't actually effect your application. Now whether the log files is the right place for these details or not is another question. Yes, you can restrict your logs to a certain level and the detials at this level can be useful - but does using info add too much noise to those precious logs we rely on?
+The information level of logging is generally used for things you want to know about but that don't cause your application to crash. There is a lot of confusion between the difference between information and debug, the principle I work by is that if it information that would be informative in production, log it as information. There is a careful balance that needs to be acheived however. You want to avoid noise, but be informative. For example, if you receive a 500 from an api, log it. Maybe don't log all teh information corresponding to it. 
 
-The details that could be logged at this level, I tend to log at Debug level. For example, I like to have the elapsed time of inputs and outputs of a service available in logs. Why I chose to log these details at a Debug level instead of Information will be discussed in the next section. 
+The other thing to consider when logging to production is the content of the information. You do not want to log sensitive or identifying information about customers for instance. Internal ID's would be fine as you can track information without revealing anything you don't intend to. Logs are not a secure place for storage. 
+
+The information logs are also important in some systems as centralised logging can be used to build up monitoring. Logs and dashboards can be used to see early signs of different types of issues and for fine tuning. You can base your monitoring off centralised logging, and in a production system, the information logging would appropriate for this. It could be argued again that other tools can be used for such measurements. There are no fixed formula's for how to use these different logging levels. I find this useful, but there are alternative ways of tackling this issue.
 
 #### DEBUG
 
-The Debug level is there to help diagnose issues. Again, some developers choose not to use this level of log at all, or filter it out, choosing to avoid the noise. In my experience, the debug level has been useful for logging certain information about the application. As mentioned in the information level section, I have seen it used (and used it myself) for logging information such as the elapsed time of a request or time of storing something to a database. The reason I keep this in the logs is so that it can be used in dashboards to assess performance, potentially help work out issues or see signs that something is going wrong / slowly in a component. 
-
-Centralised logging and dashboards can be used to see early signs of different types of issues and for fine tuning. This is why we log such information here. Whether it should be at the information level instead - I don't have an answer for. It could be argued again that other tools can be used for such measurements and maybe it shouldn't be in logging at all. There are no fixed formula's for how to use these different logging levels. I find this useful, but there are alternative ways of tackling this issue.
+The Debug level is there to help diagnose issues. Again, some developers choose not to use this level of log at all, or filter it out. In my experience, the debug level has been useful for logging certain information about the application while fixing issues. I have seen it used (and used it myself) for logging information such as the elapsed time of a request or time of storing something to a database. The reason I keep this in the logs is so that it can be used in dashboards to assess performance, potentially help work out issues or see signs that something is going wrong / slowly in a component. 
 
 #### TRACE / VEBOSE
 
