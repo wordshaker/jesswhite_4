@@ -5,7 +5,7 @@ author:
   name:             Jessica White
   twitter:          JessPWhite
   github:           wordshaker
-  linkedin:         jessica-pattison-white-67917883
+  linkedin:         jessica-white-67917883
   email:            jess@womenintechnotts.co.uk
 
 # Google-analytics
@@ -31,14 +31,18 @@ kramdown:
 
 # Navigation
 nav:
+  - name:           "Blog"
+    url:            "/"    
+  - name:           "Abstracts"
+    url:            "/abstracts"        
   - name:           "About"
     url:            "/about"
+  - name:           "WiTNotts"
+    url:            "/witnotts"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/wordshaker"
 
 
 
