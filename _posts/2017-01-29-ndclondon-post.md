@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# My First NDC
-
 [NDC](http://ndc-london.com/) has been built up in my head as this awesome, magical conference ever since Moreton came back from it two years ago. Part of this was because he came back an excited kid, telling all these stories of the amazing time he had; part was because I thought it would be a long time before I could afford to go.
 
 Last year I learnt the amazing thing about being cheeky. The best thing that can happen is that you can have a grand adventure. The worst thing that could happen is that you hear the word "no". I reached out to the world and asked how I could go even though I was skint. Thanks to twitter (particularly [@khellang](https://twitter.com/khellang)) I was told about the possibilty of volunteering.

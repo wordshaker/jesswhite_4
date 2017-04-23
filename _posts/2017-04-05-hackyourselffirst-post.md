@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Hack Day - Security
-
 Our resident shady coder Jordan, organised an epic hack day at Oakbrook to teach us a thing or two about hacking and 
 security. For the first half of the day we were given a list of tools we could investigate. These were both to hack and 
 for helping to make apps more secure.

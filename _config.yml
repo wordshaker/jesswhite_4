@@ -41,10 +41,6 @@ nav:
     url:            "/witnotts"
   - name:           "Archive"
     url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
-
-
 
 # Sass
 sass:

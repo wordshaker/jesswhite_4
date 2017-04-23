@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Error! Error!
-
 We are going to explore different levels of error, what they mean and when they should be used. Before we begin, there is a disclaimer: in my opinion logging is very important - but so is avoiding noise. I prefer logs that have a purpose and are going to be used. If I can't use it or
 act on it at any time, it's not getting logged. 
 
