@@ -5,7 +5,9 @@ permalink: /witnotts/
 
 #### Women In Tech Nottingham
 
-Women In Tech Nottingham (WiT) is a monthly meetup for women from all area’s of technology (developers, testers, product owners, project managers, CTOs etc.) and those with an emerging interest in technology. 
+Founded in April 2016 by Jessica, Women In Tech Nottingham (WiTNotts) has grown leaps and bounds over the last year. [Helen](https://littlehelli.com/) has been recruited as an organiser, we have had two winning hack teams, have raised money for Code Club through events, helped schools and volunteer organisations connect with the tech community and much, much more.
+
+It is a monthly meetup for women from all area’s of technology (developers, testers, product owners, project managers, CTOs etc.) and those with an emerging interest in technology. 
 
 WiT aims to provide attendees with a space where they can network, mingle, share ideas and learn in a comfortable setting. We want to encourage women to take part in the tech community as attendees and lead them themselves.! The set-up varies between talks, fireside chats, workshops and socials.
 
