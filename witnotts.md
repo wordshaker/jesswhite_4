@@ -5,14 +5,17 @@ permalink: /witnotts/
 
 #### Women In Tech Nottingham
 
-Founded in April 2016 by Jessica, Women In Tech Nottingham (WiTNotts) has grown leaps and bounds over the last year. [Helen](https://littlehelli.com/) has been recruited as an organiser, we have had two winning hack teams, have raised money for Code Club through events, helped schools and volunteer organisations connect with the tech community and much, much more.
+Founded in April 2016 by Jessica, Women In Tech Nottingham (WiTNotts) has grown leaps and bounds over the last year. During the time of her involvment WiTNotts has had two winning hack teams, has raised money for Code Club through events, helped schools and volunteer organisations connect with the tech community and much, much more.
 
-It is a monthly meetup for women from all area’s of technology (developers, testers, product owners, project managers, CTOs etc.) and those with an emerging interest in technology. 
+As of July 2017, the organisation has been fully handed over to [Helen Clark](https://littlehelli.com/). Jessica still fully supports the event and will go on promoting it from the sidelines.
 
-WiT aims to provide attendees with a space where they can network, mingle, share ideas and learn in a comfortable setting. We want to encourage women to take part in the tech community as attendees and lead them themselves.! The set-up varies between talks, fireside chats, workshops and socials.
+WiTNotts is a fully inclusive monthly meetup promoting women from all area’s of technology (developers, testers, product owners, project managers, CTOs etc.) and those with an emerging interest in technology. 
 
-As the aim celebrating the women in our industry, and not aiming to exclude, the event has a “Bring a Bloke” scheme, meaning each female attendee can bring one male friend if they want to attend. 
+WiT aims to:
 
+* Build a community & promote inclusivity
+* Celebrate female speakers
+* Be a gateway to other events
 
 <div style="text-align:center" markdown="1">
 
@@ -32,12 +35,6 @@ As the aim celebrating the women in our industry, and not aiming to exclude, the
 <span class="fa-stack fa-lg">
   <i class="fa fa-square-o fa-stack-2x"></i>
   <i class="fa fa-linkedin fa-stack-1x"></i>
-</span>
-</a>
-<a href="https://www.facebook.com/WITNottingham/">
-<span class="fa-stack fa-lg">
-  <i class="fa fa-square-o fa-stack-2x"></i>
-  <i class="fa fa-facebook fa-stack-1x"></i>
 </span>
 </a>
 
