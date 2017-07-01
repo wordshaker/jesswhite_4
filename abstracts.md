@@ -8,11 +8,10 @@ I like to practice what I preach, and I often preach about contributing to the t
 There are a range of topics I'm happy to talk about. Get in contact if there is anything in particular you have in mind, I'm open to suggestions. Here are a few suggestions of areas:
 
 + Monitoring / Alerting / Logging
-+ Testing
-+ Imposter syndrome
-+ Community building / attending hackathons
++ Community building
++ Attending hackathons
 + Starting and running a tech event
-+ Writing and preparing a talk
++ Imposter syndrome
 
 Below are some of the abstracts I have made previously. 
 
