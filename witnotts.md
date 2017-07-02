@@ -5,7 +5,7 @@ permalink: /witnotts/
 
 #### Women In Tech Nottingham
 
-Founded in April 2016 by Jessica, Women In Tech Nottingham (WiTNotts) has grown leaps and bounds over the last year. During the time of her involvment WiTNotts has had two winning hack teams, has raised money for Code Club through events, helped schools and volunteer organisations connect with the tech community and much, much more.
+Founded in April 2016 by Jessica, [Women In Tech Nottingham](http://www.womenintechnotts.co.uk/) (WiTNotts) has grown leaps and bounds over the last year. During the time of her involvment WiTNotts has had two winning hack teams, has raised money for Code Club through events, helped schools and volunteer organisations connect with the tech community and much, much more.
 
 As of July 2017, the organisation has been fully handed over to [Helen Clark](https://littlehelli.com/). Jessica still fully supports the event and will go on promoting it from the sidelines.
 
