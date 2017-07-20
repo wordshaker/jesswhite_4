@@ -4,7 +4,7 @@ title: "My First NDC"
 description: "Volunteering at NDC London 2017"
 date: 2017-01-29
 tags: [conference, volunteer, volunteering]
-comments: true
+comments: false
 share: true
 ---
 

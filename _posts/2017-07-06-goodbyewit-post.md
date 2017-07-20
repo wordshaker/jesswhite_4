@@ -4,7 +4,7 @@ title: "Goodbye WIT & Thank You"
 description: "A farewell and best luck to the future"
 date: 2017-07-06
 tags: [wit, witnotts, meetup, organising]
-comments: true
+comments: false
 share: true
 ---
 

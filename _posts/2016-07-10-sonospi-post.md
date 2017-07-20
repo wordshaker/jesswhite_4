@@ -4,7 +4,7 @@ title: "Sonos Pi Project"
 description: "For alerting on sonos based on datadog events"
 date: 2016-07-10
 tags: [project, js]
-comments: true
+comments: false
 share: true
 ---
 

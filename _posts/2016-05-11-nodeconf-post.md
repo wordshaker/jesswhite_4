@@ -4,7 +4,7 @@ title: "NodeConf London"
 description: "NodeConf London London 2016"
 date: 2016-05-11
 tags: [conference, js, attended]
-comments: true
+comments: false
 share: true
 ---
 

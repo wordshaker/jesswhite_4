@@ -4,7 +4,7 @@ title: "Be A Great Engineer - WITConf, University of Birmingham"
 description: "My talk at the Women In Tech Conference 2.0 at The University of Birmingham"
 date: 2016-11-12
 tags: [wit, conference, presented]
-comments: true
+comments: false
 share: true
 ---
 

@@ -4,7 +4,7 @@ title: "Microservices Day "
 description: "Microservices Day London 2016"
 date: 2016-05-10
 tags: [conference, js, attended]
-comments: true
+comments: false
 share: true
 ---
 

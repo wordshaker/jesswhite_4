@@ -4,7 +4,7 @@ title: "Hack Yourself First Day"
 description: "An Oakbrook hack day to learn about security"
 date: 2017-04-05
 tags: [article]
-comments: true
+comments: false
 share: true
 ---
 
