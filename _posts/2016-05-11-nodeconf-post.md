@@ -29,19 +29,19 @@ All of the talks should be watched and are available on [Youtube](https://www.yo
 ##### [Nikhila Ravi](href="https://www.youtube.com/watch?v=SwJUH3Le91s) - Server-less architecture in the wild:
 An insightful and intelligent talk going through using a "serveless" architecture. This talk includes demonstrating the creation of a "serverless jukebox" including a live demonstration of the work available on Github.
 
-##### [Christian Heilmann](https://www.youtube.com/watch?v=jHTSCXQ3-hU) - Making ES6 happen with ChakraCore and Node:</a></b>
+##### [Christian Heilmann](https://www.youtube.com/watch?v=jHTSCXQ3-hU) - Making ES6 happen with ChakraCore and Node:
 This talk is not only enlightening but halarious. Christian Heilman is a highly entertaining speaker who is clearly knowledgable and passionate about what he is talking about. Even as a JS newbie I could follow what he was talking about and instantly started looking into ChakraCore as soon as I got home.
 
-##### [Kassandra Perch](https://www.youtube.com/watch?v=edYnouynBxg) - Robots, code and people:</a></b>
+##### [Kassandra Perch](https://www.youtube.com/watch?v=edYnouynBxg) - Robots, code and people:
 Not the most technical talk of the lot - but Kassandra spoke to things we all recognise with awesome quotes and energy. She explores why we code, and the importance of the want for learning and the enjoyment of projects. She then goes on to talk about the importance of creating a space that's inclusive to everyone in order to   not destroying the potential to learn and make new and great things.
 
-##### [Andrew Martin](https://www.youtube.com/watch?v=vOMcJ3kRMVo) - Avoiding release paralysis:</a></b>
+##### [Andrew Martin](https://www.youtube.com/watch?v=vOMcJ3kRMVo) - Avoiding release paralysis:
 Want to learn about free technologies to help you with Continuous Integration, Continuous Delivery and Continuous Deployment? Then this is the talk you need to watch. Also it's giphy-tastic.
 
-##### [Luca Maraschi](https://www.youtube.com/watch?v=TK7eeL3RQ4M) - SWIMming in the microservices ocean:</a></b>
+##### [Luca Maraschi](https://www.youtube.com/watch?v=TK7eeL3RQ4M) - SWIMming in the microservices ocean:
 Considering this talk was finished less than an hour before it was delivered, it was well presented and the content interesting. Want to know more about how companies like Uber operate? Watch this talk for a few insights..
 
-##### [Matt Clark](https://www.youtube.com/watch?v=pxmXiKlh5OU) - Node.js thats hugely reliable, fast, and scalable:</a></b>
+##### [Matt Clark](https://www.youtube.com/watch?v=pxmXiKlh5OU) - Node.js thats hugely reliable, fast, and scalable:
 Lessons learned from the BBC about producing fast, reliable and scalable Node apps. These principles also relate highly to working in a microservices style architecture. This talk is a great insight into the workings of certain BBC sites, but also how to avoid potential dangers while developing Node apps.
 
 ## Overview
