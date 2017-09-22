@@ -1,74 +1,25 @@
-# Basic
-name:               "Jessica White"
+title: Jessica White - Blog
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-author:
-  name:             Jessica White
-  twitter:          JessPWhite
-  github:           wordshaker
-  linkedin:         jessica-white-67917883
-  email:            me@jesswhite.co.uk
+# Author Settings
+author: Jessica White # add your name
+author-img: jess-white.jpg # add your photo
+about-author: I am a developer focusing on back-end development with a passion for monitoring. Always hungry to keep learning. Founder of Women In Tech Nottingham
+twitter: JessPWhite
+speakerbase: jessica-white
+github: wordshaker
+linkedin: jessica-white-67917883
+email: me@jesswhite.co.uk
 
-site:
-  url:                "http://www.jesswhite.co.uk" # the base hostname & protocol for your site
-  baseurl:            "http://jesswhite.co.uk" # the subpath of your site, e.g. /blog
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
 
-# Google-analytics
-google-analytics:
-  id:               ""
-  
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           GMT
-permalink:          /:year-:month-:day/:title/
-
-# Pagination
-paginate:           10
-paginate_path:      /page:num/
-
-# Markdown
-markdown:           kramdown
-kramdown:
-  imput:            GFM
-
-# Navigation
-nav:
-  - name:           "Blog"
-    url:            "/"    
-  - name:           "Abstracts"
-    url:            "/abstracts"        
-  - name:           "About"
-    url:            "/about"
-  - name:           "WiTNotts"
-    url:            "/witnotts"
-  - name:           "Archive"
-    url:            "/archive"
-
-# Sass
-sass:
-  sass_dir:         _sass
-  style:            :compressed
-
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
-
-future: true
-
-# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-gems:
-  - jekyll-seo-tag
-  - jekyll-paginate
-
-exclude:            [vendor]
-
-environment: production
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

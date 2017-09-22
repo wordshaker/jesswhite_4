@@ -3,6 +3,7 @@ layout: post
 title: "Sonos Pi Project"
 description: "For alerting on sonos based on datadog events"
 date: 2016-07-10
+img: sonos-pi.jpg
 tags: [project, js]
 comments: false
 share: true
@@ -11,8 +12,8 @@ share: true
 ## About
 This was a joint project between myself and my partner Moreton as our first attempt at using a RaspberryPi and test driving a Node.JS project. We both wanted to learn node and when I came up with the project idea as a piece of fun to help out the place I work at; it seemed like the perfect opportunity to learn Node.
 
-<div style="text-align:center; margin-left: 30%" markdown="1">
-![Pi](/assets/images/2016-07-10/piOne.jpg)
+<div style="text-align:center;" markdown="1">
+![Pi](../assets/img/2016-07-10/piOne.jpg)
 </div>
 
 ### Iteration One

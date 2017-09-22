@@ -3,6 +3,7 @@ layout: post
 title: "Error! Error!"
 description: "Getting your error levels right - An assessment of error levels and what they mean"
 date: 2017-03-11
+img: err.jpg
 tags: [article, monitoring, alerting, errors]
 comments: false
 share: true
@@ -34,7 +35,7 @@ But what do these mean and when should you use them? For consistent and effectiv
 THE WORLD IS ENDING! This is for the worst of the very worst situation. This is for situations which force the application to close. As such their use should be very rare, if used at all. 
 
 <div style="align:center; width:300px; margin-left: 30%;" markdown="1">
-![Fatal](/assets/images/2017-03-11/fatal.gif)
+![Fatal](../assets/img//2017-03-11/fatal.gif)
 </div>
 
 #### ERROR
@@ -74,7 +75,7 @@ As mentioned throughout, how to use logging levels is not something that is comp
 
 
 <div style="align:center; width:300px; margin-left: 30%;" markdown="1">
-![End](/assets/images/2017-03-11/end.gif)
+![End](../assets/img/2017-03-11/end.gif)
 </div>
 
 ### References

@@ -3,6 +3,7 @@ layout: post
 title: "Hack Yourself First Day"
 description: "An Oakbrook hack day to learn about security"
 date: 2017-04-05
+img: hack-yersen.jpg
 tags: [article]
 comments: false
 share: true
@@ -13,7 +14,7 @@ security. For the first half of the day we were given a list of tools we could i
 for helping to make apps more secure.
 
 <div style="align:center; width:80%; margin-left: 8%;" markdown="1">
-![Hack](/assets/images/2017-04-05/hacker.jpg)
+![Hack](../assets/img/2017-04-05/hacker.jpg)
 </div>
 
 The second half of the day, we played capture the flag. Jordan hosted two versions of [Troy Hunts](https://www.troyhunt.com/) [Hack Yourself First](https://hackyourselffirst.troyhunt.com/) website with a nifty scoreboard of vulnerabilities. We were split into 2 teams, and 

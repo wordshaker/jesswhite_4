@@ -3,6 +3,7 @@ layout: post
 title: "Goodbye WIT & Thank You"
 description: "A farewell and best luck to the future"
 date: 2017-07-06
+img: bye-wit.jpg
 tags: [wit, witnotts, meetup, organising]
 comments: false
 share: true
@@ -17,7 +18,7 @@ In the following 15 months I hope I have met most of the hopes written on those 
 The whole experience has been an adventure. I have been involved in things I never could have dreamed, met amazing people and even grown personally. 
 
 <div style="align:center; width:50%; margin-left: 20%;" markdown="1">
-[![Youtube Video](/assets/images/2017-07-06/youtube.JPG)](https://www.youtube.com/watch?v=KBAMsqBzViI "About Women In Tech Nottingham")
+[![Youtube Video](../assets/img/2017-07-06/youtube.JPG)](https://www.youtube.com/watch?v=KBAMsqBzViI "About Women In Tech Nottingham")
 </div>
 
 **To the members of WiTNotts:**
@@ -77,5 +78,5 @@ Never forget to be excellent to each other, and party on.
 
 
 <div style="align:center; width:50%; margin-left: 20%;" markdown="1">
-![Be Excellent](/assets/images/2017-07-06/billandted.gif)
+![Be Excellent](../assets/img/2017-07-06/billandted.gif)
 </div>
