@@ -1,6 +1,6 @@
 title: Jessica White - Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Jessica White's blog. Includes write ups of hacks visited, tech tried out
+  Welcome to my blog! Includes write ups of hacks & conferences attended, tech tried out
   and general musings.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
