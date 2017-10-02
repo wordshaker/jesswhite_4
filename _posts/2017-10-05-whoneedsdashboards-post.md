@@ -10,3 +10,10 @@ share: true
 ---
 
 > An overview on the different forms of dashboards, what they are useful for and for whom.
+
+
+#### References
+
+1. [Zen and the Art of Systems Monitoring](https://www.scalyr.com/community/guides/zen-and-the-art-of-system-monitoring)
+
+2. [6 Golden Rules to Successful Dashboard Design](https://www.geckoboard.com/blog/building-great-dashboards-6-golden-rules-to-successful-dashboard-design/#.WdKS62hSyUl)
