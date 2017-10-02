@@ -3,7 +3,7 @@ layout: post
 title: "NodeConf London"
 description: "NodeConf London London 2016"
 date: 2016-05-11
-img: nodeconf.jpg
+img: ./2016-05-11/nodeconf.jpg
 tags: [conference, js, attended]
 comments: false
 share: true
