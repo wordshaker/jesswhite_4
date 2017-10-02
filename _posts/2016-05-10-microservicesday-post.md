@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microservices Day "
+title: "Microservices Day"
 description: "Microservices Day London 2016"
 date: 2016-05-10
 img: ./2016-05-10/micro-day.jpg
