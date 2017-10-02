@@ -3,7 +3,7 @@ layout: post
 title: "Microservices Day "
 description: "Microservices Day London 2016"
 date: 2016-05-10
-img: micro-day.jpg # Add image post (optional)
+img: ./2016-05-10/micro-day.jpg
 tags: [conference, js, attended]
 comments: false
 share: true
