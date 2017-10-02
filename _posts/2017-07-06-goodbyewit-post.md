@@ -3,7 +3,7 @@ layout: post
 title: "Goodbye WIT & Thank You"
 description: "A farewell and best luck to the future"
 date: 2017-07-06
-img: bye-wit.jpg
+img: ./2017-07-06/bye-wit.jpg
 tags: [wit, witnotts, meetup, organising]
 comments: false
 share: true
