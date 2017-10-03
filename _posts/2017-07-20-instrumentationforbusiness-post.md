@@ -21,7 +21,7 @@ _For monitoring the health of a system_
 <br/>
 The health of a system refers to what is up, down and what errors are being thrown. This is most useful for developers. It can be used for diagnostics and for seeing what they need to fix, where and if there are effects downstream. This is especially powerful in combination with operational dashboards.
 
-It can also be used to monitor the health of third parties. A certain endpoint becoming unavailable can result in a number of problems. For example, in terms of a customer’s experience of a website, the customer may be shown an error screen or a long loading time. 
+It can also be used to monitor the health of third parties. A certain endpoint becoming unavailable can result in a number of problems. For example, in terms of a customer's experience of a website, the customer may be shown an error screen or a long loading time. 
 
 _Measuring operational information_
 <br/>
@@ -86,19 +86,19 @@ Once gained, the product owner included acceptance criteria for instrumentation 
 
 This process has been followed for a couple of projects now. In our case, it has worked very well.
 
-The first project was a backend feature integrating with a third party. The dashboard was shared with development and another department. It enabled both teams not only to spot bugs easily but also react to unusual behaviour. Further, we could answer questions about response times with the third parties.
+The first project was a back-end feature integrating with a third party. The dashboard was shared with development and another department. It enabled both teams not only to spot bugs easily but also react to unusual behaviour. Further, we could answer questions about response times with the third parties.
 
 By driving our dashboards through business need, they are evolving in a way that benefits developers and stakeholders. They are being viewed by those who need to see them and they have information that is useful to both parties. Instrumentation is no longer a second class citizen and is being utilised again. Another useful benefit is that this has lead to greater transparency across departments and has given us a unified view of the products we are delivering. This in turn has lead to improved collaboration all round.
 
 By no means do I think this is the right solution for all business'. Indeed I believe there is still a lot to learn and room for improvement in our implementation. Nonetheless, it has been undeniably useful in this case.
 
-There have been some challenges with this approach. First of all was getting the buy in from the business and getting the other teams to see how dashboards could be useful to them. Honestly, I still don’t think we utilise the full power yet.
+There have been some challenges with this approach. First of all was getting the buy in from the business and getting the other teams to see how dashboards could be useful to them. Honestly, I still don't think we utilise the full power yet.
 
 There is also the downside that it takes developer time to put this instrumentation in place. Though it is minimal per story, and has led to us avoiding some problems we would have missed otherwise, it does add up over time. But I would argue this has been more than saved by the sheer number of live issues or bugs averted.
 
-One other issue we are yet to solve is how long a dashboard is important enough to us that we need it on our screens every day. There are screens around the office with important information. Finding the balance for how long the dashboard needs to be on our main screens after the initial release is still a balance we are reaching. Until it’s stable? But how long is that? Currently the screen changes when the next big release goes out, but it is still too early to say if this is right.
+One other issue we are yet to solve is how long a dashboard is important enough to us that we need it on our screens every day. There are screens around the office with important information. Finding the balance for how long the dashboard needs to be on our main screens after the initial release is still a balance we are reaching. Until it's stable? But how long is that? Currently the screen changes when the next big release goes out, but it is still too early to say if this is right.
 
-Having project focused dashboards has proved useful on initial release and for debugging off the back of an alert. Even when the dashboards aren’t on the main screens, they are easily reachable. Instrumentation is incredibly useful for spotting where in the system something has gone wrong, whether an alert is actually due to a upstream problem and therefore where you should focus your investigation.
+Having project focused dashboards has proved useful on initial release and for debugging off the back of an alert. Even when the dashboards aren't on the main screens, they are easily reachable. Instrumentation is incredibly useful for spotting where in the system something has gone wrong, whether an alert is actually due to a upstream problem and therefore where you should focus your investigation.
 
 Further, we have had work produced off the back of having business driven dashboards. So far two departments in particular have embraced this approach to instrumentation and have based work off the back of patterns they have seen through metrics they have helped to drive.
 
@@ -108,4 +108,4 @@ These dashboards have been built using existing software, and as we move to usin
 
 The aim is to eventually build team specific dashboards as well as feature specific dashboards. For example, it would be great if the sales or customer service teams had a dashboard they could understand that shows when certain features of the website goes down. They could then be trained on how to respond when these outages occur.
 
-There are many ways in which this work could develop and grow. It’s an area I could discuss at length and that’s exactly what I’m going to do in a future blog post...
+There are many ways in which this work could develop and grow. It's an area I could discuss at length and that's exactly what I’m going to do in a future blog post...
