@@ -30,7 +30,7 @@ All of the talks should be watched and are available on [Youtube](https://www.yo
 An insightful and intelligent talk going through using a "serveless" architecture. This talk includes demonstrating the creation of a "serverless jukebox" including a live demonstration of the work available on Github.
 
 ##### [Christian Heilmann](https://www.youtube.com/watch?v=jHTSCXQ3-hU) - Making ES6 happen with ChakraCore and Node:
-This talk is not only enlightening but halarious. Christian Heilman is a highly entertaining speaker who is clearly knowledgable and passionate about what he is talking about. Even as a JS newbie I could follow what he was talking about and instantly started looking into ChakraCore as soon as I got home.
+This talk is not only enlightening but hilarious. Christian Heilman is a highly entertaining speaker who is clearly knowledgeable and passionate about what he is talking about. Even as a JS newbie I could follow what he was talking about and instantly started looking into ChakraCore as soon as I got home.
 
 ##### [Kassandra Perch](https://www.youtube.com/watch?v=edYnouynBxg) - Robots, code and people:
 Not the most technical talk of the lot - but Kassandra spoke to things we all recognise with awesome quotes and energy. She explores why we code, and the importance of the want for learning and the enjoyment of projects. She then goes on to talk about the importance of creating a space that's inclusive to everyone in order to   not destroying the potential to learn and make new and great things.
@@ -49,6 +49,6 @@ The content of NodeConf London was incredibly high quality, and those involved i
 
 There were some set themes to the talks. Microservices, Docker, high-quality testing were all frequently mentioned as important for creating production quality Node apps. I left feeling inspired to investigate numerous things including Server-less architectures, how other companies use Docker in production in greater detail and using Blue-Green architectures to assist in testing on live environments with minimal risk.
 
-Sadly, despite the fantastic Code of Conduct - there was a bit of .NET bashing, which as a .NET dev I thought was sad. My interest in Node is recent but I also love working wiht C# and would hate to think I can't like both. It was also a shame that thought there was a diverse range of speakers, the panel at the end of the event were all men giving their answers. It would have been nice to have seen more diversity there, and to see if there were any difference in opinion to some fo the quesitons asked.
+Sadly, despite the fantastic Code of Conduct - there was a bit of .NET bashing, which as a .NET dev I thought was sad. My interest in Node is recent but I also love working with C# and would hate to think I can't like both. It was also a shame that thought there was a diverse range of speakers, the panel at the end of the event were all men giving their answers. It would have been nice to have seen more diversity there, and to see if there were any difference in opinion to some fo the questions asked.
 
 Overall, NodeConf is a great conference. I encourage everyone to keep an eye out on Nearforms future events. 
