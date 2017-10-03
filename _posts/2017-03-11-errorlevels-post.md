@@ -49,11 +49,11 @@ This is for problems that do not require immediate intervention, but that may ca
 
 Personally, I wouldn't use this level of logging, as if it's not actionable, people won't pay attention to it. Why not throw an error where the problem occurs, or if possible, guard against the possibility of their being an issue. 
 
-It is used however. An example given in [reference 2](http://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels) is for logging bad login attempts. This could be used to assess problems in user exeperience. Something to consider is there are other tools that could be used for this purpose effectively. Is logging right for this use case?
+It is used however. An example given in [reference 2](http://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels) is for logging bad login attempts. This could be used to assess problems in user experience. Something to consider is there are other tools that could be used for this purpose effectively. Is logging right for this use case?
 
 #### INFO
 
-The information level of logging is generally used for things you want to know about but that don't cause your application to crash. There is a lot of confusion between the difference between information and debug, the principle I work by is that if it information that would be informative in production, log it as information. There is a careful balance that needs to be acheived however. You want to avoid noise, but be informative. For example, if you receive a 500 from an api, log it. Maybe don't log all teh information corresponding to it. 
+The information level of logging is generally used for things you want to know about but that don't cause your application to crash. There is a lot of confusion between the difference between information and debug, the principle I work by is that if it information that would be informative in production, log it as information. There is a careful balance that needs to be achieved however. You want to avoid noise, but be informative. For example, if you receive a 500 from an api, log it. Maybe don't log all teh information corresponding to it. 
 
 The other thing to consider when logging to production is the content of the information. You do not want to log sensitive or identifying information about customers for instance. Internal ID's would be fine as you can track information without revealing anything you don't intend to. Logs are not a secure place for storage. 
 
@@ -63,7 +63,7 @@ The information logs are also important in some systems as centralised logging c
 
 The Debug level is there to help diagnose issues. Again, some developers choose not to use this level of log at all, or filter it out. In my experience, the debug level has been useful for logging certain information about the application while fixing issues. I have seen it used (and used it myself) for logging information such as the elapsed time of a request or time of storing something to a database. The reason I keep this in the logs is so that it can be used in dashboards to assess performance, potentially help work out issues or see signs that something is going wrong / slowly in a component. 
 
-#### TRACE / VEBOSE
+#### TRACE / VERBOSE
 
 The Trace or Verbose level of logging is often used for very detailed level logging. For example it can be used to log user input. Often these logs do not live for long. They are put in to fix an issue and then are removed. This is to reduce the amount of noise thrown into the logs. Its been mentioned many times, but you don't want to log something you don't use as it will just cause fatigue and excess logging.
 
@@ -71,7 +71,7 @@ Again, the Trace level is not a level of logging I personally have used much. I 
 
 ### In conclusion..
 
-As mentioned throughout, how to use logging levels is not something that is completely concrete. In this article, I have explored my interpretation of what the levels mean and how to use them. This is from how I would use them in my job as a developer, but also from reading other peoples useage. Please send me any resources on the topic, or experiences that you have found useful.
+As mentioned throughout, how to use logging levels is not something that is completely concrete. In this article, I have explored my interpretation of what the levels mean and how to use them. This is from how I would use them in my job as a developer, but also from reading other peoples usage. Please send me any resources on the topic, or experiences that you have found useful.
 
 
 <div style="align:center; width:300px; margin-left: 30%;" markdown="1">
