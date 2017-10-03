@@ -23,7 +23,7 @@ The whole experience has been an adventure. I have been involved in things I nev
 
 **To the members of WiTNotts:**
 
-Thank you for the adventure. Without your support Women In Tech Nottingham would never have become what it is. I will still be attending the event, though I will not be organising anymore. 
+Thank you for the adventure. Without your support Women In Tech Nottingham would never have become what it is. I will still be attending the event, though I will not be organising any more. 
 
 I have enjoyed getting you know all, and hearing about all the amazing things you've been getting up to. I hope that we remain friends.
 
@@ -62,11 +62,11 @@ Before Women in Tech I was a rather introverted student who had some exposure to
 
 Since then, though I am still very nervous about public speaking, I think I am getting better at speaking in front of crowds. Talking to strangers and getting to know them is now enjoyable. Finally I have learnt more about the amazing community in technology.
 
-The meetup has helped me mature, has taught me a lot about organisation and the many intracies in managing an organisation at a small scale. 
+The meetup has helped me mature, has taught me a lot about organisation and the many intricacies in managing an organisation at a small scale. 
 
 **Looking to the future**
 
-[Helen Clark](https://twitter.com/LittleHelli) is going to continue the Women In Tech legacy. Now that the meetup is partnering with [Tech Nottingham](http://www.technottingham.com/) I'm looking forward to it growing and doing great things. I only ever intended to run the meetup for 12 months. For it to truely represent our community, it needed to be taken over by a new person. I love Women In Tech Nottingham, but I am far to close to it. It is time for change.
+[Helen Clark](https://twitter.com/LittleHelli) is going to continue the Women In Tech legacy. Now that the meetup is partnering with [Tech Nottingham](http://www.technottingham.com/) I'm looking forward to it growing and doing great things. I only ever intended to run the meetup for 12 months. For it to truly represent our community, it needed to be taken over by a new person. I love Women In Tech Nottingham, but I am far to close to it. It is time for change.
 
 The merging of brands between the meetup and conference is also a great thing. Saves a lot of confusion and I really think both organisations can help each other. It's going to be a fantastic mutual partnership.
 
