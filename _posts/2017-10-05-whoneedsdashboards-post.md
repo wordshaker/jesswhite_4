@@ -61,11 +61,22 @@ Good rules for these kinds of Keep it simple. Keep it high level. Keep it focuse
 
 ### Operational and Development Dashboards
 
+These dashboards tend to have a more diagnostic purpose. They can be built for the purpose of answering a wide range of questions including:
+
+* What is the health of the system?
+* Could it be better? (performance / stability) 
+* If it's unhealthy, why is it broken? 
+* Where is the system most fragile?
+
+ 
+
 #### Operational information
 
 #### Development information
 
 #### Who needs them?
+
+#### So Who Needs Dashboards?
 
 
 ### Reading
