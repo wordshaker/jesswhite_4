@@ -15,7 +15,7 @@ There are a lot of common questions around dashboards including how long they sh
 
 Dashboards are beautiful and powerful tools. They come in many forms, each with their own strengths, purpose and evolution. There is a bit of overlap on these categories and how they are used, which will be covered.
 
-The information in this post uses a cumulation of my own experience (I have been involved in the development of developer, MI and BI dashboards), talking to those with more experience than myself and extensive reading.
+The information in this post uses a accumulation of my own experience (I have been involved in the development of developer, MI and BI dashboards), talking to those with more experience than myself and extensive reading.
 
 ### MI and BI Dashboards
 
@@ -28,20 +28,18 @@ BI (aka Business Intelligence) dashboards show data that can be used to inform b
 
 > Insert metrics here
 
-These types of boards are principally aimed to assist executives, managers and other corporate stakeholders.
-
-> Upper management can use BI dashboards to help structure future business plans.
+> Business Intelligence dashboards are principally aimed to assist executives, managers and other corporate stakeholders. They provide a quick overview of the business' current performance to a high level and helps for planning future goals and work.
 
 MI (Management Information) contains information that can be used to measure the health of the business financially. This can include monitoring of sales, losses or attendance. These are the statistics that cause the results shown on the BI dashboard. Examples of data can include:
 
-* Generated leads
-* Money gained from each integrated third party
-* Number of users or monetary gain for each type of product
-* Results from marketing release or AB test
+* Generated leads.
+* Money gained from each integrated third party.
+* Number of users or monetary gain for each type of product.
+* Results from marketing release or AB test.
 * Losses - temporary or permanent.
 * Reported performance of competitors.
 
-> Departments such as sales, finance and risk can use MI dashboards to guide the priority of  current work, help to plan future work and to monitor performance of recent releases.
+> Departments such as sales, finance and risk can use MI dashboards to guide the priority of current work, help to plan future work and to monitor performance of recent releases.
 
 Both of these types have their own uses and are equally brilliant. They can also be combined to be of interest to a wider audience and have added uses! Not unlike a very cool transformer. By having a combined BI/MI dashboard the company can have a united vision on what the company is trying to achieve. This may be a financial goal, a number or users or something completely different. No matter what it is, the work employees do are normally guided in some way to achieve this goal. By showing this progress in a easy to understand format, everyone in the company can see the companies health, it's progress and how likely they are to get their bonus if its tied to performance.
 
