@@ -36,23 +36,31 @@ These types of boards are principally aimed to assist executives, managers and o
 
 As I am not the primary audience for this kind of dashboard, I talked to a couple of people heading up companies.  These people use dashboards already, so I enquired to what information is important to them, but also in board meetings. 
 
+> Add Notes From Discussion with Michael etc.
 
-MI (Management Information) contains information that can be used to measure the health of the business financially. This can include monitoring of sales, losses or attendance. These are the statistics that cause the results shown on the BI dashboard. Examples of data can include:
+The other high level type of dashboard is the Management Information (MI) dashboard. These contains information that can be used to measure the health of the business financially. They may include monitoring of sales, losses or attendance. It can also cover how well a company is managing their costs while trying to increase their revenue. These are the statistics that cause the results shown on the BI dashboard. This cost / profit balance is crucial to all companies. Get it wrong, and the company won't exist for long. Examples of data can include:
 
 * Generated leads
 * Money gained from each integrated third party
-* Number of users or monetary gain for each type of product
+* Number of users or monetary gain for each type of product.
 * Results from marketing release or AB test
 * Losses - temporary or permanent.
+* Cost of resource. This could be departmental costs from software required to salaries paid out.
 * Reported performance of competitors.
 
-> Departments such as sales, finance and risk can use MI dashboards to guide the priority of  current work, help to plan future work and to monitor performance of recent releases.
+> Departments such as marketing, finance and risk can use MI dashboards to guide the priority of  current work, help to plan future work and to monitor performance of recent releases.
 
-Both of these types have their own uses and are equally brilliant. They can also be combined to be of interest to a wider audience and have added uses! Not unlike a very cool transformer. By having a combined BI/MI dashboard the company can have a united vision on what the company is trying to achieve. This may be a financial goal, a number or users or something completely different. No matter what it is, the work employees do are normally guided in some way to achieve this goal. By showing this progress in a easy to understand format, everyone in the company can see the companies health, it's progress and how likely they are to get their bonus if its tied to performance.
+So why do marketing, finance and risk care about these dashboards? Numerous reasons. First of all it is a really accessible way to see a lot of information. Marketing may have a number of initiatives happening at one time and by using a dashboard they can see which initiatives appear to be having the biggest impact without sifting through excel sheets of numbers. Dashboards also make it easier to communicate what is going on to other areas of the business. When discussing the metrics that effect BI, a stakeholder can be shown a dashboard, or be provided access to one. It enables them to see what is going on without much explanation and can start needed conversations earlier. Even by having a high level dashboard of number of customers, the type of product they are using, the business outgoings and incomings, and competitor performance can not only help demonstrate the impact of the team, but direct their upcoming focuses. 
+
+_What happens when you combine the two?_
+
+Both of these types have their own uses and strengths. By combining the two, you can create a dashboard that's of interest to an even wider audience. By having a combined BI/MI dashboard, a united vision on what the company is trying to achieve and their progress to that goal can be shown. 
+
+Pick a key KPI. This may be a financial goal, a number or users or something completely different that is expected to be achieved in a certain time frame. I've seen this being split from a yearly KPI down to quarterly stages to aim for. That's a short enough time frame that the future goal doesn't seem as unachievable. No matter what it is, work that is put forward to departments as a priority is normally guided in some way to achieve this goal. By showing the progress in reaching the BI aim in a easy to understand format, everyone in the company can see the companies health, it's progress and how likely they are to get their bonus if its tied to performance. Further, if you mark some of the departmental events that have contributed to the companies performance, it is easier to recognise the impact a departments work has on the grand aim.
 
 > Combine MI & BI and the whole business can make use of it.
 
-There is quite a bit of information that can be displayed on the mixed form of dashboard. For instance, by having a graph which shows the target aims for the quarter, where the company is at on achieving that monthly goal and the major events that may have impacted the companies progress. It can show the impact of different departments contributions to achieving this target. Major events on the dashboard can include anything that can impact company in any way. Examples can include:
+There is quite a bit of information that can be displayed on the mixed form of dashboard. As mentioned, the impact of different departments contributions to achieving the company target, but also external factors having an impact. Major events on the dashboard can include anything that can impact company in any way. Examples can include:
 
 * A marketing initiative.
 * A new feature.
@@ -60,17 +68,20 @@ There is quite a bit of information that can be displayed on the mixed form of d
 * Outage of a third party.
 * Integration with a new third party.
 
-> Insert picture of example graph here.
-
 By doing something like this it is easy to the company's progression as a whole, the company's eventual aim and some of the contributing factors to the current state of play. Other high level statistics can be added to this board. For instance, I've seen it where by hovering on a point you could see details such as estimated financial impact. Another feature as by hovering on a date you could see dispersed and gained money. 
 
-Good rules for these kinds of Keep it simple. Keep it high level. Keep it focused towards that one goal.
+As well as showing the company's next big target and how they are progressing on reaching that target, some choose to show a line of what the performance of the company was like a year earlier. In some cases this may show how much a company has grown financially or in popularity over the last year. It not only shows if the company as a whole is likely to hit their next target, but also the impact of the past work, or if there were any externally impacting events that might want to be planned for. An example would be Christmas for many companies. Some see a rise in use, others will find it a tougher time to make money in. 
+
+Good rules for MI / BI and business level dashboards: Keep it simple. Keep it high level. Keep it focused towards that one goal.
 
 ### Operational and Development Dashboards
 
 #### Operational information
 
 #### Development information
+
+
+#### ITSM
 
 #### Who needs them?
 
@@ -82,6 +93,10 @@ Good rules for these kinds of Keep it simple. Keep it high level. Keep it focuse
 2. [6 Golden Rules to Successful Dashboard Design](https://www.geckoboard.com/blog/building-great-dashboards-6-golden-rules-to-successful-dashboard-design/#.WdKS62hSyUl)
 
 3. [Executive Dashboards - What they are and why every business needs one](https://www.forbes.com/sites/davelavinsky/2013/09/06/executive-dashboards-what-they-are-why-every-business-needs-one/#25b577fe37d1)
+
+4. [Measuring ITSM](https://www.amazon.co.uk/Measuring-ITSM-Reporting-Management-Executives/dp/1490719458/ref=pd_cp_14_1?_encoding=UTF8&psc=1&refRID=NERK3B79N4A24C5GJN7E)
+
+5. [Karl Bagci's blog posts around ITSM ](https://medium.com/@karlbagci)
 
 
 ### Thanks to:
