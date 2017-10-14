@@ -15,8 +15,6 @@ Monitoring is an expansive topic from instrumentation to logging in all it's for
 
 It's no secret that I am fascinated by the topic of monitoring. I want to find out what people do in their companies, pain points, how to do it well and the awesome things that can come from having a well monitored system. As part of my work in this area previously I tried something to get more departments in the company I worked for invested and bought into what was begin instrumented in our system. You can read the blog covering that experiment [here](https://jesswhite.co.uk/instrumentationforbusiness-post/). I think dashboards are powerful, often underutilised and that there isn't enough resource talking about them out there. 
 
-> "If you don't measure it, you cant improve it" - Randy A. Steinberg
-
 There are a lot of common questions around dashboards including how long they should live and what should be on them. These questions aren't going to be addressed in this post. Instead, we are taking a step back to examine what types of dashboards there are, what they are for, and who needs them. Hopefully, by the end of this, you'll want to learn more about how dashboards can be used in your company, but also how to do them well. Dashboards are beautiful and powerful tools. They come in many forms, each with their own strengths, purpose and evolution. There is a bit of overlap on these categories and how they are used, which will be covered.
 
 The information in this post uses a cumulation of my own experience (I have been involved in the development of developer, MI and BI dashboards), talking to those with more experience than myself and extensive reading. Any resources I used and people who kindly gave me their time to discuss dashboards with are listed at the end.
@@ -83,19 +81,37 @@ These dashboards tend to have a more diagnostic purpose. They can be built for t
 * If it's unhealthy, why is it broken? 
 * Where is the system most fragile?
 
- 
+These systems are also covered by Information Technology Service Management (ITSM) teams. I'm not going to cover ITSM - but if you want to know more, [Karl Bagci](https://medium.com/@karlbagci) is a great person to hit up for information.
 
 #### Operational information
+
+The primary focus of operation information is to monitor interactions with hardware, be it physical or virtual. A healthy infrastructure is 
+
+* Services
+* CPU
+* RAM
+* Disk Space - space, latency, read & write
 
 #### Development information
 
 
-#### ITSM
 
-#### Who needs them?
 
 #### So Who Needs Dashboards?
 
+There are many themes of board. Honestly, more than we touched on here. Each has their own specific audiences. But in answer to "who needs dashboards?" - everybody does. Here we covered commonly used dashboards at a high level. How great would it be though if those with direct customer contact had a dashboard of which parts of the product was down for maintenance or how many calls/emails were waiting? Or if sales had a board with their running totals versus aimed profit?
+
+Dashboards are there to make your life easier. They can help direct work, they help show the effects of your investment, they can improve communication and transparency in a business. It also doesn't hurt that they are easy to look at. 
+
+> "If you don't measure it, you cant manage it"
+>
+> "If you don't measure it, you cant improve it"
+>
+> "If you don't measure it, you probably don't care"
+>
+> "If you can't influence it, then don't measure it"
+>
+> -- _Randy A. Steinberg_
 
 ### Reading
 
@@ -111,3 +127,7 @@ These dashboards tend to have a more diagnostic purpose. They can be built for t
 
 
 ### Thanks to:
+
+<div style="width:20%; height:20%;" markdown="1">
+![Musketeers](../assets/img/2017-10-05/musketeers.png)
+</div>
