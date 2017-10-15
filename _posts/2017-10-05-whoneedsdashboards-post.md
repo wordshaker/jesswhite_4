@@ -2,9 +2,9 @@
 layout: post
 title: Who Needs Dashboards?
 description: "An overview of the different types of dashboards and what they are for"
-date: 2017-10-05
-img: ./2017-10-05/header.jpg
-tags: [monitoring, instrumentation]
+date: 2017-10-15
+img: ./2017-10-15/header.jpg
+tags: [monitoring, instrumentation, dashboard]
 comments: false
 share: true
 ---
@@ -55,7 +55,7 @@ _What happens when you combine the two?_
 Both of these types have their own uses and strengths. By combining the two, you can create a dashboard that's of interest to an even wider audience. By having a combined BI/MI dashboard, a united vision on what the company is trying to achieve and their progress to that goal can be shown. 
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![MI BI](../assets/img/2017-10-05/MIBI.JPG)
+![MI BI](../assets/img/2017-10-15/MIBI.JPG)
 _Above: A mock of a combined MI and BI dashboard._
 </div>
 
@@ -108,12 +108,12 @@ The final high level group of dashboards to be discussed in this post is develop
 There are numerous ways in which information can be split up. The following are just a few.
 
 #### To examine a full journey of the product
-A full journey dashboard can show the speed of the last customer to go through the system to see if it is any slower than the expected average, the areas of the system that are up or down etc. What is shown at this level is very much dependant on the system being monitored. You don't want a dashboard that has too much information on it as it will be hard to understand and also viewers wont know which bits are most important. Further, viewers of the dashboard need ot know what each item displayed means so that they know how to react to anything that happens with it. 
+A full journey dashboard can show the speed of the last customer to go through the system to see if it is any slower than the expected average, the areas of the system that are up or down etc. What is shown at this level is very much dependant on the system being monitored. You don't want a dashboard that has too much information on it as it will be hard to understand and also viewers wont know which bits are most important. Further, viewers of the dashboard need to know what each item displayed means so that they know how to react to anything that happens with it. 
 
 For a full journey, don't go in depth to each section of your system. Keep it very high level and only relevant to the journey itself.
 
 #### Feature level information
-This is something that I have found very useful in the past. Since the project written about in my last blog, we have built feature / project level dashboards for each project we do. These live the life cycle of the project and for the features that are integral to the product, we keep them somewhere very visible. 
+This is something that I have found very useful in the past. Since the project written about in [my last blog](https://jesswhite.co.uk/instrumentationforbusiness-post/), we have built feature / project level dashboards for each project we do. These live the life cycle of the project and for the features that are integral to the product, we keep them somewhere very visible. 
 
 For my experience of feature level information, all the things needed on these dashboards are set by business requirement. The PO states SLA's that need to be adhered to (internal and external), what error cases are allowed and expected functionality. Dashboards are built so that these expected behaviours can be monitored. If it is a feature that defines the business from it's competitors, it is worth keeping that dashboard present and visible constantly.
 
@@ -122,7 +122,7 @@ Dashboards can be built to view software at an even lower level. Services, API's
 
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![MI BI](../assets/img/2017-10-05/DevOp.JPG)
+![MI BI](../assets/img/2017-10-15/DevOp.JPG)
 _Above: Journey level dashboard._
 </div>
 
