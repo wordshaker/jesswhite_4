@@ -19,7 +19,7 @@ There are a lot of common questions around dashboards including how long they sh
 
 The information in this post uses a cumulation of my own experience (I have been involved in the development of developer, MI and BI dashboards), talking to those with more experience than myself and extensive reading. Any resources I used and people who kindly gave me their time to discuss dashboards with are listed at the end.
 
-### MI and BI Dashboards
+## MI and BI Dashboards
 
 These dashboards are primarily for business use. The data on them are relatively high level. They are used for measuring the health of a business and for planning the future direction of the company. 
 
@@ -54,6 +54,11 @@ _What happens when you combine the two?_
 
 Both of these types have their own uses and strengths. By combining the two, you can create a dashboard that's of interest to an even wider audience. By having a combined BI/MI dashboard, a united vision on what the company is trying to achieve and their progress to that goal can be shown. 
 
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![MI BI](../assets/img/2017-10-05/MIBI.JPG)
+_Above: A mock of a combined MI and BI dashboard._
+</div>
+
 Pick a key KPI. This may be a financial goal, a number or users or something completely different that is expected to be achieved in a certain time frame. I've seen this being split from a yearly KPI down to quarterly stages to aim for. That's a short enough time frame that the future goal doesn't seem as unachievable. No matter what it is, work that is put forward to departments as a priority is normally guided in some way to achieve this goal. By showing the progress in reaching the BI aim in a easy to understand format, everyone in the company can see the companies health, it's progress and how likely they are to get their bonus if its tied to performance. Further, if you mark some of the departmental events that have contributed to the companies performance, it is easier to recognise the impact a departments work has on the grand aim.
 
 > Combine MI & BI and the whole business can make use of it.
@@ -72,7 +77,7 @@ As well as showing the company's next big target and how they are progressing on
 
 Good rules for MI / BI and business level dashboards: Keep it simple. Keep it high level. Keep it focused towards that one goal.
 
-### Operational and Development Dashboards
+## Operational and Development Dashboards
 
 These dashboards tend to have a more diagnostic purpose. They can be built for the purpose of answering a wide range of questions including:
 
@@ -83,25 +88,68 @@ These dashboards tend to have a more diagnostic purpose. They can be built for t
 
 These systems are also covered by Information Technology Service Management (ITSM) teams. I'm not going to cover ITSM - but if you want to know more, [Karl Bagci](https://medium.com/@karlbagci) is a great person to hit up for information.
 
-#### Operational information
+### Operational information
+The primary focus of operation information is to monitor interactions with hardware, be it physical or virtual. In order to have software that s well you need to have an infrastructure that is healthy and running effectively. If your infrastructure is struggling for any reason, what is running on it will also struggle. This will lead to worse customer and client experience and possibly full loss of service. 
 
-The primary focus of operation information is to monitor interactions with hardware, be it physical or virtual. A healthy infrastructure is 
+Some of what is covered by operational dashboards include:
 
 * Services
 * CPU
 * RAM
 * Disk Space - space, latency, read & write
 
-#### Development information
+> Both Operations/IT teams and development teams need easy access to operational information.
+
+Both operations teams (known as IT teams in some businesses) and developers need dashboards covering operational information. Operations want to keep the system healthy, and when something isn't behaving as expected - they want to determine where the problem my lie. Development teams software runs off this infrastructure. They want to know if peculiarities they are seeing in their software my be down to what it is running on. They want to know if their current hardware is suitable for work that is prioritised. The better the communication between these two teams, the easier it is not only to keep the software up, but also to determine ways in which to make it better.
+
+### Development information
+The final high level group of dashboards to be discussed in this post is development dashboards. Being a developer, this is an area I am exposed to a lot. Developers can use dashboards for numerous purposes, which is great, but can cause issues in it's own right. What information should be on a dashboard? How do you split the information up? What information is noise?
+
+There are numerous ways in which information can be split up. The following are just a few.
+
+#### To examine a full journey of the product
+A full journey dashboard can show the speed of the last customer to go through the system to see if it is any slower than the expected average, the areas of the system that are up or down etc. What is shown at this level is very much dependant on the system being monitored. You don't want a dashboard that has too much information on it as it will be hard to understand and also viewers wont know which bits are most important. Further, viewers of the dashboard need ot know what each item displayed means so that they know how to react to anything that happens with it. 
+
+For a full journey, don't go in depth to each section of your system. Keep it very high level and only relevant to the journey itself.
+
+#### Feature level information
+This is something that I have found very useful in the past. Since the project written about in my last blog, we have built feature / project level dashboards for each project we do. These live the life cycle of the project and for the features that are integral to the product, we keep them somewhere very visible. 
+
+For my experience of feature level information, all the things needed on these dashboards are set by business requirement. The PO states SLA's that need to be adhered to (internal and external), what error cases are allowed and expected functionality. Dashboards are built so that these expected behaviours can be monitored. If it is a feature that defines the business from it's competitors, it is worth keeping that dashboard present and visible constantly.
+
+#### Service / API level information 
+Dashboards can be built to view software at an even lower level. Services, API's, storage and queues have expected behaviours. Guidelines such as [USE](http://www.brendangregg.com/usemethod.html) and [RED](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) can help set what is shown on these dashboards. Mostly, these boards will be used for debugging issues. It is a quick way to examine how each component is performing.
 
 
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![MI BI](../assets/img/2017-10-05/DevOp.JPG)
+_Above: Journey level dashboard._
+</div>
 
 
-#### So Who Needs Dashboards?
+Each level of information has its uses and the information can be used in numerous ways. We'll explore a few of them next.
 
-There are many themes of board. Honestly, more than we touched on here. Each has their own specific audiences. But in answer to "who needs dashboards?" - everybody does. Here we covered commonly used dashboards at a high level. How great would it be though if those with direct customer contact had a dashboard of which parts of the product was down for maintenance or how many calls/emails were waiting? Or if sales had a board with their running totals versus aimed profit?
+#### Monitoring the health of your system and aiding debugging issues
+Probably the first reason that might come to mind when thinking about dashboards is their use for checking whether the system is working or not. Being able to see what parts of the system are up, what parts might be effected by poor performance of a third party or what is behaving unusually is imperative. When debugging something going wrong with the system, a dashboard displaying the behaviour of each component can help speed up the process of diagnosing and fixing the issue.
 
-Dashboards are there to make your life easier. They can help direct work, they help show the effects of your investment, they can improve communication and transparency in a business. It also doesn't hurt that they are easy to look at. 
+This is probably the reason I personally use development dashboards for most.
+
+#### Performance monitoring
+You can also create dashboards at different levels to see how each area of your system is performing. This can show where the bottlenecks are, whether software or hardware needs improving & how the system is coping with it's current load. We can use performance monitoring to guide future work to improve the system, as well as seeing the effect of other pieces of work on the system. The more performant your product is, the faster the experience for your user.
+
+#### Guiding improvement
+Linked to the points above, a business can use monitoring to see where their software may need work. Software systems can get old and creaky. They may be fit for purpose when first build, but like with anything in engineering, these systems need love and maintenance. Through monitoring you can see where bottle necks are. Do you need to scale? Could the code do with another look at if it has not been touched in a while? Are messages staying in the queues too long? Again, this applies to both development and ops.
+
+### There are many different types, we get it. But who needs them?
+Many of the types of dashboards mentioned can be used for operational/IT and development purposes. It is usually high beneficial for these two teams to work closely as the work they do effects each other greatly. Developers are the main audience for development dashboards. For operational dashboards, both op's and development need a clear view of what is going on.
+
+I have seen it go further than this even. Particularly for feature and journey style boards, if stakeholders have the boards explained to them early on, they often take interest in looking at them fairly reguarly. They want their part of the business to work to the best of its ability, therefore they want to know if it performing as expected. Further, when a developer wants to spend time improving a certain part of the system, it is easier to get buy in for doing the work if you can show the value in doing the work.
+
+> Though developers are the main audience for development style dashboards, there are situations where operations, product owners and stakeholders benefit from these dashboards too.
+
+### So Who Needs Dashboards?
+
+There are many themes of board. Honestly, more than we touched on here. Each has their own specific audiences. But in answer to "who needs dashboards?" - everybody does. Here we covered commonly used dashboards at a high level. Dashboards are there to make your life easier. They can help direct work, they help show the effects of your investment, they can improve communication and transparency in a business. It also doesn't hurt that they are easy to look at. 
 
 > "If you don't measure it, you cant manage it"
 >
@@ -113,7 +161,13 @@ Dashboards are there to make your life easier. They can help direct work, they h
 >
 > -- _Randy A. Steinberg_
 
-### Reading
+You can see from this post alone that there is a bias for the use of dashboards at a development / ops level. In these areas the aids are needed so that we can keep track of the elements of software and hardware that are otherwise tricky to observe. Some companies have gone further than this, using dashboards to make lives easier for other departments in their companies. Not just with MI / BI dashboards, but with enabling high level views of high impacting information for that part of the company.
+
+How great would it be if those with direct customer contact had a dashboard of which parts of the product was down for maintenance or how many calls/emails were waiting? Or if sales had a board with their running totals versus aimed profit? Not only does it make it easier to work with information, be reactive and plan well; but it can help increase openness and communication across business.
+
+So who needs dashboards? You do. Just make sure that it's telling you the information you need, with no extra noise.
+
+## Reading
 
 1. [Zen and the Art of Systems Monitoring](https://www.scalyr.com/community/guides/zen-and-the-art-of-system-monitoring)
 
@@ -125,9 +179,12 @@ Dashboards are there to make your life easier. They can help direct work, they h
 
 5. [Karl Bagci's blog posts around ITSM ](https://medium.com/@karlbagci)
 
+6. [Peter Bourgon - Logging v. Instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
 
-### Thanks to:
+7. [Brendan Gregg - USE Method](http://www.brendangregg.com/usemethod.html)
 
-<div style="width:20%; height:20%;" markdown="1">
-![Musketeers](../assets/img/2017-10-05/musketeers.png)
-</div>
+## Thanks
+
+As I mentioned, to build upon my knowledge in these areas, I talked with a number of people who had worked with a variety of dashboards. My aim was to not only write from my own experience but to gather the uses of dashboards from different departments, different professions and different sized companies. 
+
+Thank you to: Darren Whitworth, Michael Woodburn, Karl Bagci, Jonathan Relf, Chris Taylor, Moreton Brockley and anyone else who has encouraged my enthusiastic monitoring related babble. 
