@@ -9,18 +9,27 @@ comments: false
 share: true
 ---
 
+<br/>
+
+----
+<center>
+<h3>My experience of being a volunteer at NDC London 2017.</h3>
+</center>
+--- 
+<br/>
+
 [NDC](http://ndc-london.com/) has been built up in my head as this awesome, magical conference ever since Moreton came back from it two years ago. Part of this was because he came back an excited kid, telling all these stories of the amazing time he had; part was because I thought it would be a long time before I could afford to go.
 
 Last year I learnt the amazing thing about being cheeky. The best thing that can happen is that you can have a grand adventure. The worst thing that could happen is that you hear the word "no". I reached out to the world and asked how I could go even though I was skint. Thanks to twitter (particularly [@khellang](https://twitter.com/khellang)) I was told about the possibility of volunteering.
 
-##### Day 1 - training
+### Day 1 - training
 Honestly, I was very nervous walking towards the ExCel. I didn't really know what I was in for. After meeting the crew and organisers those worries  went out the window. We got shown the area, given our t-shirts and shown what we would be needed to do 
 
 ![NDC Tee](http://i64.tinypic.com/2cnfbpv.jpg "NDC Tee")
  
 After training, one of the other volunteers and I walked back to the Travelodge. That would be the last good nights sleep I would have for a few days.
 
-##### The Conference
+### The Conference
 
 I woke a 6.30am ready for my first day at NDC. Put on my rockin' NDC Crew Tee and walked to ExCel in the dark. The first part of the morning involved unpacking the free hoodies for the attendees and doing various other jobs. After the attendees had been checked in, all volunteers got to attend the keynote.
 
@@ -54,16 +63,16 @@ Everybody was tired, hungover or both but the talks throughout the day was still
 
 A couple of the excellent people I got to know over the course of NDC and I travelled together to the venue. PubConf is the perfect ending to NDC. Jokey, unrecorded speedy presentations, music, food and beverages. It was the most surreal night of the week. I made memories which will last a lifetime and some friends as well.
 
-#### The End...?
+### The End...?
 
-##### Before NDC: 
+#### Before NDC: 
 I was nervous. The not knowing what the experience was going to be like and worried it wasn't going to live up to the hype I had built around it.
 
 Talking at conferences was a "no".  _It's scary. I am too early in my career. It's scary._
 
 Tech was interesting but not nearly as exciting as I used to find it. I was an eternal n00b but not in the good way.
 
-##### After NDC: 
+#### After NDC: 
 NDC lived up to all the hype. It's an amazing experience. It's not just about the learning experience but also about the community. Going to NDC was also great personally. Since NDC a week ago: 
 
 * _I've already signed up for NDC Oslo as a volunteer_

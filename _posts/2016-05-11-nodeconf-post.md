@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NodeConf London"
-description: "NodeConf London London 2016"
+description: "NodeConf London 2016"
 date: 2016-05-11
 img: ./2016-05-11/nodeconf.jpg
 tags: [conference, js, attended]
@@ -9,7 +9,17 @@ comments: false
 share: true
 ---
 
-## Agenda
+<br/>
+
+----
+<center>
+<h3>Overview of NodeConf London 2016</h3>
+</center>
+--- 
+<br/>
+
+
+### Agenda
 The [NodeConf London](http://london.nodeconf.com/) included the following talks:
 * [Kassandra Perch](https://twitter.com/nodebotanist) - Robots, code and people
 * [Nikhila Ravi](https://twitter.com/nikhilaravi) - Server-less architecture in the wild
@@ -23,7 +33,7 @@ The [NodeConf London](http://london.nodeconf.com/) included the following talks:
 * [Luca Maraschi](https://twitter.com/lucamaraschi) - SWIMming in the microservices ocean
 * [Matt Clark](https://twitter.com/matthew1000) - Node.js that is hugely reliable, fast, and scalable
 
-## Ones To Watch
+### Ones To Watch
 
 All of the talks should be watched and are available on [Youtube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2). Below is a list of a few of my favourites:
 ##### [Nikhila Ravi](href="https://www.youtube.com/watch?v=SwJUH3Le91s) - Server-less architecture in the wild:
@@ -44,7 +54,7 @@ Considering this talk was finished less than an hour before it was delivered, it
 ##### [Matt Clark](https://www.youtube.com/watch?v=pxmXiKlh5OU) - Node.js thats hugely reliable, fast, and scalable:
 Lessons learned from the BBC about producing fast, reliable and scalable Node apps. These principles also relate highly to working in a microservices style architecture. This talk is a great insight into the workings of certain BBC sites, but also how to avoid potential dangers while developing Node apps.
 
-## Overview
+### Overview
 The content of NodeConf London was incredibly high quality, and those involved in making it possible were extremely professional. The volunteers were friendly and informative even though they had their hands full with Twitter, Gitter and all the other possible communication channels.
 
 There were some set themes to the talks. Microservices, Docker, high-quality testing were all frequently mentioned as important for creating production quality Node apps. I left feeling inspired to investigate numerous things including Server-less architectures, how other companies use Docker in production in greater detail and using Blue-Green architectures to assist in testing on live environments with minimal risk.
