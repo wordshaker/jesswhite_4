@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sonos Pi Project"
-description: "For alerting on sonos based on Datadog events"
+description: "For alerting on Sonos based on Datadog events"
 date: 2016-07-10
 img: ./2016-07-10/sonos-pi.jpg
 tags: [project, js]
@@ -9,7 +9,16 @@ comments: false
 share: true
 ---
 
-## About
+<br/>
+
+----
+<center>
+<h3>Using a Raspberry Pi to make vocal alerts on a Sonos based off output from Datadog.</h3>
+</center>
+--- 
+<br/>
+
+### About
 This was a joint project between myself and my partner Moreton as our first attempt at using a RaspberryPi and test driving a Node.JS project. We both wanted to learn node and when I came up with the project idea as a piece of fun to help out the place I work at; it seemed like the perfect opportunity to learn Node.
 
 <div style="text-align:center;" markdown="1">

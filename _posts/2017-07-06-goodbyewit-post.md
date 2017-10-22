@@ -9,6 +9,16 @@ comments: false
 share: true
 ---
 
+<br/>
+
+----
+<center>
+<h3> A look back at my time founding and organising Women In Tech Nottingham after handing over the reigns</h3>
+</center>
+--- 
+<br/>
+
+
 Women In Tech Nottingham had it's first event in April of last year. It had taken months of discussions with sponsors, venues, organising social accounts, meeting potential speakers, getting advice from current meetup organisers. This has all come together for the first in many events I would go on to organise.
 
 [Jess Rose](https://twitter.com/jesslynnrose) was the star of the show. She gave a fantastic talk on Imposter Syndrome, capturing many hearts and minds. After her talk, those who attended wrote on post its about what they wanted from the event. I was so stressed throughout the whole thing to be honest, it is still a blur.

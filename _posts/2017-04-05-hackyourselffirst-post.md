@@ -9,6 +9,15 @@ comments: false
 share: true
 ---
 
+<br/>
+
+----
+<center>
+<h3>A team day at work to learn more about security</h3>
+</center>
+--- 
+<br/>
+
 Our resident shady coder Jordan, organised an epic hack day at Oakbrook to teach us a thing or two about hacking and 
 security. For the first half of the day we were given a list of tools we could investigate. These were both to hack and 
 for helping to make apps more secure.

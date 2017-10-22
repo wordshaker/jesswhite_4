@@ -9,6 +9,15 @@ comments: false
 share: true
 ---
 
+<br/>
+
+----
+<center>
+<h3>An assessment of error levels and what they mean.</h3>
+</center>
+--- 
+<br/>
+
 We are going to explore different levels of error, what they mean and when they should be used. Before we begin, there is a disclaimer: in my opinion logging is very important - but so is avoiding noise. I prefer logs that have a purpose and are going to be used. If I can't use it or
 act on it at any time, it's not getting logged. 
 

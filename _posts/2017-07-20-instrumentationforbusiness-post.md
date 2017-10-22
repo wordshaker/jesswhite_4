@@ -9,7 +9,14 @@ comments: false
 share: true
 ---
 
-> A proposed approach on how to make the most of instrumentation, uniting the development and business overview of products. Mostly opinion, but this has been applied at work to test the theory.
+<br/>
+
+----
+<center>
+<h3> A proposed approach on how to make the most of instrumentation, and how to unite the development and business overview of products. Mostly opinion, but this has been applied at work to test the theory.</h3>
+</center>
+--- 
+<br/>
 
 Monitoring is an expansive topic which I have gained a strong interest in this year. How to effectively log, instrument and alert is discussed at length and there seems to be no one true answer.
 

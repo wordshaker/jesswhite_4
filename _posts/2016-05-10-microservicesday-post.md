@@ -8,8 +8,16 @@ tags: [conference, js, attended]
 comments: false
 share: true
 ---
+<br/>
 
-## Common Themes:
+----
+<center>
+<h3>Overview of Microservices Day London 2016</h3>
+</center>
+--- 
+<br/>
+
+### Common Themes:
 
 * [Docker](https://www.docker.com/)
 * [Cloud / AWS](https://aws.amazon.com/)
@@ -17,7 +25,7 @@ share: true
 * [Blue-Green Deployment](http://martinfowler.com/bliki/BlueGreenDeployment.html) 
 * [SWIM](https://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
 
-## Agenda
+### Agenda
 
 The [Agenda](http://microservicesday.com/#agenda) of the day included:
 * [Fred George](https://twitter.com/fgeorge52) - How to enable organizations to go faster
@@ -28,7 +36,7 @@ The [Agenda](http://microservicesday.com/#agenda) of the day included:
 * [Anne Currie](https://twitter.com/anne_e_currie) - Microservices and Containers. How much faster than a VM
 * [Valentine Gogichashvili](https://twitter.com/valgog) &  Fabian Wollert - Data integration in the world of microservices
 
-## Ones To Watch
+### Ones To Watch
 
 All of the talks are available on [Youtube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBZkM4ZSGO0fjkNTXEIteQy9"). 
 
@@ -78,7 +86,7 @@ Decoupling the microlith us difficult and investment in logging is VERY importan
 
 It was interesting seeing how another company has approached the monolith to microservices journey and the tools they found useful. There seems to be many variations of this journey but a lot of the same difficulties are faced in each.
 
-## Overview
+### Overview
 Overall, for a free event, the quality of the speakers was supprisingly high. The venue was fantastic, the staff friendly and the general vibe was very open. As a conference, I would recommend it for both those wanting to explore moving into a microservices architecture and those that are established. It is good to learn from other companies wins and mistakes, but also there are a lot of practices and tools that may be useful.
 
 Microservices Day did feel a bit like a practice for NodeConf, but it was free so I cannot complain about that. The talks all followed similar themes and towards the end of the day it started to feel like you had heard the same thing three times over - but I guess that it what comes from having a small area to talk about. 
