@@ -1,14 +1,14 @@
 title: Jessica White - Blog
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Welcome to my blog! Includes write ups of hacks & conferences attended, tech tried out
   and general musings.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: "" 
 
 # Author Settings
-author: Jessica White # add your name
-author-img: jess-white.jpg # add your photo
+author: Jessica White 
+author-img: jess-white.jpg
 about-author: I am a developer focusing on back-end development with a passion for monitoring. Always hungry to keep learning. Founder of Women In Tech Nottingham
 twitter: JessPWhite
 speakerbase: jessica-white
