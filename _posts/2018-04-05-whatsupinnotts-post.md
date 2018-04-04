@@ -42,7 +42,9 @@ There are a few hackathons around the midlands - including [Hack Manchester]() a
 
 - **[Global Game Jam](https://globalgamejam.org/)** has already happened this year, in January. The focus of this event is for teams to make games with advice for some lead game developers. A theme is given out at the beginning of the event and sponsors make various tools available throughout the 48 hours. It's not a competition, just a chance to have fun making something cool.
 
-- **[Hack24](https://www.hack24.co.uk/)** has also already happened this year. I've written about it previously in my blog post [Hack24 '17, The Greatest Place On Earth](http://jesswhite.co.uk/hack242017-post/), and as you can probably tell from that title alone it is very close to my heart. Sponsors set challenges for teams to take part in and compete to win challenges. The focus of the event isn't the competition though. There is fantastic food, games, and general merriment. I could write an entire post on all the great things about hackathons and the benefits of them.
+- **[Hack24](https://www.hack24.co.uk/)** has also already happened this year. I've written about it previously in my blog post [Hack24 '17, The Greatest Place On Earth](http://jesswhite.co.uk/hack242017-post/), and as you can probably tell from that title alone it is very close to my heart. Sponsors set challenges for teams to take part in and compete to win challenges. The focus of the event isn't the competition though. There is fantastic food, games, and general merriment. 
+
+I could write an entire post on all the great things about hackathons and the benefits of them. One day I might, but you should definitely try to experience one for yourself. You don't need to be a developer! Just arrive wanting to have fun!
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
@@ -70,11 +72,11 @@ There are a few hackathons around the midlands - including [Hack Manchester]() a
 
 ### Code Club
 
+[Code Club](https://www.codeclub.org.uk/) is a remarkable organisation that runs free coding clubs for young people aged 9 - 13 years. It is completely volunteer lead and there are currently ~ 49 venues in Nottingham who have run a Code Club or intend to run one soon.
 
-There are currently  ~ 49 venues in Nottingham 
-6 venues are looking for a volunteer to help them get started
-There is a FREE online FutureLearn course called “Prepare to run a Code Club”
-For more info email : eastmidlands@codeclub.org.uk
+There are 6 venues are looking for a volunteer to help them get started so now is a great time to get involved as a volunteer. If you are considering starting a club in a venue near you there is also [a FREE online FutureLearn course called “Prepare to run a Code Club”](https://www.futurelearn.com/courses/code-club).
+
+For more info email : [eastmidlands@codeclub.org.uk](mailto:eastmidlands@codeclub.org.uk)
 
 ### Podcasts
 
