@@ -54,21 +54,23 @@ I could write an entire post on all the great things about hackathons and the be
 
 ### Hackspaces
 
-[Nottinghack](http://nottinghack.org.uk/)
+[Nottinghack](http://nottinghack.org.uk/) is a fantastic hackspace. With the membership being based on a ‘Pay What You Think Is Right’ system​. There is a lot of equipment available including 3D printers, laser cutters, wool and more. 
 
-[Ardunio Workshops](http://nottinghack.org.uk/introduction-to-arduino-workshop/)
+Alongside the equipment (with training on offer) there is a great community that attend Nottinghack. 
 
-### Universities
+You can attend just to hang out with like minded people, make something or attend a course and learn something new!
 
-[University of Nottingham]()
+The next workshop available from the date of this post is the [Ardunio Workshops](http://nottinghack.org.uk/introduction-to-arduino-workshop/) on Saturday 26th May. 
 
-[Nottingham Trent]()
+### Podcasts
 
-### NVA
+If you want to get involved in the tech scene, but aren't too sure about the face-to-face aspect yet - how about checking out some of the local podcasts. There are a few about - but here are three you can start with.
 
-[Game City Festival](https://www.thenva.com/gamecity-festival/)
+- **[Cynical Developer](https://cynicaldeveloper.com/)** is probably the most technical of the three. Hosted by James Studdart - topics cover desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 
-### Games
+- **[Twine Radio](http://twineradio.co.uk/)** - is hosted by Jonathan Relf. He talks with local meetup organisers and inflencencers about their events, what has happened and what is up ahead.
+
+- **[BookClubPod](http://twineradio.co.uk/)** hosted on TwineRadio this is a brand new podcast. Jonathan Relf, Karl Bagci, Tom Jepson and I talk about some of the tech and non-fiction books we have read, what we think of them and how they influence our work. We plan to have guests in the future. It is a very relaxed podcast, just friends getting together and talking about their reads.
 
 ### Code Club
 
@@ -78,16 +80,15 @@ There are 6 venues are looking for a volunteer to help them get started so now i
 
 For more info email : [eastmidlands@codeclub.org.uk](mailto:eastmidlands@codeclub.org.uk)
 
-### Podcasts
+### National Videogame Arcade
 
-[BookClubPod]()
+There is a lot on offer at [The National Videogame Arcade](https://www.thenva.com/). Its well known for ALL THE GAMES but there are also workshops, events, corporate hire, parties and more. 
 
-[Cynical Developer]()
+One such event that is returning this year (2018) is the [Game City Festival](https://www.thenva.com/gamecity-festival/). It launched in 2006, and celebrates independent videogames and celebrating videogame culture.
 
-[Twine Radio]()
+### Games
+
+A bit of a tangent away from tech related things - there are some great places to play games as well. Go to [Dicecup](https://en-gb.facebook.com/thedicecup) and [Ludorati](www.ludoraticafe.com/) to play boardgames or D'n'D. Both have very knowledgeable staff, refreshments and a WHOLE LOT of games. If you prefer something more digital - [ALT](https://en-gb.facebook.com/altgaminglounge/) might be more up your street. Again you can play alone, with friends or attend one of their many events.
 
 ### Community
 
-### Links
-
-[Notts Gov Jam Twitter](https://twitter.com/nottsgovjam)
