@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing your Google Adversts
+title: Changing your Google Adverts
 description: "Because sometimes the algorithms are way off"
 date: 2018-01-29
 img: ./2018-02-18/header.jpg

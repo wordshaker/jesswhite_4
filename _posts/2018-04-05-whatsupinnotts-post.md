@@ -24,7 +24,20 @@ Here is a list of a few things that make Nottingham a great tech city in my opin
 
 ### Meetups
 
+There are currently over 30 tech meetups arranged in Nottingham. A list of the event and times can be found at [Nottingham.Digital](https://nottingham.digital/). The topics range from generalist, to specific technologies. Some are based around talks and workshops, some have a focus on providing a safe and and inclusive space, some are an opportunity just to meet in a pub and have a chat.
+
+Anyone can attend meetups. Some allow under-18s, some don't (please ask the organisers) and there are numerous reasons why you should attend them.
+
+- **Get inspired** : Not just by the talks (which are normally pretty great) but also by the people you meet. Chat to them, find out what cool things they are doing. You might find a new technology or product you want to apply.
+
+- **Meet people in the industry** : There is a lot of work in Nottingham and a lot of different companies. Meetups are a great way to meet people you mind potentially be working with in the future (professionally or at a hackathon... _hint, hint_).
+
+- **They are fun** : It's always fun to socialise! Make friends! Do something a bit different
+
+- **They are free** : hows that for lowering a boundary! It won't even cost you a penny.
+
 There are currently over 30 tech meetups arranged in Nottingham. A list of the event and times can be found at [Nottingham.Digital](https://nottingham.digital/).
+
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
@@ -80,9 +93,26 @@ There are 6 venues are looking for a volunteer to help them get started so now i
 
 For more info email : [eastmidlands@codeclub.org.uk](mailto:eastmidlands@codeclub.org.uk)
 
+
+### Workshops and other fun stuff
+
+There are many places in Nottingham offering workshops and experiences to take part in. Some are technical - some are not. Here are a couple of places to check out.
+
+- **[NearNow](https://nearnow.org.uk/)** at Broadaway is a _'studio for arts, design and innovation'_. They hst workshops, events, galleries as well as providing fellowships for assisting making creative ideas become a reality.
+
+
+- **[Contemporary](http://www.nottinghamcontemporary.org/)** might seem a strange choice for a semi-tech focused list. A lot of great events and workshops are hosted here. There are DJ sets for gaming music, workshops to learn how to code or design... in fact it is so varied it is really hard to make a list. Check it out and find out what interesting things you can find.
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/2018-04-05/laugh.jpg)
+</div> 
+<br/>
+
 ### National Videogame Arcade
 
 There is a lot on offer at [The National Videogame Arcade](https://www.thenva.com/). Its well known for ALL THE GAMES but there are also workshops, events, corporate hire, parties and more. 
+
 
 One such event that is returning this year (2018) is the [Game City Festival](https://www.thenva.com/gamecity-festival/). It launched in 2006, and celebrates independent videogames and celebrating videogame culture.
 
@@ -92,3 +122,10 @@ A bit of a tangent away from tech related things - there are some great places t
 
 ### Community
 
+Why am I excited about all the above? What does it matter that there are all these fantastic things and why should you care?
+
+What I love most is the side effect of attending, learning, enjoying - which is the community that is built off the back of it. Through meeting people, having these experiences with them, you have something to talk about. You can find out about similar interests. This spreads and grows into this amazing ecosystem of people supporting each other, learning from each other and becoming friends.
+
+I have made some of my closest friends through the events and community in Nottingham. It helped me believe I could enjoy tech and make it as a developer back when I hadn't even started. It has provided support when it was needed. It has made me want to contribute myself by creating a meetup, mentoring others and speaking. 
+
+Please enjoy all the things that are "up in Notts" - and let me know about the things you find!
