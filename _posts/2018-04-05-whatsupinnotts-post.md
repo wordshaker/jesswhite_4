@@ -36,7 +36,8 @@ Anyone can attend meetups. Some allow under-18s, some don't (please ask the orga
 
 - **They are free** : hows that for lowering a boundary! It won't even cost you a penny.
 
-There are so many different types of meetup there will definitely be at least one that's right for you.
+There are currently over 30 tech meetups arranged in Nottingham. A list of the event and times can be found at [Nottingham.Digital](https://nottingham.digital/).
+
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
@@ -92,6 +93,7 @@ There are 6 venues are looking for a volunteer to help them get started so now i
 
 For more info email : [eastmidlands@codeclub.org.uk](mailto:eastmidlands@codeclub.org.uk)
 
+
 ### Workshops and other fun stuff
 
 There are many places in Nottingham offering workshops and experiences to take part in. Some are technical - some are not. Here are a couple of places to check out.
@@ -107,10 +109,10 @@ There are many places in Nottingham offering workshops and experiences to take p
 </div> 
 <br/>
 
-
 ### National Videogame Arcade
 
-There is a lot on offer at [The National Videogame Arcade](https://www.thenva.com/). Its well known for ALL THE GAMES but there are also workshops, events, corporate hire, parties and more. There are festival, events, and courses. They sometimes host designers, authors and programmers to come and talk about the cool work they have been involved in. There are are more interactive events and competitions to. There are more traditional learning experiences as well - [PixelHeads](https://www.thenva.com/pixelheads/), for example, provides courses for young people that are interested in learning how to code.  
+There is a lot on offer at [The National Videogame Arcade](https://www.thenva.com/). Its well known for ALL THE GAMES but there are also workshops, events, corporate hire, parties and more. 
+
 
 One such event that is returning this year (2018) is the [Game City Festival](https://www.thenva.com/gamecity-festival/). It launched in 2006, and celebrates independent videogames and celebrating videogame culture.
 
