@@ -24,7 +24,19 @@ Here is a list of a few things that make Nottingham a great tech city in my opin
 
 ### Meetups
 
-There are currently over 30 tech meetups arranged in Nottingham. A list of the event and times can be found at [Nottingham.Digital](https://nottingham.digital/).
+There are currently over 30 tech meetups arranged in Nottingham. A list of the event and times can be found at [Nottingham.Digital](https://nottingham.digital/). The topics range from generalist, to specific technologies. Some are based around talks and workshops, some have a focus on providing a safe and and inclusive space, some are an opportunity just to meet in a pub and have a chat.
+
+Anyone can attend meetups. Some allow under-18s, some don't (please ask the organisers) and there are numerous reasons why you should attend them.
+
+- **Get inspired** : Not just by the talks (which are normally pretty great) but also by the people you meet. Chat to them, find out what cool things they are doing. You might find a new technology or product you want to apply.
+
+- **Meet people in the industry** : There is a lot of work in Nottingham and a lot of different companies. Meetups are a great way to meet people you mind potentially be working with in the future (professionally or at a hackathon... _hint, hint_).
+
+- **They are fun** : It's always fun to socialise! Make friends! Do something a bit different
+
+- **They are free** : hows that for lowering a boundary! It won't even cost you a penny.
+
+There are so many different types of meetup there will definitely be at least one that's right for you.
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
