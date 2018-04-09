@@ -34,3 +34,52 @@ A driver would also need to be alerted if there was something wrong with their c
 </div> 
 <br/>
 
+Dashboards are used in very much the same way when covering projects, initiatives and systems. A good dashboard should be easy to read and react to. The information you need on a regular basis should be easy to identify, but if something is abnormal and needs to be reacted to urgently, it should attract the attention of those that need to react to it.
+
+### How come my dashboards aren't as useful as the one in my car?!
+
+It's simple - dashboarding is a difficult thing to do well. There are many ways in which things can go astray. For the rest of this post we will go through some ways in which you can determine what should and shouldn't be on a dashboard. How to spot when a dashboard may need some cleaning up will also be covered. 
+
+### Danger Signs
+
+There are a number of signs that a dashboard may need a bit of clearing up or re-work. Here we will go through a few of them, why they might happen and what to do when they do.
+
+```
+Out of date metrics
+Lack of purpose
+Unclear metrics
+Not knowing how to react to measurements
+Busy boards
+Making dashboards as part of a tick box exercise
+Too many boards
+Not knowing the baseline behaviour
+Single point of responsibility
+```
+
+### Talking to stakeholders.
+
+Previously when trying to find out what needed to go on a dashboard, I would ask the stakeholders of the feature or project what they wanted or needed to see on a dashboard. This lead to 
+
+### Requirement gathering and pushing back.
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/2018-04-09/toddler.png)
+</div> 
+<br/>
+
+
+### Lifetimes
+
+
+### Layers
+
+
+### Picking which tools you should use.
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/2018-04-09/tools.png)
+</div> 
+<br/>
+
