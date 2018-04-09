@@ -1,5 +1,9 @@
 ### Jekyll ###
-_site
-.sass-cache
+.bundle/
 .jekyll-metadata
+/vendor
 Gemfile.lock
+_site/
+bin/
+pkg/
+tmp/*
