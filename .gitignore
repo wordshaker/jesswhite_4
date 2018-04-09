@@ -3,7 +3,7 @@
 .jekyll-metadata
 /vendor
 Gemfile.lock
-_site/
+_site/*
 bin/
 pkg/
 tmp/*
