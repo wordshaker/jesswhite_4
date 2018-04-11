@@ -54,11 +54,16 @@ Making dashboards as part of a tick box exercise
 Too many boards
 Not knowing the baseline behaviour
 Single point of responsibility
+Pie Charts
+Vanity Metrics.
 ```
 
 ### Talking to stakeholders.
 
-Previously when trying to find out what needed to go on a dashboard, I would ask the stakeholders of the feature or project what they wanted or needed to see on a dashboard. This lead to 
+Previously when trying to find out what needed to go on a dashboard, I would ask the stakeholders of the feature or project what they wanted or needed to see on a dashboard. Though the intentions were right, this would lead to metrics that weren't useful and dashboards that were largely ignored. If they had metrics that were more useful or clear, a few problems may have been averted or spotted earlier. 
+
+Talking to the stakeholders was the right thing to do, but the questions needed framing in a different way. For instance, 
+
 
 ### Requirement gathering and pushing back.
 
