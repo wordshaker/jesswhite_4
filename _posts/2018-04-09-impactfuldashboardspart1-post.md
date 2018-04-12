@@ -72,14 +72,25 @@ No one likes to think about failure, but no one is going to be more aware of the
 
 **Execution dashboards (operations/development)**
 
+A lot of the questions will be similar. If you work in a development team that works closely to product for example, you may be building features for MI objectives, and therefore will be wanting to know that feature is meeting the needs of that project.
+
+There are many cases where execution dashboards differ however. Here are just a few of the questions you might want to ask the stakeholder when gathering requirements for your dashboards.
+
 > How do you know an app / feature is working?
 
-> What are the KPI’s 
+This might seem like an obvious question, but the answers may not be what you expect. Rather than "you can reach the webpage", success might be that the feature can accept a certain load or have a certain response time. It might be a security concern - the app or feature might want to be only accessible from certain places. **Find out what success should look like**. This will not only help you know the requirements for what your monitoring, but may even provide some test cases or requirements you didn't know about.
 
-> Why are those KPIs What do they tell you?
+> What are the KPI’s / SLA's? 
+
+Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. 
+
+SLA's are [Service Level Agreements](). They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
+
+As part of this you may want to find out who should be informed if these KPI's aren't met or SLA's are broken. Also, what action should be taken, if any. What is the impact?
 
 > What are the base metrics we would normally use for this?
 
+There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use [RED]() for your APIs for [USE]() for your services. It might be the [Four Golden Signals from the Google SRE book](). There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
 
 **This does not even nearly cover all the questions you may want to cover with your stakeholders** but it gives you an idea. You need to have the context of why things are measured, how they might be reacted to and how long they need to be measured for. This brings me nicely onto the next section.
 
@@ -116,9 +127,74 @@ Having purpose for your dashboards, and a reason to react for the metrics on the
 
 The importance of communication in the creation of dashboards and visualisations cannot be understated. Picking the tools to create and maintain these now stunning dashboards can also be a challenge.
 
+#### There isn't one perfect tool that is going to solve all your problems
+
+There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example [Datadog]()) and those that are used for log analytics (an example is[Kibana]()). Some tools will specialise in a certain type of monitoring such as [Tableau]() which is aimed at analysing BI data opposed to [Zabbix]() which is more suited for operational data. There are some that are more cross-functional as well.
+
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
 ![step 1](../assets/img/2018-04-09/tools.png)
 </div> 
 <br/>
 
+To know which one is suitable for your needs at the time often requires research and a building a business case. If you end up using multiple tools - that is ok! There is nothing wrong with that! As long as using multiple tools is suitable for your needs.
+
+Next I will go through some areas that you might consider covering as part of your business cases for what monitoring tools to use.
+
+#### User / Development concerns
+
+> Is it for a particular type of monitoring?
+
+Going back to what was just mentioned, these tools can have specialisms. If you are wanting to do tracing, debugging and be actively using the tool for fixing issues - you might want to use a tool that's particularly good at log analytics. If you are wanting to see how an API or a service is behaving or want to see how many people are using a feature of your website, look at a tool suitable for those measurements. If it is for use by higher management - you might want to look at different tooling again. You aren't going to be short on choice no matter the purpose.
+
+> Does it need to be accessible?
+
+By accessible I mean, do you want the dashboards to be shareable? Do you want people to have to log in to see the details on your dashboards? Do you want them to be openly accessible but only show certain periods of time?
+
+> What data sources does it support?
+
+Data sources are where your data is coming from that these metrics are using for their calculations. It could be an excel sheet, a messaging queue, a database... there are a lot of options. 
+
+> Can the tool cover the type of queries you will be most commonly using?
+
+Whether it the average journey of a customer through your app or how long it takes for your API to respond to a request - if your most common queries can't be covered by the tool under consideration, it's probably not worth considering.
+
+> Does you team have experience / how steep is the learning curve/ are the learning resources good
+
+This one I've seen missed a few times. It takes a lot of time to train a team on a new tool. Even having one or two people that have hardened experience using a tool help it's adoption.
+
+If the tools that the team are using aren't fit for purpose, or there isn't something in place, consider the training materials. Does is have a few ways in which people can learn the tool? Is the documentation up to date? Is there support available for the tool if its needed, and how much does that cost?
+
+> Does it need support from a development team?
+
+This is part of the previous point, but consider your user. If the person using the tool isn't used to building dashboards using JSON, maybe consider a tool that has a "drag and drop" UI that is more suitable for them. 
+
+#### Cost and Hosting
+
+> What’s the budget?
+
+If you can't afford what you are looking at - you probably shouldn't use it, right?
+
+> Do you want to self host or have hosting provided?
+
+This may sound like an implementation detail but it will affect cost and considerations for future maintenance.
+
+#### Other features
+
+> Does it support alerting in a way that’s useful to you?
+
+Dashboarding isn't the only use of monitoring tools. If you plan to alert using the tool as well, look at what integrations it supports. Some have options for SMS alerting or Slack for example. Others will only provide you with a webhook and expect you to hand roll an alerting system.
+
+
+
+Treat it like Blind Date. If there is a tool that is answering all your questions with what you want to hear - they are probably worth choosing.
+
+## Next Time On Impactful Dashboarding...
+
+There is a _Part Two_ of this series currently in progress. In this post we have covered a lot about the creation of dashboards. The next post will explore maintenance of dashboards. How to tell if your dashboards might need a bit of a rework or refresh and how to approach those problems.
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/2018-04-09/logo.png)
+</div> 
+<br/>
