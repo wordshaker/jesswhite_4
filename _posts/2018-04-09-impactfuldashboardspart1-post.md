@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating & Maintaining Impactful Dashboards Part One - Creation
+title: Creating & Maintaining Impactful Dashboards Part One
 description: "Common problems with dashboarding and how to work around them"
 date: 2018-04-09
 img: ./2018-04-09/header.png
@@ -11,20 +11,20 @@ share: true
 
 ----
 <center>
-<h3> Handy tips to keep those dashboards dazzling. </h3>
+<h3> Creation of impactful dashboards </h3>
 </center>
 --- 
 <br/>
 
-In the earlier blog post [Who Needs Dashboards?](http://jesswhite.co.uk/whoneedsdashboards-post/) we explored why dashboarding is important and some different types of dashboard in a business. It also explored how dashboarding increases transparency and communication in a business, and the benefits of this. 
+The earlier blog post [Who Needs Dashboards?](http://jesswhite.co.uk/whoneedsdashboards-post/) explored different types of dashboard in a business and why dashboarding is important. It also explored how dashboarding increases transparency and communication in a business, and the benefits of this. 
 
-This post will cover some hints and tips on how to ensure the dashboards you create are easy to maintain and suitable for their purpose.
+This series of posts will cover some hints and tips on how to ensure the dashboards you create are easy to maintain and suitable for their purpose.
 
 ### What is a dashboard again?
 
 Dashboards are also known as visualisations. They are used to display information that is useful in a way that is easy to understand and react to. There are quite a few examples of dashboards that are used day-to-day outside of technology. 
 
-An example of an everyday dashboard is a dashboard in a car. There are a few different ways that information is conveyed on a car dashboard. The information that you need the most, how fast you are going and how much fuel is in the tank, is most readily available. This information is normally shown, ever-present on big dials that are easy to see and read. 
+An example of an everyday dashboard is a dashboard in a car. There are a few different ways that information is conveyed on a car dashboard. The information that you need the most - how fast you are going and how much fuel is in the tank - is most readily available. This information is normally shown, ever-present, on big dials that are easy to see and read. 
 
 A driver would also need to be alerted if there was something wrong with their car that they may need to act on - the oil needs changing or there is a problem with the engine. These will also appear on a dashboard but in a different way to the information that is needed all the time. This is so that attention is drawn to it, that the driver knows it is more urgent. Some cars may show them as a specially shaped light that flashes up when there is a problem. For less urgent alerts, they may show up in a different colour or format. Examples are that the cars indicator lights or fog lights are on. 
 
@@ -38,7 +38,7 @@ Dashboards are used in very much the same way when covering projects, initiative
 
 ### How come my dashboards aren't as useful as the one in my car?!
 
-It's simple - dashboarding is a difficult thing to do well. There are many ways in which things can go astray. For the rest of this post we will go through some ways in which you can determine what should and shouldn't be on a dashboard. How to spot when a dashboard may need some cleaning up will also be covered. 
+It's simple - dashboarding is a difficult thing to do well. There are many ways in which things can go astray. This series of posts will cover some ways in which you can determine what should and shouldn't be on a dashboard. This post will explore some of the conversations and considerations when gathering requirements and creating dashboards. Following posts will cover maintenance and working with established dashboards.
 
 ### Talking to stakeholders.
 
@@ -50,13 +50,13 @@ These conversations are lead by the type of dashboards that are being created an
 
 **High level business intelligence or management information dashboards**
 
-These boards are to aid and monitor strategic or tactical goals within a business. As such we want to cover the objectives of these initiatives and whether there are problems that may need early intervention.
+These dashes are to aid and monitor strategic or tactical goals within a business. As such we want to cover the objectives of these initiatives and whether there are problems that may need early intervention.
 
 Some of the questions you may ask your stakeholder(s) for these dashboards include:
 
 > What are the company objectives?
 
-If this is a Business Intelligence (BI) style dashboard it is going to be primarily concerned with how well the business is meeting the goals agreed by investors, upper management and directors. These metrics will be used to aid decisions about the focuses of the company, how they can progress, grow and stay afloat. By determining what the company objectives are that need to be monitored, we can determine what success would look like, and the elements that might be a risk to these objectives.
+If this is a Business Intelligence (BI) style dashboard those using it are going to be primarily concerned with how well the business is meeting the goals as agreed by investors, upper management and directors. These metrics will be used to aid decisions about the focuses of the company, how they can progress, grow and stay afloat. By determining what the company objectives are that need to be monitored, we can determine what success would look like, and the elements that might be a risk to these objectives.
 
 Management Information (MI) have projects aiding in the success of these overall objectives. Again by knowing which company objective these initiatives are targeted at aiding, we can measure to determine the effect its having on the overall company objective.
 
@@ -68,7 +68,7 @@ KPI is an acronym that stands for [Key Performance Indicator](https://en.wikiped
 
 This is the trickiest one to broach out of the three, but is useful for pretty much every dashboard you will create. Much like with our car dashboard - we want to know when something is failing, especially if we might have something we can do about it or measures to take to minimise the impact of the damage.
 
-No one likes to think about failure, but no one is going to be more aware of the ways it may fail than the experts of the domain. Much like a car manufacturer, who designed and built the car you are driving, have thought about the failures a car may have and put in alerts around that, those working directly with or a domain or that have thought of an initiative will probably have a better idea of possible failures.
+No one likes to think about failure, but no one is going to be more aware of the ways the focus of your attention may fail than the experts of the domain. Much like the car manufacturer who designed and built the car you are driving have thought about the failures a car may have and put in alerts around that, those working directly with or a domain / system or that have thought of an initiative will probably have a better idea of possible failures.
 
 **Execution dashboards (operations/development)**
 
@@ -115,13 +115,23 @@ We all know that ~~annoying~~ adorable phase all kids go through when they are c
 - **WHY** does it need to live on the dashboard?
 - **COULD** it live somewhere else?
 
-Yes, there are a lot of things that “might be interesting” and that is great but there needs to be an element of purpose to our measurements. If there isn't we end up with over-crowded, uninformative and confusing dashboards where we don't know which metrics we need to react to and which are _interesting_. It leads to dashboards which are hard to use and that inevitably end up neglected or we end up missing information that really needed reacting to.
+Yes, there are a lot of things that “might be interesting” and that is great - **but** there needs to be an element of purpose to our measurements. If there aren't we end up with over-crowded, uninformative and confusing dashboards where we don't know which metrics we need to react to and which are _interesting_. It leads to dashboards which are hard to use and that inevitably end up neglected or we end up missing information that really needed reacting to.
 
 I'm probably not hiding the pain that I've felt from _"because it's just interesting"_ metrics ending up on dashboards that I've been responsible for in the past.
 
 The last question of _"could it live somewhere else"_ is quite an interesting one. If the information / data is needed for a long term goal or cannot be actioned upon quickly, it probably shouldn't be on a dashboard (there are some exceptions to this rule for operational or development dashes). Maybe it should be in a store, or in logs to be later interpreted with a log analytics tool. If the person needing the information needs to do calculations or models based on the raw data, for instance, the data will definitely need to be stored separate from the dashboard. 
 
 Having purpose for your dashboards, and a reason to react for the metrics on there. By channelling your inner toddler and ensuring these things, you will have metrics you can react to in an effective manner and dashboards that are much easier to work with.
+
+
+### Putting in baselines / benchmarks
+
+Where applicable - get your monitoring in early and measure your baselines / benchmarks. If you determine the current behaviour of the system, application or feature - you will be able to see the affects of your efforts.
+
+Without knowing what is normal, you won't know if any changes you see are better, worse or the same. You won't truly know if you should be reacting to them, let alone how.
+
+You have gathered the requirements and figured out roughly what measurements and metrics are going to be important for your dashboards. Get them in and start measuring them.
+
 
 ### Picking which tools you should use.
 
