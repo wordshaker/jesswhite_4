@@ -44,31 +44,31 @@ It's simple - dashboarding is a difficult thing to do well. There are many ways 
 
 Previously when trying to find out what needed to go on a dashboard, I would ask the stakeholders of the feature or project what they wanted or needed to see on a dashboard. Though the intentions were right, this would lead to metrics that weren't useful and dashboards that were largely ignored. If they had metrics that were more useful or clear, a few problems may have been averted or spotted earlier. 
 
-Talking to the stakeholders was the right thing to do, but the questions needed framing in a different way. It's often easy to think of what we want but it takes a lot of thought to determine wht we need and often, we only find out what we need through experience.
+Talking to the stakeholders was the right thing to do, but the questions needed framing in a different way. It's often easy to think of what we want but it takes a lot of thought to determine what we need and often, we only find out what we need through experience.
 
 These conversations are lead by the type of dashboards that are being created and their purpose. 
 
 **High level business intelligence or management information dashboards**
 
-These boards are to aid and monitor strategic or tactical goals within a business. As such we want to cover the objectives of these intiatives and whether there are problems that may need early intervention.
+These boards are to aid and monitor strategic or tactical goals within a business. As such we want to cover the objectives of these initiatives and whether there are problems that may need early intervention.
 
 Some of the questions you may ask your stakeholder(s) for these dashboards include:
 
 > What are the company objectives?
 
-If this is a Business Intelligence (BI) style dashboard it is going to be primarlily concerned with how well the business is meeting the goals agreed by investors, upper management and directors. These metrics will be used to aid decisions about the focuses of the company, how they can progress, grow and stay afloat. By determiing what the company objectives are that need to be monitored, we can determine what success would look like, and the elements that might be a risk to these objectives.
+If this is a Business Intelligence (BI) style dashboard it is going to be primarily concerned with how well the business is meeting the goals agreed by investors, upper management and directors. These metrics will be used to aid decisions about the focuses of the company, how they can progress, grow and stay afloat. By determining what the company objectives are that need to be monitored, we can determine what success would look like, and the elements that might be a risk to these objectives.
 
-Managment Information (MI) have projects aiding in the success of these overall objectives. Again by knowing which company objective these intiatves are targeted at aiding, we can measure to determine the effect its having on the overall company objective.
+Management Information (MI) have projects aiding in the success of these overall objectives. Again by knowing which company objective these initiatives are targeted at aiding, we can measure to determine the effect its having on the overall company objective.
 
 > What are the KPI’s of your project
  
-KPI is an acroynm that stands for [Key Performance Indicator](). Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the succcess of the intiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
+KPI is an acronym that stands for [Key Performance Indicator](). Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
 
 > How might this initiative fail?
 
 This is the trickiest one to broach out of the three, but is useful for pretty much every dashboard you will create. Much like with our car dashboard - we want to know when something is failing, especially if we might have something we can do about it or measures to take to minimise the impact of the damage.
 
-No one likes to think about failure, but no one is going to be more aware of the ways it may fail than the experts of the domain. Much like a car manufacturer, who designed and built the car you are driving, have thought about the failures a car may have and put in alerts around that, those working directly with or a domain or that have thought of an initative will probably have a better idea of possible failures.
+No one likes to think about failure, but no one is going to be more aware of the ways it may fail than the experts of the domain. Much like a car manufacturer, who designed and built the car you are driving, have thought about the failures a car may have and put in alerts around that, those working directly with or a domain or that have thought of an initiative will probably have a better idea of possible failures.
 
 **Execution dashboards (operations/development)**
 
@@ -85,7 +85,7 @@ No one likes to think about failure, but no one is going to be more aware of the
 
 ### Requirement gathering and pushing back.
 
-There are going to many points in the creation and maintainence of your dashboards where people will be making suggestions about what should be on them. It might be in the initial conversation with your stakeholders, it may be in a passing comment or it may be a requirement added later on. 
+There are going to many points in the creation and maintenance of your dashboards where people will be making suggestions about what should be on them. It might be in the initial conversation with your stakeholders, it may be in a passing comment or it may be a requirement added later on. 
 
 When having these conversations, there is one rule I stick to. While maintaining a degree of professionalism - **channel your inner toddler**.
 
@@ -95,10 +95,26 @@ When having these conversations, there is one rule I stick to. While maintaining
 </div> 
 <br/>
 
-We all know that ~~annoying~~ adorable phase all kids go through when they are curious about everything in the world. They want to know _why_, _when_, _what_, _who_ and then they might go back to why and the cycle contines. If we channel our inner toddlers and revert back to this tendency - we can keep our dashboards beautiful, clean and useful.
+We all know that ~~annoying~~ adorable phase all kids go through when they are curious about everything in the world. They want to know _why_, _when_, _what_, _who_ and then they might go back to why and the cycle continues. If we channel our inner toddlers and revert back to this tendency - we can keep our dashboards beautiful, clean and useful. 
 
+- **WHY** do you need this information?
+- **WHO** is it for / needs this information?
+- **WHAT** does it provide? Is it measuring anything that we need to track based on the previous conversations we have with our stakeholders around KPI's? Is it a new concern or requirement?
+- **HOW** long is it needed for?
+- **WHY** does it need to live on the dashboard?
+- **COULD** it live somewhere else?
+
+Yes, there are a lot of things that “might be interesting” and that is great but there needs to be an element of purpose to our measurements. If there isn't we end up with over-crowded, uninformative and confusing dashboards where we don't know which metrics we need to react to and which are _interesting_. It leads to dashboards which are hard to use and that inevitably end up neglected or we end up missing information that really needed reacting to.
+
+I'm probably not hiding the pain that I've felt from _"because it's just interesting"_ metrics ending up on dashboards that I've been responsible for in the past.
+
+The last question of _"could it live somewhere else"_ is quite an interesting one. If the information / data is needed for a long term goal or cannot be actioned upon quickly, it probably shouldn't be on a dashboard (there are some exceptions to this rule for operational or development dashes). Maybe it should be in a store, or in logs to be later interpreted with a log analytics tool. If the person needing the information needs to do calculations or models based on the raw data, for instance, the data will definitely need to be stored separate from the dashboard. 
+
+Having purpose for your dashboards, and a reason to react for the metrics on there. By channelling your inner toddler and ensuring these things, you will have metrics you can react to in an effective manner and dashboards that are much easier to work with.
 
 ### Picking which tools you should use.
+
+The importance of communication in the creation of dashboards and visualisations cannot be understated. Picking the tools to create and maintain these now stunning dashboards can also be a challenge.
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
