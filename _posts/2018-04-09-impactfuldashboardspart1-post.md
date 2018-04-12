@@ -62,7 +62,7 @@ Management Information (MI) have projects aiding in the success of these overall
 
 > What are the KPI’s of your project
  
-KPI is an acronym that stands for [Key Performance Indicator](). Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
+KPI is an acronym that stands for [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator). Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
 
 > How might this initiative fail?
 
@@ -84,13 +84,13 @@ This might seem like an obvious question, but the answers may not be what you ex
 
 Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. 
 
-SLA's are [Service Level Agreements](). They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
+SLA's are [Service Level Agreements](https://en.wikipedia.org/wiki/Service-level_agreement). They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
 
 As part of this you may want to find out who should be informed if these KPI's aren't met or SLA's are broken. Also, what action should be taken, if any. What is the impact?
 
 > What are the base metrics we would normally use for this?
 
-There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use [RED]() for your APIs for [USE]() for your services. It might be the [Four Golden Signals from the Google SRE book](). There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
+There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use [RED](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) for your APIs for [USE](http://www.brendangregg.com/usemethod.html) for your services. It might be the [Four Golden Signals from the Google SRE book](https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html). There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
 
 **This does not even nearly cover all the questions you may want to cover with your stakeholders** but it gives you an idea. You need to have the context of why things are measured, how they might be reacted to and how long they need to be measured for. This brings me nicely onto the next section.
 
@@ -129,7 +129,8 @@ The importance of communication in the creation of dashboards and visualisations
 
 #### There isn't one perfect tool that is going to solve all your problems
 
-There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example [Datadog]()) and those that are used for log analytics (an example is[Kibana]()). Some tools will specialise in a certain type of monitoring such as [Tableau]() which is aimed at analysing BI data opposed to [Zabbix]() which is more suited for operational data. There are some that are more cross-functional as well.
+There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example [Datadog](https://www.datadoghq.com/)) and those that are used for log analytics (an example is [Kibana](https://www.elastic.co/guide/en/kibana/current/introduction.html)). Some tools will specialise in a certain type of monitoring such as [Tableau](https://www.tableau.com/‎
+) which is aimed at analysing BI data opposed to [Zabbix](https://www.zabbix.com/) which is more suited for operational data. There are some that are more cross-functional as well.
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
