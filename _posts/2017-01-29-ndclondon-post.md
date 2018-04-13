@@ -83,3 +83,10 @@ NDC lived up to all the hype. It's an amazing experience. It's not just about th
 Along with learning about some great technologies and re-igniting my passion or tech, it's also been a big confidence builder. There are people I can reach out to about a range of things, technical and personal. There's tonnes to learn and get excited about. Everybody is a n00b in some way and that is awesome. I have years to learn and get better as a developer.
 
 NDC is good for you. It's not great for your waistline.
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>

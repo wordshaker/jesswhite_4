@@ -69,3 +69,10 @@ Happy Googling.
 ### Here is the reference
 
 - [Opt out of seeing personalised ads](https://support.google.com/ads/answer/2662922?hl=en-GB)
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>

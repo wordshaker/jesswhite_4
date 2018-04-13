@@ -62,3 +62,10 @@ There were some set themes to the talks. Microservices, Docker, high-quality tes
 Sadly, despite the fantastic Code of Conduct - there was a bit of .NET bashing, which as a .NET dev I thought was sad. My interest in Node is recent but I also love working with C# and would hate to think I can't like both. It was also a shame that thought there was a diverse range of speakers, the panel at the end of the event were all men giving their answers. It would have been nice to have seen more diversity there, and to see if there were any difference in opinion to some fo the questions asked.
 
 Overall, NodeConf is a great conference. I encourage everyone to keep an eye out on Nearforms future events. 
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>

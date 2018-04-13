@@ -229,3 +229,10 @@ Thank you to: [Darren Whitworth](https://www.linkedin.com/in/darrenwhitworth1/),
 - [Google SRE book](https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html)
 - [From Strategy to Business Models and to Tactics](http://www.hbs.edu/faculty/Publication%20Files/10-036.Pdf)
 - [Defining Strategy, Implementation, and Execution](https://hbr.org/2015/03/defining-strategy-implementation-and-execution)
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>

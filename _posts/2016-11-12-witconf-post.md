@@ -133,3 +133,10 @@ Now you know that you are all empowered, intelligent people who are going to be 
 Just because people think they know what's best for you, doesn't mean they are right. If you  stand up for yourself, they will respect your honesty and drive. Be diplomatic though, don't go in with unsupported arguments and expect the world. Most of the time, you know what is best for you. Have the confidence to stand up for what you want. This includes area of your work, pay-rises, promotions, going to conferences and other opportunities. 
 
 > You are a valuable asset. A great engineer. Make sure the world knows it.
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>
