@@ -92,3 +92,10 @@ Overall, for a free event, the quality of the speakers was supprisingly high. Th
 Microservices Day did feel a bit like a practice for NodeConf, but it was free so I cannot complain about that. The talks all followed similar themes and towards the end of the day it started to feel like you had heard the same thing three times over - but I guess that it what comes from having a small area to talk about. 
 
 It was interesting to hear about how companies had dealt with the transition to a microservices architecture and it was the first time I had come across SWIM protocol which I found a particularly interesting concept. The use of Docker in production, and the way in which companies were testing new functionality was slightly different from what I have experienced. There were a few things throughout the day that I think are worthy of further investigation, with the aim of eventually trying out some of them in my own work.                        
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>
