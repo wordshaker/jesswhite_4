@@ -34,7 +34,7 @@ Anyone can attend meetups. Some allow under-18s, some don't (please ask the orga
 
 - **They are fun** : It's always fun to socialise! Make friends! Do something a bit different
 
-- **They are free** : hows that for lowering a boundary! It won't even cost you a penny.
+- **They are free** : how's that for lowering a boundary! It won't even cost you a penny.
 
 There are currently over 30 tech meetups arranged in Nottingham. A list of the event and times can be found at [Nottingham.Digital](https://nottingham.digital/).
 
@@ -81,7 +81,7 @@ If you want to get involved in the tech scene, but aren't too sure about the fac
 
 - **[Cynical Developer](https://cynicaldeveloper.com/)** is probably the most technical of the three. Hosted by James Studdart - topics cover desktop, web and mobile development, mainly around the .Net Stack but often looking into other software and frameworks.
 
-- **[Twine Radio](http://twineradio.co.uk/)** - is hosted by Jonathan Relf. He talks with local meetup organisers and inflencencers about their events, what has happened and what is up ahead.
+- **[Twine Radio](http://twineradio.co.uk/)** - is hosted by Jonathan Relf. He talks with local meetup organisers and influencers about their events, what has happened and what is up ahead.
 
 - **[BookClubPod](http://twineradio.co.uk/)** hosted on TwineRadio this is a brand new podcast. Jonathan Relf, Karl Bagci, Tom Jepson and I talk about some of the tech and non-fiction books we have read, what we think of them and how they influence our work. We plan to have guests in the future. It is a very relaxed podcast, just friends getting together and talking about their reads.
 
@@ -98,7 +98,7 @@ For more info email : [eastmidlands@codeclub.org.uk](mailto:eastmidlands@codeclu
 
 There are many places in Nottingham offering workshops and experiences to take part in. Some are technical - some are not. Here are a couple of places to check out.
 
-- **[NearNow](https://nearnow.org.uk/)** at Broadaway is a _'studio for arts, design and innovation'_. They hst workshops, events, galleries as well as providing fellowships for assisting making creative ideas become a reality.
+- **[NearNow](https://nearnow.org.uk/)** at Broadaway is a _'studio for arts, design and innovation'_. They host workshops, events, galleries as well as providing fellowships for assisting making creative ideas become a reality.
 
 
 - **[Contemporary](http://www.nottinghamcontemporary.org/)** might seem a strange choice for a semi-tech focused list. A lot of great events and workshops are hosted here. There are DJ sets for gaming music, workshops to learn how to code or design... in fact it is so varied it is really hard to make a list. Check it out and find out what interesting things you can find.
@@ -118,7 +118,7 @@ One such event that is returning this year (2018) is the [Game City Festival](ht
 
 ### Games
 
-A bit of a tangent away from tech related things - there are some great places to play games as well. Go to [Dicecup](https://en-gb.facebook.com/thedicecup) and [Ludorati](www.ludoraticafe.com/) to play boardgames or D'n'D. Both have very knowledgeable staff, refreshments and a WHOLE LOT of games. If you prefer something more digital - [ALT](https://en-gb.facebook.com/altgaminglounge/) might be more up your street. Again you can play alone, with friends or attend one of their many events.
+A bit of a tangent away from tech related things - there are some great places to play games as well. Go to [Dicecup](https://en-gb.facebook.com/thedicecup) and [Ludorati](www.ludoraticafe.com/) to play board games or D'n'D. Both have very knowledgeable staff, refreshments and a WHOLE LOT of games. If you prefer something more digital - [ALT](https://en-gb.facebook.com/altgaminglounge/) might be more up your street. Again you can play alone, with friends or attend one of their many events.
 
 ### Community
 
@@ -129,3 +129,10 @@ What I love most is the side effect of attending, learning, enjoying - which is 
 I have made some of my closest friends through the events and community in Nottingham. It helped me believe I could enjoy tech and make it as a developer back when I hadn't even started. It has provided support when it was needed. It has made me want to contribute myself by creating a meetup, mentoring others and speaking. 
 
 Please enjoy all the things that are "up in Notts" - and let me know about the things you find!
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>

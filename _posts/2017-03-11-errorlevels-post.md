@@ -92,3 +92,10 @@ As mentioned throughout, how to use logging levels is not something that is comp
 1. [https://dave.cheney.net/2015/11/05/lets-talk-about-logging](Lets Talk About Logging - Dave Cheney)
 2. [http://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels](StackOverflow - Logging Levels)
 3. [http://stackoverflow.com/questions/7839565/logging-levels-logback-rule-of-thumb-to-assign-log-levels](StackOverflow - Logging Levels 2)
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>

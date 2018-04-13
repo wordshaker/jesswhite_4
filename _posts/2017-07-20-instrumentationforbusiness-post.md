@@ -116,3 +116,10 @@ These dashboards have been built using existing software, and as we move to usin
 The aim is to eventually build team specific dashboards as well as feature specific dashboards. For example, it would be great if the sales or customer service teams had a dashboard they could understand that shows when certain features of the website goes down. They could then be trained on how to respond when these outages occur.
 
 There are many ways in which this work could develop and grow. It's an area I could discuss at length and that's exactly what I’m going to do in a future blog post...
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>

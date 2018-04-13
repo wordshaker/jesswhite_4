@@ -31,3 +31,10 @@ The aim of the first iteration was to enable a vocal alert to be sounded on a So
 We test drove our code, pairing using a red, green, refactor pattern. Once it was shown to be working, [ngrok](https://ngrok.com) was used to produce a secure url to configure a DataDog webhook to, using the webhook integration.
 
 The code for this can be found [here](href="https://github.com/sonos-alerts) with all current instructions on how to work it. The DataDog details are currently not included.
+
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>
