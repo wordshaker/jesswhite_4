@@ -76,13 +76,14 @@ A lot of the questions will be similar. If you work in a development team that w
 
 There are many cases where execution dashboards differ however. Here are just a few of the questions you might want to ask the stakeholder when gathering requirements for your dashboards.
 
+
 > How do you know an app / feature is working?
 
 This might seem like an obvious question, but the answers may not be what you expect. Rather than "you can reach the webpage", success might be that the feature can accept a certain load or have a certain response time. It might be a security concern - the app or feature might want to be only accessible from certain places. **Find out what success should look like**. This will not only help you know the requirements for what your monitoring, but may even provide some test cases or requirements you didn't know about.
 
 > What are the KPI’s / SLA's? 
 
-Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. 
+Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPI's that need to be considered at this level.
 
 SLA's are [Service Level Agreements](https://en.wikipedia.org/wiki/Service-level_agreement). They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
 
@@ -91,6 +92,8 @@ As part of this you may want to find out who should be informed if these KPI's a
 > What are the base metrics we would normally use for this?
 
 There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use [RED](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) for your APIs for [USE](http://www.brendangregg.com/usemethod.html) for your services. It might be the [Four Golden Signals from the Google SRE book](https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html). There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
+
+---
 
 **This does not even nearly cover all the questions you may want to cover with your stakeholders** but it gives you an idea. You need to have the context of why things are measured, how they might be reacted to and how long they need to be measured for. This brings me nicely onto the next section.
 
@@ -119,9 +122,9 @@ Yes, there are a lot of things that “might be interesting” and that is great
 
 I'm probably not hiding the pain that I've felt from _"because it's just interesting"_ metrics ending up on dashboards that I've been responsible for in the past.
 
-The last question of _"could it live somewhere else"_ is quite an interesting one. If the information / data is needed for a long term goal or cannot be actioned upon quickly, it probably shouldn't be on a dashboard (there are some exceptions to this rule for operational or development dashes). Maybe it should be in a store, or in logs to be later interpreted with a log analytics tool. If the person needing the information needs to do calculations or models based on the raw data, for instance, the data will definitely need to be stored separate from the dashboard. 
+The last question of _"could it live somewhere else"_ is quite an interesting one. If the information / data is needed for a long term goal or cannot be actioned upon quickly, it probably shouldn't be on a dashboard (there are some exceptions to this rule for operational or development dashes). Maybe it should be in a store, or in logs to be later interpreted with a log analytics tool. If the person needing the information needs to do calculations or models based on the raw data for instance, the data will definitely need to be stored separate from the dashboard. Maybe in a data store or spreadsheet. 
 
-Having purpose for your dashboards, and a reason to react for the metrics on there. By channelling your inner toddler and ensuring these things, you will have metrics you can react to in an effective manner and dashboards that are much easier to work with.
+Have a purpose for your dashboards, and a reason to react for the metrics on them. By channelling your inner toddler and ensuring these things, you will have metrics you can react to in an effective manner and dashboards that are much easier to work with.
 
 
 ### Putting in baselines / benchmarks
@@ -160,11 +163,11 @@ Going back to what was just mentioned, these tools can have specialisms. If you 
 
 > Does it need to be accessible?
 
-By accessible I mean, do you want the dashboards to be shareable? Do you want people to have to log in to see the details on your dashboards? Do you want them to be openly accessible but only show certain periods of time?
+By accessible I mean, do you want the dashboards to be shareable? Do you want people to have to log in to see the details on your dashboards? Do you want them to be openly accessible but only show certain periods of time? Are these things offered as part of the tooling's features?
 
 > What data sources does it support?
 
-Data sources are where your data is coming from that these metrics are using for their calculations. It could be an excel sheet, a messaging queue, a database... there are a lot of options. 
+Data sources are where your data is coming from that these metrics are using for their calculations. It could be an excel sheet, a messaging queue, a database... there are a lot of options. Does it support the data sources that you want to be building your metrics off / against?
 
 > Can the tool cover the type of queries you will be most commonly using?
 
@@ -172,13 +175,13 @@ Whether it the average journey of a customer through your app or how long it tak
 
 > Does you team have experience / how steep is the learning curve/ are the learning resources good
 
-This one I've seen missed a few times. It takes a lot of time to train a team on a new tool. Even having one or two people that have hardened experience using a tool help it's adoption.
+It takes a lot of time to train a team on a new tool. Even having one or two people that have hardened experience using a tool can help it's adoption. Not only this, but it can be a god-send when things don't behave exactly as expected. 
 
-If the tools that the team are using aren't fit for purpose, or there isn't something in place, consider the training materials. Does is have a few ways in which people can learn the tool? Is the documentation up to date? Is there support available for the tool if its needed, and how much does that cost?
+If the tools that the team are using aren't fit for purpose, or there isn't something in place, consider the training materials. Does is have a few ways in which people can learn the tool? Is the documentation up to date? Is there support available for the tool if its needed, and how much does that cost? Try to ensure that the on-boarding is going to be as easy and supported as possible.
 
 > Does it need support from a development team?
 
-This is part of the previous point, but consider your user. If the person using the tool isn't used to building dashboards using JSON, maybe consider a tool that has a "drag and drop" UI that is more suitable for them. 
+This is part of the previous point, but consider your user. If the person using the tool isn't used to building dashboards using JSON, maybe consider a tool that has a "drag and drop" UI that is more suitable for them. Consider the user and the audience.
 
 #### Cost and Hosting
 
@@ -196,9 +199,9 @@ This may sound like an implementation detail but it will affect cost and conside
 
 Dashboarding isn't the only use of monitoring tools. If you plan to alert using the tool as well, look at what integrations it supports. Some have options for SMS alerting or Slack for example. Others will only provide you with a webhook and expect you to hand roll an alerting system.
 
+---
 
-
-Treat it like Blind Date. If there is a tool that is answering all your questions with what you want to hear - they are probably worth choosing.
+Treat it like Blind Date. If there is a tool that is answering all your questions with what you want to hear - they are probably worth choosing. Again, the above doesn't necessarily cover all the bases. There will be other questions that are company or project specific, or that I have just not thought about or forgotten about at the point in time that I have written this post. This is just a starter-for-ten to help.
 
 ## Next Time On Impactful Dashboarding...
 
