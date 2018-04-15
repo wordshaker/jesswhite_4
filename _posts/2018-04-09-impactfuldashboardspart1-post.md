@@ -99,7 +99,6 @@ There will always be some standard metrics you will want to cover as part of exe
 
 You need to have the context of why things are measured, how they might be reacted to and how long they need to be measured for. This brings me nicely onto the next section.
 
-
 ### Requirement gathering and pushing back.
 
 There are going to many points in the creation and maintenance of your dashboards where people will be making suggestions about what should be on them. It might be in the initial conversation with your stakeholders, it may be in a passing comment or it may be a requirement added later on. 
