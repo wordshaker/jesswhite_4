@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating & Maintaining Impactful Dashboards Part One
-description: "Common problems with dashboarding and how to work around them"
+description: "Some handy tips to consider when creating dashboards"
 date: 2018-04-09
 img: ./2018-04-09/header.png
 tags: [monitoring, instrumentation, dashboard]
@@ -208,6 +208,15 @@ Treat it like Blind Date. If there is a tool that is answering all your question
 ## Next Time On Impactful Dashboarding...
 
 There is a _Part Two_ of this series currently in progress. In this post we have covered a lot about the creation of dashboards. The next post will explore maintenance of dashboards. How to tell if your dashboards might need a bit of a rework or refresh and how to approach those problems.
+
+---
+## Creating & Maintaining Impactful Dashboards Series
+
+**Part 1 - [Creation of impactful dashboards](https://jesswhite.co.uk/impactfuldashboardspart1-post/)**
+
+Part 2 - [Continuous Maintenance.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)
+
+---
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
