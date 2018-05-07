@@ -129,7 +129,9 @@ I would love to hear of a pie chart that people can react to on a dashboard that
 
 These are but a few danger signs that can signify that something is going awry with dashboards. There are more, but I have tried to cover a few of the more common ones I have seen.
 
-It is **REALLY** difficult to get to the stage where your dashboards are everything you need them to be; especially for a big, established business or system. These are no quick fixes  
+It is **REALLY** difficult to get to the stage where your dashboards are everything you need them to be; especially for a big, established business or system. There are no quick fixes. A solution that will work for one company won't necessarily work for another (a common rule with monitoring). Any solution will take time to get buy in for and implement.
+
+The pay off is great though. To be able to see the effects of the work being done, the progress towards those business goals. To be able to spot where problems are and whether you can improve them. Do see the direct impact work is having. Monitoring in all its forms is powerful, when done well.
 
 ---
 
@@ -142,3 +144,9 @@ Part 2 - [Continuous Maintenance.](https://jesswhite.co.uk/impactfuldashboardspa
 **Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)**
 
 ---
+
+<br/>
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+![step 1](../assets/img/logo.png)
+</div> 
+<br/>
