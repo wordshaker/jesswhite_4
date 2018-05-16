@@ -215,7 +215,7 @@ There is a _Part Two_ of this series currently in progress. In this post we have
 Part 2 - [Continuous Maintenance.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)
 
 
-Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)
+Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart3-post/)
 
 ---
 

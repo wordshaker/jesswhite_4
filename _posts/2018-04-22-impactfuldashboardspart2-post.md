@@ -113,7 +113,7 @@ Part 1 - [Creation of impactful dashboards](https://jesswhite.co.uk/impactfuldas
 **Part 2 - [Continuous Maintenance.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)**
 
 
-Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)
+Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart3-post/)
 
 ---
 
