@@ -95,7 +95,9 @@ There will always be some standard metrics you will want to cover as part of exe
 
 ---
 
-**This does not even nearly cover all the questions you may want to cover with your stakeholders** but it gives you an idea. You need to have the context of why things are measured, how they might be reacted to and how long they need to be measured for. This brings me nicely onto the next section.
+**This does not even nearly cover all the questions you may want to cover with your stakeholders** but it gives you an idea. The other thing to be careful to be of is the answers to these questions. Make sure that they are measurable. "The user interface needs to be responsive" or "responses from the API need to be fast" are not quantifiable. Ensure that you can get requirements that you can monitor, measure and know you have met.
+
+You need to have the context of why things are measured, how they might be reacted to and how long they need to be measured for. This brings me nicely onto the next section.
 
 ### Requirement gathering and pushing back.
 
