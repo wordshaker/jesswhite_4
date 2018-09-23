@@ -27,7 +27,9 @@ Now this post might seem like a _not so humble brag_, but honestly it's not. I r
 
 I went to a talk by Lars Klint at NDC Sydney where he talked about goal setting and making plans. I'm not the most confident person and I'm relatively introverted despite outward appearance. Over the years I have been working on being able to talk publically. This started with asking questions at events, then asking the first question, then trying to speak.
 
-It's not a thing I would have considered without encouragement from others but off the back of these small things, I have had an amazing year. I have met people I admire, traveled the world (something I've never been able to afford or have the time to do), I've learnt new things and challenged myself. Speaking is still terrifying to me, but I am still learning and trying to make myself better.
+It's not a thing I would have considered without encouragement from others. Thank you to the likes of Todd Gardner and Mat McLoughlin for critiquing abstracts and others for pep talks and advice. Also to Moreton, who is a continual support. It's true what they say, you should surround yourself with more experienced, smarter people than yourself. It is a great way to learn and grow. 
+
+Off the back of these small accomplishments, I have had an amazing year. I have met people I admire, traveled the world (something I've never been able to afford or have the time to do), I've learnt new things and challenged myself. Speaking is still terrifying to me, but I am still learning and trying to make myself better.
 
 Part of the reason I've decided to do this publicly is to encourage others to stop, take a step back, and do the same. Whether your accomplishment is "made an omelette for the first time" or "opened a chain of popular hotels", they are your wins. They are personal. You are winning. 
 
