@@ -15,6 +15,12 @@ speakerbase: jessica-white
 github: wordshaker
 linkedin: jessica-white-67917883
 email: me@jesswhite.co.uk
+sidebars:
+- home_sidebar
+- mydoc_sidebar
+- product1_sidebar
+- product2_sidebar
+- other
 
 # Build Settings
 markdown: kramdown
