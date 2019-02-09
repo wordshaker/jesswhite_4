@@ -3,7 +3,7 @@ layout: post
 title: "Sonos Pi Project"
 description: "For alerting on Sonos based on Datadog events"
 date: 2016-07-10
-img: ./2016-07-10/sonos-pi.jpg
+cover:  "/assets/img/2016-07-10/sonos-pi.jpg"
 tags: [project, js]
 comments: false
 share: true

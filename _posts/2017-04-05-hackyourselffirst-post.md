@@ -3,7 +3,7 @@ layout: post
 title: "Hack Yourself First Day"
 description: "An Oakbrook hack day to learn about security"
 date: 2017-04-05
-img: ./2017-04-05/hack-yersen.jpg
+cover:  "/assets/img/2017-04-05/hack-yersen.jpg"
 tags: [article]
 comments: false
 share: true

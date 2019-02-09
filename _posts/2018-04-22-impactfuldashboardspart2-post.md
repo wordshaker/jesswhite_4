@@ -3,7 +3,7 @@ layout: post
 title: Creating & Maintaining Impactful Dashboards Part Two
 description: "Getting the most out of your dashboards on a day to day basis"
 date: 2018-04-22
-img: ./2018-04-22/header.png
+cover:  "/assets/img/2018-04-22/header.png"
 tags: [monitoring, instrumentation, dashboard]
 comments: false
 share: true

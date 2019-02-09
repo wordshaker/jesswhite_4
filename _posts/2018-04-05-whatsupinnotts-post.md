@@ -3,7 +3,7 @@ layout: post
 title: What's up in Nott's?
 description: "A list of a few techy jewels available in Nottingham"
 date: 2018-04-05
-img: ./2018-04-05/header.png
+cover:  "/assets/img/2018-04-05/header.png"
 tags: [nottingham, personal]
 comments: false
 share: true

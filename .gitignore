@@ -1,10 +1,11 @@
-### Jekyll ###
-.bundle/
-.jekyll-metadata
-/vendor
-Gemfile.lock
-_site/*
+.DS_Store
+
+# Compiled site
 _site
-bin/
-pkg/
-tmp/*
+
+# Sass garbage
+.sass-cache
+
+# Bundler
+.bundle/
+vendor/
