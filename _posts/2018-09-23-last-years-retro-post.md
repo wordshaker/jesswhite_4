@@ -93,8 +93,6 @@ Well, happy third tech birthday to me. Does this mean I'm a real grown-up develo
 
 J x
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

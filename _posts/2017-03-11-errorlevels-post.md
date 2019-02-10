@@ -43,8 +43,8 @@ But what do these mean and when should you use them? For consistent and effectiv
 
 THE WORLD IS ENDING! This is for the worst of the very worst situation. This is for situations which force the application to close. As such their use should be very rare, if used at all. 
 
-<div style="align:center; width:300px; margin-left: 30%;" markdown="1">
-![Fatal](../assets/img//2017-03-11/fatal.gif)
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2017-03-11/fatal.gif" alt="Tools">
 </div>
 
 #### ERROR
@@ -82,9 +82,8 @@ Again, the Trace level is not a level of logging I personally have used much. I 
 
 As mentioned throughout, how to use logging levels is not something that is completely concrete. In this article, I have explored my interpretation of what the levels mean and how to use them. This is from how I would use them in my job as a developer, but also from reading other peoples usage. Please send me any resources on the topic, or experiences that you have found useful.
 
-
-<div style="align:center; width:300px; margin-left: 30%;" markdown="1">
-![End](../assets/img/2017-03-11/end.gif)
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2017-03-11/end.gif" alt="Tools">
 </div>
 
 ### References
@@ -94,8 +93,7 @@ As mentioned throughout, how to use logging levels is not something that is comp
 3. [http://stackoverflow.com/questions/7839565/logging-levels-logback-rule-of-thumb-to-assign-log-levels](StackOverflow - Logging Levels 2)
 
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

@@ -51,7 +51,7 @@ Want to learn about free technologies to help you with Continuous Integration, C
 ##### [Luca Maraschi](https://www.youtube.com/watch?v=TK7eeL3RQ4M) - SWIMming in the microservices ocean:
 Considering this talk was finished less than an hour before it was delivered, it was well presented and the content interesting. Want to know more about how companies like Uber operate? Watch this talk for a few insights..
 
-##### [Matt Clark](https://www.youtube.com/watch?v=pxmXiKlh5OU) - Node.js thats hugely reliable, fast, and scalable:
+##### [Matt Clark](https://www.youtube.com/watch?v=pxmXiKlh5OU) - Node.js that's hugely reliable, fast, and scalable:
 Lessons learned from the BBC about producing fast, reliable and scalable Node apps. These principles also relate highly to working in a microservices style architecture. This talk is a great insight into the workings of certain BBC sites, but also how to avoid potential dangers while developing Node apps.
 
 ### Overview
@@ -59,13 +59,11 @@ The content of NodeConf London was incredibly high quality, and those involved i
 
 There were some set themes to the talks. Microservices, Docker, high-quality testing were all frequently mentioned as important for creating production quality Node apps. I left feeling inspired to investigate numerous things including Server-less architectures, how other companies use Docker in production in greater detail and using Blue-Green architectures to assist in testing on live environments with minimal risk.
 
-Sadly, despite the fantastic Code of Conduct - there was a bit of .NET bashing, which as a .NET dev I thought was sad. My interest in Node is recent but I also love working with C# and would hate to think I can't like both. It was also a shame that thought there was a diverse range of speakers, the panel at the end of the event were all men giving their answers. It would have been nice to have seen more diversity there, and to see if there were any difference in opinion to some fo the questions asked.
+Sadly, despite the fantastic Code of Conduct - there was a bit of .NET bashing, which as a .NET dev I thought was sad. My interest in Node is recent but I also love working with C# and would hate to think I can't like both. It was also a shame that thought there was a diverse range of speakers, the panel at the end of the event were all men giving their answers. It would have been nice to have seen more diversity there, and to see if there were any difference in opinion to some of the questions asked.
 
 Overall, NodeConf is a great conference. I encourage everyone to keep an eye out on Nearforms future events. 
 
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

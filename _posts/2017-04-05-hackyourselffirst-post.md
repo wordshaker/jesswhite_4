@@ -20,10 +20,6 @@ share: true
 
 Our resident shady coder Jordan, organised an epic hack day at Oakbrook to teach us a thing or two about hacking and security. For the first half of the day we were given a list of tools we could investigate. These were both to hack and for helping to make apps more secure.
 
-<div style="align:center; width:80%; margin-left: 8%;" markdown="1">
-![Hack](../assets/img/2017-04-05/hacker.jpg)
-</div>
-
 The second half of the day, we played capture the flag. Jordan hosted two versions of [Troy Hunts](https://www.troyhunt.com/) [Hack Yourself First](https://hackyourselffirst.troyhunt.com/) website with a nifty scoreboard of vulnerabilities. We were split into 2 teams, and were awarded points for successful attacks and pre-emptive defence against certain attacks. 
 
 This day wasn't just for fun. It was to open our eyes to many security issues we wouldn't otherwise have considered. But... IT WAS REALLY FUN!
@@ -81,8 +77,7 @@ A lot of what we took from the day will go on to be applied in our site. It has 
 do the [hack yourself Pluralsight course](https://www.pluralsight.com/courses/hack-yourself-first) to learn a bit more about this vast topic.
 
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

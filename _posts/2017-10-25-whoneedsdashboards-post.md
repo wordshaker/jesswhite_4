@@ -20,7 +20,7 @@ share: true
 
 Dashboarding is part of the instrumentation portion of monitoring. The main purpose of a dashboard, no matter its type, is to enable the ability to quickly process information that a user might need. This may be to understand the current situation, to aide in decision making, or to inform that a reactive action is needed.
 
-In the [Google SRE book](https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html) dashboards are defined as following:
+In the - <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" target="_blank">Google SRE book</a> dashboards are defined as following:
 
 > _"An application (usually web-based) that provides a summary view of a service's core metrics. A dashboard may have filters, selectors, and so on, but is **prebuilt to expose the metrics most important to its users**. The dashboard **might also display team information** such as ticket queue length, a list of high-priority bugs, the current on-call engineer for a given area of responsibility, or recent pushes."_
 
@@ -84,13 +84,12 @@ Dashboards also make it easier to communicate what is going on to other areas of
 ### MI and BI are closely linked. What happens if you combine the two?
 
 Both of these types have their own uses and strengths. By combining the two, you can create a dashboard that's of interest to an even wider audience. By having a combined BI/MI dashboard, a united vision on what the business is trying to achieve and their progress to that goal can be shown. 
- 
-<br/>
+
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![MI BI](../assets/img/2017-10-25/MIBI.JPG)
+<img src="{{site.baseurl}}/assets/img/2017-10-25/MIBI.JPG" alt="Tools">
+</div>
 _Above: A mock of a combined MI and BI dashboard._
-</div> 
-<br/>
+
 
 Pick a key KPI. This may be a financial goal, a number of users or something completely different that is expected to be achieved in a certain time frame. No matter what it is, work that is put forward to departments as a priority is normally guided in some way to achieve this goal. 
 
@@ -148,8 +147,8 @@ Operational dashboards that cover software concerns may include:
 - Database Read/Write times
 - State of queueing technology i.e. partitions or the time to process a message
 - SLA’s of third parties (internal or external) and whether they are being met
-- Utilisation, saturation and error rates for services [(USE)](http://www.brendangregg.com/usemethod.html)
--Rate of traffic, errors and duration of responses for API’s [(RED)](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
+- Utilisation, saturation and error rates for services <a href="http://www.brendangregg.com/usemethod.html" target="_blank">(USE)</a>
+-Rate of traffic, errors and duration of responses for API’s <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" target="_blank">(RED)</a>
 
 These demonstrate how and if a software system is coping with demand. As such, some of these may be covered by development dashboards as well. For instance, if software performance is a concern of a business's development team.
 
@@ -192,7 +191,8 @@ In my opinion, when done well, dashboards can make your life easier. They can he
 
  It also doesn't hurt that they are easy to look at. 
 
- This following quote from [Measuring ITSM](https://www.amazon.co.uk/Measuring-ITSM-Reporting-Management-Executives/dp/1490719458/ref=pd_cp_14_1?_encoding=UTF8&psc=1&refRID=NERK3B79N4A24C5GJN7E) sums up why everyone needs dashboards quite nicely
+ This following quote from
+ <a href="https://www.amazon.co.uk/Measuring-ITSM-Reporting-Management-Executives/dp/1490719458/ref=pd_cp_14_1?_encoding=UTF8&psc=1&refRID=NERK3B79N4A24C5GJN7E" target="_blank">Measuring ITSM</a> sums up why everyone needs dashboards quite nicely
 
 > "If you don't measure it, you can't manage it" <br/>
 > "If you don't measure it, you can't improve it"<br/>
@@ -202,7 +202,7 @@ In my opinion, when done well, dashboards can make your life easier. They can he
 
 In order to make informed decisions you need a baseline and to measure progress. In order to fix or improve things, you need to be able to see when something is broken or can be improved. 
 
-Dashboards could be used to a further extent than what is covered in this post. How great would it be if thosse with direct customer contact had a dashboard of which parts of the product was down for maintenance or how many calls/emails were waiting? Or if sales had a board with their running totals versus aimed profit? Not only do dashboards make it easier to work with information, be reactive and plan well; but it can help increase openness and communication across business.
+Dashboards could be used to a further extent than what is covered in this post. How great would it be if those with direct customer contact had a dashboard of which parts of the product was down for maintenance or how many calls/emails were waiting? Or if sales had a board with their running totals versus aimed profit? Not only do dashboards make it easier to work with information, be reactive and plan well; but it can help increase openness and communication across business.
 
 **Who needs dashboards?**
 
@@ -231,8 +231,7 @@ Thank you to: [Darren Whitworth](https://www.linkedin.com/in/darrenwhitworth1/),
 - [Defining Strategy, Implementation, and Execution](https://hbr.org/2015/03/defining-strategy-implementation-and-execution)
 
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

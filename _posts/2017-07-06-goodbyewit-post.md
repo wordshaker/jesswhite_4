@@ -27,10 +27,6 @@ In the following 15 months I hope I have met most of the hopes written on those 
 
 The whole experience has been an adventure. I have been involved in things I never could have dreamed, met amazing people and even grown personally. 
 
-<div style="align:center; width:50%; margin-left: 20%;" markdown="1">
-[![Youtube Video](../assets/img/2017-07-06/youtube.JPG)](https://www.youtube.com/watch?v=KBAMsqBzViI "About Women In Tech Nottingham")
-</div>
-
 **To the members of WiTNotts:**
 
 Thank you for the adventure. Without your support Women In Tech Nottingham would never have become what it is. I will still be attending the event, though I will not be organising any more. 
@@ -86,7 +82,11 @@ Overall, it's been a fun ride. I am grateful to you all and will be forever supp
 
 Never forget to be excellent to each other, and party on.
 
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2017-07-06/billandted.gif" alt="Tools">
+</div>
 
-<div style="align:center; width:50%; margin-left: 20%;" markdown="1">
-![Be Excellent](../assets/img/2017-07-06/billandted.gif)
+
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

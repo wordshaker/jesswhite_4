@@ -16,8 +16,7 @@ share: true
 --- 
 <br/>
 
-In Part One of this series of posts [Creation of impactful dashboards
-](https://jesswhite.co.uk/impactfuldashboardspart1-post/) we covered what a dashboard is, and some tips on what to do when thinking about creating a dashboard. 
+In Part One of this series of posts <a href="{{site.baseurl}}2018/04/09/impactfuldashboardspart1-post.html" target="_blank">Creation of impactful dashboards</a> we covered what a dashboard is, and some tips on what to do when thinking about creating a dashboard.
 
 In this section, we are going to cover maintenance of dashboards. Some suggestions on how to keep dashboards useful, and some considerations when working with them.
 
@@ -25,20 +24,18 @@ In this section, we are going to cover maintenance of dashboards. Some suggestio
 
 Many different things involve monitoring from the type we see working with technology, to the good ol' car dash. For the use cases covered in these posts, businesses and systems are monitored. Businesses and systems evolve over time. They need to adapt and grow in order to be successful. The dashboards used to monitor them also need to evolve to stay valid. As the situations and priorities change, we need to adapt our measurements.
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-04-22/lifetimes.png)
-</div> 
-<br/>
+<div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2018-04-22/lifetimes.png" alt="Lifetimes">
+</div>
 
 There are numerous situations in which dashboards will need to be edited, created or deleted:
 
 
 #### Short term dashboards.
 
-A few examples of when short dashboards might be needed include live tests, proof of concepts or for short lived tactical projects. There are a number of reasons why some tactical projects may be short term. For instance, there may be advertising schemes that are centered around a particular event. You may have a football related advert during a world cup for example or, a valentines focused advert. If you know how long an initiative is going to be active for, it's most likely you will need a short term dashboard. 
+A few examples of when short dashboards might be needed include live tests, proof of concepts or for short lived tactical projects. There are a number of reasons why some tactical projects may be short term. For instance, there may be advertising schemes that are centred around a particular event. You may have a football related advert during a world cup for example or, a valentines focused advert. If you know how long an initiative is going to be active for, it's most likely you will need a short term dashboard. 
 
-We will want to know the impact of these projects or tests to see if they were effective, if there is anything we can learn from them or if we should create a full, long lasting version of them. When creating these kinds of dashboards there are a few extra requirements you need to gather. In the post covering the ['creation of impactful dashboards'](https://jesswhite.co.uk/impactfuldashboardspart1-post/) we covered that we need to determine what success and failure looks like and measure the baseline before measuring the change. For short term goals we also need to know at which point this iteration of the project will be considered "finished". For a dashboard based off a tactical project this will be relatively easy to determine - it's when the advert goes offline or the date we no longer want to offer that feature. It needs to be a definite date where we can revisit if the dashboard is going to be of use anymore. 
+We will want to know the impact of these projects or tests to see if they were effective, if there is anything we can learn from them or if we should create a full, long lasting version of them. When creating these kinds of dashboards there are a few extra requirements you need to gather. In the post covering the <a href="{{site.baseurl}}2018/04/09/impactfuldashboardspart1-post.html" target="_blank">'creation of impactful dashboards'</a> we covered that we need to determine what success and failure looks like and measure the baseline before measuring the change. For short term goals we also need to know at which point this iteration of the project will be considered "finished". For a dashboard based off a tactical project this will be relatively easy to determine - it's when the advert goes offline or the date we no longer want to offer that feature. It needs to be a definite date where we can revisit if the dashboard is going to be of use anymore. 
 
 For proof of concepts and tests, this conversation may be a little harder. It may be that the person leading the test is also managing the dashboard. As such, they may be invested in it's success and struggle setting a deadline in which success or failure is determined.A date needs to be determined to revisit the effectiveness and the future direction of the test based on what has been observed. 
 
@@ -78,11 +75,9 @@ If you are showing boards at a "project" or "feature" level on your visible scre
 
 ### Layers
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-04-22/layers.png)
-</div> 
-<br/>
+<div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2018-04-22/layers.png" alt="Layers">
+</div>
 
 The different types of dashboard correspond to different layers in a system. As was just covered, the layer a dashboard may cover can affect peoples exposure to and use of it. Not all layers of dashboard will be visible to the same person / group of people and not all would be displayed at once.
 
@@ -106,19 +101,16 @@ The next section of this series will cover 'danger signs and don'ts' of dashboar
 
 ---
 
-### Creating & Maintaining Impactful Dashboards Series
+_Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 
-Part 1 - [Creation of impactful dashboards](https://jesswhite.co.uk/impactfuldashboardspart1-post/)
+* <a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">Part 1 - Creation of impactful dashboards</a>
 
-**Part 2 - [Continuous Maintenance.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)**
+* <strong><a href="{{site.baseurl}}/2018/04/22/impactfuldashboardspart2-post.html">Part 2 - Continuous Maintenance.</a></strong>
 
-
-Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart3-post/)
+* <a href="{{site.baseurl}}/2018/04/23/impactfuldashboardspart3-post.html">Part 3 - Danger Signs and Don'ts.</a>
 
 ---
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-04-09/logo.png)
-</div> 
-<br/>
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

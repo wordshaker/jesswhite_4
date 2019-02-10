@@ -33,8 +33,6 @@ We test drove our code, pairing using a red, green, refactor pattern. Once it wa
 The code for this can be found [here](href="https://github.com/sonos-alerts) with all current instructions on how to work it. The DataDog details are currently not included.
 
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

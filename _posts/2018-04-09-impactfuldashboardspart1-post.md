@@ -16,7 +16,7 @@ share: true
 --- 
 <br/>
 
-The earlier blog post [Who Needs Dashboards?](http://jesswhite.co.uk/whoneedsdashboards-post/) explored different types of dashboard in a business and why dashboarding is important. It also explored how dashboarding increases transparency and communication in a business, and the benefits of this. 
+The earlier blog post <a href="{{site.baseurl}}2017/10/25/whoneedsdashboards-post.html" target="_blank">Who Needs Dashboards?</a> explored different types of dashboard in a business and why dashboarding is important. It also explored how dashboarding increases transparency and communication in a business, and the benefits of this. 
 
 This series of posts will cover some hints and tips on how to ensure the dashboards you create are easy to maintain and suitable for their purpose.
 
@@ -28,11 +28,9 @@ An example of an everyday dashboard is a dashboard in a car. There are a few dif
 
 A driver would also need to be alerted if there was something wrong with their car that they may need to act on - the oil needs changing or there is a problem with the engine. These will also appear on a dashboard but in a different way to the information that is needed all the time. This is so that attention is drawn to it, that the driver knows it is more urgent. Some cars may show them as a specially shaped light that flashes up when there is a problem. For less urgent alerts, they may show up in a different colour or format. Examples are that the cars indicator lights or fog lights are on. 
 
-<br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-04-09/cardash.png)
-</div> 
-<br/>
+<img src="{{site.baseurl}}/assets/img/2018-04-09/cardash.png">
+</div>
 
 Dashboards are used in very much the same way when covering projects, initiatives and systems. A good dashboard should be easy to read and react to. The information you need on a regular basis should be easy to identify, but if something is abnormal and needs to be reacted to urgently, it should attract the attention of those that need to react to it.
 
@@ -54,17 +52,17 @@ These dashes are to aid and monitor strategic or tactical goals within a busines
 
 Some of the questions you may ask your stakeholder(s) for these dashboards include:
 
-> What are the company objectives?
+* **What are the company objectives?**
 
 If this is a Business Intelligence (BI) style dashboard those using it are going to be primarily concerned with how well the business is meeting the goals as agreed by investors, upper management and directors. These metrics will be used to aid decisions about the focuses of the company, how they can progress, grow and stay afloat. By determining what the company objectives are that need to be monitored, we can determine what success would look like, and the elements that might be a risk to these objectives.
 
 Management Information (MI) have projects aiding in the success of these overall objectives. Again by knowing which company objective these initiatives are targeted at aiding, we can measure to determine the effect its having on the overall company objective.
 
-> What are the KPI’s of your project
+* **What are the KPI’s of your project**
  
-KPI is an acronym that stands for [Key Performance Indicator](https://en.wikipedia.org/wiki/Performance_indicator). Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
+KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
 
-> How might this initiative fail?
+* **How might this initiative fail?**
 
 This is the trickiest one to broach out of the three, but is useful for pretty much every dashboard you will create. Much like with our car dashboard - we want to know when something is failing, especially if we might have something we can do about it or measures to take to minimise the impact of the damage.
 
@@ -77,21 +75,21 @@ A lot of the questions will be similar. If you work in a development team that w
 There are many cases where execution dashboards differ however. Here are just a few of the questions you might want to ask the stakeholder when gathering requirements for your dashboards.
 
 
-> How do you know an app / feature is working?
+* **How do you know an app / feature is working?**
 
 This might seem like an obvious question, but the answers may not be what you expect. Rather than "you can reach the webpage", success might be that the feature can accept a certain load or have a certain response time. It might be a security concern - the app or feature might want to be only accessible from certain places. **Find out what success should look like**. This will not only help you know the requirements for what your monitoring, but may even provide some test cases or requirements you didn't know about.
 
-> What are the KPI’s / SLA's? 
+* **What are the KPI’s / SLA's?**
 
 Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPI's that need to be considered at this level.
 
-SLA's are [Service Level Agreements](https://en.wikipedia.org/wiki/Service-level_agreement). They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
+SLA's are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
 
 As part of this you may want to find out who should be informed if these KPI's aren't met or SLA's are broken. Also, what action should be taken, if any. What is the impact?
 
-> What are the base metrics we would normally use for this?
+* **What are the base metrics we would normally use for this?**
 
-There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use [RED](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) for your APIs for [USE](http://www.brendangregg.com/usemethod.html) for your services. It might be the [Four Golden Signals from the Google SRE book](https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html). There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
+There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" target="_blank">R.E.D</a> for your APIs for <a href="http://www.brendangregg.com/usemethod.html" target="_blank">U.S.E</a> for your services. It might be the <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" target="_blank">Four Golden Signals from the Google SRE book</a>. There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
 
 ---
 
@@ -105,11 +103,9 @@ There are going to many points in the creation and maintenance of your dashboard
 
 When having these conversations, there is one rule I stick to. While maintaining a degree of professionalism - **channel your inner toddler**.
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-04-09/toddler.png)
-</div> 
-<br/>
+<div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2018-04-09/toddler.png" alt="Toddler">
+</div>
 
 We all know that ~~annoying~~ adorable phase all kids go through when they are curious about everything in the world. They want to know _why_, _when_, _what_, _who_ and then they might go back to why and the cycle continues. If we channel our inner toddlers and revert back to this tendency - we can keep our dashboards beautiful, clean and useful. 
 
@@ -144,14 +140,11 @@ The importance of communication in the creation of dashboards and visualisations
 
 #### There isn't one perfect tool that is going to solve all your problems
 
-There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example [Datadog](https://www.datadoghq.com/)) and those that are used for log analytics (an example is [Kibana](https://www.elastic.co/guide/en/kibana/current/introduction.html)). Some tools will specialise in a certain type of monitoring such as [Tableau](https://www.tableau.com/‎
-) which is aimed at analysing BI data opposed to [Zabbix](https://www.zabbix.com/) which is more suited for operational data. There are some that are more cross-functional as well.
+There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example <a href="https://www.datadoghq.com/" target="_blank">Datadog</a>) and those that are used for log analytics (an example is <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html" target="_blank">Kibana</a>). Some tools will specialise in a certain type of monitoring such as <a href="https://www.tableau.com/" target="_blank">Tableau</a> which is aimed at analysing BI data opposed to <a href="https://www.zabbix.com/" target="_blank">Zabbix</a> which is more suited for operational data. There are some that are more cross-functional as well.
 
-<br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-04-09/tools.png)
-</div> 
-<br/>
+<img src="{{site.baseurl}}/assets/img/2018-04-09/tools.png" alt="Tools">
+</div>
 
 To know which one is suitable for your needs at the time often requires research and a building a business case. If you end up using multiple tools - that is ok! There is nothing wrong with that! As long as using multiple tools is suitable for your needs.
 
@@ -159,45 +152,45 @@ Next I will go through some areas that you might consider covering as part of yo
 
 #### User / Development concerns
 
-> Is it for a particular type of monitoring?
+* **Is it for a particular type of monitoring?**
 
 Going back to what was just mentioned, these tools can have specialisms. If you are wanting to do tracing, debugging and be actively using the tool for fixing issues - you might want to use a tool that's particularly good at log analytics. If you are wanting to see how an API or a service is behaving or want to see how many people are using a feature of your website, look at a tool suitable for those measurements. If it is for use by higher management - you might want to look at different tooling again. You aren't going to be short on choice no matter the purpose.
 
-> Does it need to be accessible?
+* **Does it need to be accessible?**
 
 By accessible I mean, do you want the dashboards to be shareable? Do you want people to have to log in to see the details on your dashboards? Do you want them to be openly accessible but only show certain periods of time? Are these things offered as part of the tooling's features?
 
-> What data sources does it support?
+* **What data sources does it support?**
 
 Data sources are where your data is coming from that these metrics are using for their calculations. It could be an excel sheet, a messaging queue, a database... there are a lot of options. Does it support the data sources that you want to be building your metrics off / against?
 
-> Can the tool cover the type of queries you will be most commonly using?
+* **Can the tool cover the type of queries you will be most commonly using?**
 
 Whether it the average journey of a customer through your app or how long it takes for your API to respond to a request - if your most common queries can't be covered by the tool under consideration, it's probably not worth considering.
 
-> Does you team have experience / how steep is the learning curve/ are the learning resources good
+* **Does you team have experience / how steep is the learning curve/ are the learning resources good**
 
 It takes a lot of time to train a team on a new tool. Even having one or two people that have hardened experience using a tool can help it's adoption. Not only this, but it can be a god-send when things don't behave exactly as expected. 
 
 If the tools that the team are using aren't fit for purpose, or there isn't something in place, consider the training materials. Does is have a few ways in which people can learn the tool? Is the documentation up to date? Is there support available for the tool if its needed, and how much does that cost? Try to ensure that the on-boarding is going to be as easy and supported as possible.
 
-> Does it need support from a development team?
+* **Does it need support from a development team?**
 
 This is part of the previous point, but consider your user. If the person using the tool isn't used to building dashboards using JSON, maybe consider a tool that has a "drag and drop" UI that is more suitable for them. Consider the user and the audience.
 
 #### Cost and Hosting
 
-> What’s the budget?
+* **What’s the budget?**
 
 If you can't afford what you are looking at - you probably shouldn't use it, right?
 
-> Do you want to self host or have hosting provided?
+* **Do you want to self host or have hosting provided?**
 
 This may sound like an implementation detail but it will affect cost and considerations for future maintenance.
 
 #### Other features
 
-> Does it support alerting in a way that’s useful to you?
+* **Does it support alerting in a way that’s useful to you?**
 
 Dashboarding isn't the only use of monitoring tools. If you plan to alert using the tool as well, look at what integrations it supports. Some have options for SMS alerting or Slack for example. Others will only provide you with a webhook and expect you to hand roll an alerting system.
 
@@ -210,19 +203,17 @@ Treat it like Blind Date. If there is a tool that is answering all your question
 There is a _Part Two_ of this series currently in progress. In this post we have covered a lot about the creation of dashboards. The next post will explore maintenance of dashboards. How to tell if your dashboards might need a bit of a rework or refresh and how to approach those problems.
 
 ---
-## Creating & Maintaining Impactful Dashboards Series
 
-**Part 1 - [Creation of impactful dashboards](https://jesswhite.co.uk/impactfuldashboardspart1-post/)**
+_Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 
-Part 2 - [Continuous Maintenance.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)
+* <strong><a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">Part 1 - Creation of impactful dashboards</a></strong>
 
+* <a href="{{site.baseurl}}/2018/04/22/impactfuldashboardspart2-post.html">Part 2 - Continuous Maintenance.</a>
 
-Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart3-post/)
+* <a href="{{site.baseurl}}/2018/04/23/impactfuldashboardspart3-post.html">Part 3 - Danger Signs and Don'ts.</a>
 
 ---
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-04-09/logo.png)
-</div> 
-<br/>
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

@@ -9,7 +9,6 @@ comments: false
 share: true
 ---
 
-
 ----
 <center>
 <h3> Improve your online life. Change your targeted ads. </h3>
@@ -30,37 +29,28 @@ There are many reasons why you might not want to see certain adverts. Here's a g
 ### Steps to changing your adverts
 
  * Go into your account settings. This can be done by clicking on your avatar in the far right corner and clicking on 'My Account'.
- 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/2018-02-18/step1.png)
-</div> 
-<br/>
 
+<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2018-02-18/step1.png" alt="Tools">
+</div>
 
  * Click on Ad Settings and navigate to manage add settings.
 
-<br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 2](../assets/img/2018-02-18/step2.png)
-</div> 
-
+<img src="{{site.baseurl}}/assets/img/2018-02-18/step2.png" alt="Tools">
+</div>
 
 * Here you can list the topics you like to see and those you don't like to see.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 3](../assets/img/2018-02-18/step3.png)
-</div> 
-<br/>
+<img src="{{site.baseurl}}/assets/img/2018-02-18/step3.png" alt="Tools">
+</div>
 
 * Here is what the list of topics looks like if you want to to remove parenting and babies from your targeted adverts. There is also the option of turning off targeted ad's but I am not sure what the user experience would be like.
 
-<br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 4](../assets/img/2018-02-18/step4.png)
-</div> 
-<br/>
-
+<img src="{{site.baseurl}}/assets/img/2018-02-18/step4.png" alt="Tools">
+</div>
 
 #### And that's it
 
@@ -68,11 +58,9 @@ Happy Googling.
 
 ### Here is the reference
 
-- [Opt out of seeing personalised ads](https://support.google.com/ads/answer/2662922?hl=en-GB)
+- <a href="https://support.google.com/ads/answer/2662922?hl=en-GB" target="_blank">Opt out of seeing personalised ads</a>
 
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>

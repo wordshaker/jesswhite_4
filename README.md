@@ -1,15 +1,5 @@
-# Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
+# 
 
-A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
-
-Built with these awesome libraries:
-* [Bourbon][bourbon]
-* [Neat][neat]
-* [Bitters][bitters]
-* [Refills][refills]
-* [Font Awesome][fontawesome]
-* [HighlightJS][highlightjs]
-* [Lightbox][lightbox]
 
 Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
 
@@ -158,8 +148,8 @@ Your personal social network settings are combined with the social sharing optio
 social:
   - name: Twitter                         # Name of the service
     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-    username: TheBenCentra                # (User) Name to display in the footer link
-    url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+    username: JessPWhite               # (User) Name to display in the footer link
+    url: https://twitter.com/JessPWhite # URL of your profile (leave blank to not display in footer)
     desc: Follow me on Twitter            # Description to display as link title, etc
     share: true                           # Include in the "Share" section of posts
 ```

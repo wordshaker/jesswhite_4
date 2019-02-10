@@ -75,7 +75,7 @@ As such the dashboard can be made up with what that person thinks might go on it
 
 Another point to this is if a dashboard is being changed as what it is covering is changing - that's great. You can think about what in the current environment is changing, what you might need to keep an eye on. If you can, you can put telemetry in first to observe the impact of these changes. Sometimes, when monitoring is treated like another tick box, this is neglected. It's doing changes for the sake of it, instead of having it as part of the change.
 
-There will _always_ be some aspects of monitoring that feel like a tick box exercise. Many places have consistent things they monitor for services or API's for example. That is fine - I encourage patterns like [RED]((https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) for API's, [USE](http://www.brendangregg.com/usemethod.html) for services. I encourage following the [Four Golden Signals](https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html) from the Google SRE book. All these are great. All I'm saying is the entire act of monitoring for each project and task shouldn't feel like a tick box with no reason or guidance.
+There will _always_ be some aspects of monitoring that feel like a tick box exercise. Many places have consistent things they monitor for services or API's for example. That is fine - I encourage patterns like <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" target="_blank">R.E.D</a>for API's, <a href="http://www.brendangregg.com/usemethod.html" target="_blank">U.S.E.</a> for services. I encourage following the <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" target="_blank">Four Golden Signals</a> from the Google SRE book. All these are great. All I'm saying is the entire act of monitoring for each project and task shouldn't feel like a tick box with no reason or guidance.
 
 #### What can I do?
 
@@ -135,18 +135,16 @@ The pay off is great though. To be able to see the effects of the work being don
 
 ---
 
-Creating & Maintaining Impactful Dashboards Series
+_Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 
-Part 1 - [Creation of impactful dashboards](https://jesswhite.co.uk/impactfuldashboardspart1-post/)
+* <a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">Part 1 - Creation of impactful dashboards</a>
 
-Part 2 - [Continuous Maintenance.](https://jesswhite.co.uk/impactfuldashboardspart2-post/)
+* <a href="{{site.baseurl}}/2018/04/22/impactfuldashboardspart2-post.html">Part 2 - Continuous Maintenance.</a>
 
-**Part 3 - [Danger Signs and Don'ts.](https://jesswhite.co.uk/impactfuldashboardspart3-post/)**
+* <strong><a href="{{site.baseurl}}/2018/04/23/impactfuldashboardspart3-post.html">Part 3 - Danger Signs and Don'ts.</a></strong>
 
 ---
 
-<br/>
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-![step 1](../assets/img/logo.png)
-</div> 
-<br/>
+<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+</div>
