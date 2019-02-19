@@ -8,12 +8,8 @@
 
       <p><strong>Site Map</strong></p>
       <ul class="pages">
-        {% for page in site.pages %}
-        {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-        {% endfor %}
         <li class="nav-link"><a href="{{ site.baseurl }}/">Blog</a>
+        <li class="nav-link"><a href="{{ site.baseurl }}/about">About</a>
       </ul>
     </div>
 
@@ -23,7 +19,7 @@
       <ul class="social-media-list">
         <li>
           <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope-open"></i>
             <span class="username">{{ site.email }}</span>
           </a>
         </li>
@@ -32,13 +28,16 @@
           {% if social.url != null %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
-              <i class="fa fa-{{ social.icon }}"></i>
+              <i class="fab fa-{{ social.icon }}"></i>
               <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
             </a>
           </li>
           {% endif %}
         {% endfor %}
-
+        <a href="https://noti.st/jesspwhite/" target="_blank">
+          <i class="fas fa-microphone-alt"></i>
+          <span class="username">Notist</span>
+        </a>
       </ul>
     </div>
 
