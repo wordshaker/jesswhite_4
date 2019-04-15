@@ -1,28 +1,8 @@
-# 
+# Jessica White's Blog Page
 
-
-Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
-
-Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
-
-Cover image by Chris M. Morris ([flickr][cover]).
-
-## Features
-
-This theme comes with a number of features, including:
-* Easily customizable fonts and colors
-* Cover images for your homepage and blog posts
-* Pagination enabled by default
-* Archiving of posts by categories and tags
-* Syntax highlighting for code snippets
-* Disqus integration for post comments
-* Lightbox for viewing full-screen photos and albums
-* Google Analytics with custom page name tracking
-* Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)
+This is for the blog page [jesswhite.co.uk](https://jesswhite.co.uk).
 
 ## Installation
-
-If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
 
 If your site already uses Jekyll, follow these steps:
 
@@ -40,24 +20,16 @@ gem install bundler
 bundle install
 ```
 
-## Updating Styles
-
-If you want change the CSS of the theme, you'll probably want to check out these files in the `_sass/` directory:
-
-* `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
-* `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
-* `_layout.scss`: The primary styles for the layout and design of the theme.
-
 ### Important Variables
 
 Here are the important variables from `base/_variables.scss` you can tweak to customize the theme to your liking:
 
 * `$base-font-family`: The font-family of the body text. Make sure to `@import` any new fonts!
 * `$heading-font-family`: The font-family of the headers. Make sure to `@import` any new fonts!
-* `$base-font-size`: The base font-size. Defaults to $em-base from Bourbon (`bourbon/settings/_px-to-em.scss`).
-* `$base-font-color`: The color for the body text.
-* `$action-color`: The color for links in the body text.
-* `$highlight-color`: The color for the footer and page headers (when no cover image provided).
+* `$base-font-size`: The base font-size. Defaults to $gem-base from Bourbon (`bourbon/settings/_px-to-em.scss`).
+* `$base-font-colour`: The colour for the body text.
+* `$action-colour`: The colour for links in the body text.
+* `$highlight-colour`: The colour for the footer and page headers (when no cover image provided).
 
 ## Configuration
 
@@ -195,33 +167,3 @@ The `/js/` directory would contain the corresponding files:
 $ ls js/
 Popmotion.js Vue.js
 ```
-
-## Contributing
-
-Want to help make this theme even better? Contributions from the community are welcome!
-
-Please follow these steps:
-
-1. Fork/clone this repository.
-2. Develop (and test!) your changes.
-3. Open a pull request on GitHub. A description and/or screenshot of changes would be appreciated!
-4. I ([Ben Centra](https://github.com/bencentra)) will review and merge the pull request.
-
-## License
-
-MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENSE.md).
-
-[bencentra]: http://bencentra.com
-[bourbon]: http://bourbon.io/
-[neat]: http://neat.bourbon.io/
-[bitters]: http://bitters.bourbon.io/
-[refills]: http://refills.bourbon.io/
-[fontawesome]: http://fortawesome.github.io/Font-Awesome/
-[highlightjs]: https://highlightjs.org/
-[highlightjs_theme]: https://highlightjs.org/static/demo/
-[lightbox]: http://lokeshdhakar.com/projects/lightbox2/
-[cover]: https://www.flickr.com/photos/79666107@N00/3796678503/in/photolist-6MuYfc-61Rtft-8XzPmY-a6Cozm-54eSMs-6oMJmk-aepZQq-9YkPHp-fiAEGE-dVP4Z5-oxPyJP-atKUFJ-9YHWA5-9YF2f2-9YF2gR-9YHVGN-9YHVvs-qZYYQ6-4JqP2i-a2peGy-9YHVUm-9YHVF7-9YHVCL-9YF3NK-cYteMo-aiPmb9-69dtAi-9YF21x-4aWpmn-7SLiUL-77pqVX-8vXbYv-4HGDSH-a2h5P1-8LsZrQ-9aj1ez-auPZ7q-9YHVMd-9YF2bi-9YF23D-8LpWpn-9an6KL-9YHVZL-dqZ3Cz-2GuvnX-9YHWUo-9YHVWd-p5Roh5-i1zTbv-6sYrUT
-[disqus]: https://disqus.com/
-[ga]: http://www.google.com/analytics/
-[archives]: https://github.com/jekyll/jekyll-archives
-[sitemap]: https://github.com/jekyll/jekyll-sitemap
