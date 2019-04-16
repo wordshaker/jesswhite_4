@@ -145,7 +145,7 @@ This set of talks is based on a talk I've recently presented at a few of the NDC
 
 _Chapter 2 - A Practical Guide To Dashboarding Series_
 
-* <strong><a href="{{site.baseurl}}/2019/03/30/practicaldashboardspart1-post.html">Part 1 - Introduction To Baselines for Dashboards</a></strong>
+* <strong><a href="{{site.baseurl}}/2019/04/15/practicaldashboardspart1-post.html">Part 1 - Introduction To Baselines for Dashboards</a></strong>
 
 * Part 2 - Baselines for Services. _coming soon_
 
