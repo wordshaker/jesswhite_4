@@ -92,9 +92,9 @@ When making dashboards and visualisations covering systems or businesses, the in
 Again going back to the car dashboard, the speedometer needs to be reacted to quickly and therefore is the biggest dial on most car dashboards. The lights that mean your car needs some serious maintenance glow a threatening red. Based on the appearance and position of these signals and displays, a driver knows it's urgency.
 
 - For dashboards at work, colour systems can be used:
-   - Green = Healthy
- - Yellow = Might want to do some investigation into what's going on/keep an eye on it
- - Red = IT BROKE! FIX IT! NOW!
+  - Green = Healthy
+  - Yellow = Might want to do some investigation into what's going on/keep an eye on it
+  - Red = IT BROKE! FIX IT! NOW!
 
 - If there are two things that are likely to have an effect on each other - maybe you want to easily see information on both and how they are interacting easily.
 
@@ -167,4 +167,3 @@ _Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 <div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>
-
