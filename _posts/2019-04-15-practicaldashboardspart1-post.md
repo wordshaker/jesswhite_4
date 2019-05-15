@@ -20,7 +20,7 @@ The majority of us use dashboards and graphs in everyday life. From using modern
 
 As technologists and business people, we work with complex systems and environments. We want to know the state of these systems. It's useful to be able to see the effects of our actions and lack of actions. By having information about what is going on, we can find room to improve. As such, like with managing our budgets by monitoring with graphs and alerts using a banking app, we monitor the systems we are building and maintaining.
 
-In previous posts, I've explored the use or dashboards and visualisations in measuring the state of our systems and businesses. I've talked about the social impact of dashboards as well as their usefulness and suggested ways in which to display information to a team in a way that ensures the information displayed is useful. I've also explored where the display of this information can be less useful and some reasons for why that might happen.
+In <a href="{{site.baseurl}}/2018/04/09/impactfuldashboardspart1-post.html">previous posts</a>, I've explored the use for dashboards and visualisations in measuring the state of our systems and businesses. I've talked about the social impact of dashboards as well as their usefulness and suggested ways in which to display information to a team in a way that ensures the information displayed is useful. I've also explored where the display of this information can be less useful and some reasons for why that might happen.
 
 For this next series of posts, I would like to explore the idea of baselines. Can standardised baselines for certain informational dashboards have a positive impact?
 What baselines have been proposed for certain use cases and how they have worked in practice.
@@ -32,7 +32,7 @@ As with all my posts, this is all based on personal experience. I'm not saying i
 ## Let's Chat Metrics
 ---
 
-For the following posts, much like the previous chapter, I will be talking about metrics opposed to diagnostics.
+For the following posts, much like the previous chapter, I will be talking about metrics as opposed to diagnostics.
 
 **Metrics:**
 
