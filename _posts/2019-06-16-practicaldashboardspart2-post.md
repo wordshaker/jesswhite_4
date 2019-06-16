@@ -30,6 +30,7 @@ As mentioned in the [previous post](https://jesswhite.co.uk/2019/04/15/practical
 In this post, we shall explore how this applies to metrics measuring the health of a service.
 
 ## U.S.E
+---
 
 There is a pattern proposed by [Brendan Gregg](http://www.brendangregg.com/) called [U.S.E](http:/www.brendangregg.com/usemethod.html) used for _"analysing the performance of any system."_ This particular blog post had more of an "operational" focus. He refers often to "resource" which is referring to _"all physical server functional components (CPUs, disks, busses, ...)"_
 
@@ -115,6 +116,7 @@ Harking back at my previous posts - there aren't just technical errors but also 
 In the case of errors showing detriment to business requirement, these should be shown on the dashboard, and depending on effect, maybe should be alerted on.
 
 ## Using these in combination
+---
 
 Together, these metrics are incredibly powerful. 
 
@@ -129,6 +131,7 @@ It might be that utilisation is still good but the saturation has increased. Her
 There are more combinations than those listed here, but over time you learn the patterns of unusual behaviour in your system and how to react. All from less than 5 baseline metrics.
 
 ## Caveat
+---
 
 I've found these particular metrics very useful. Using them across teams as a general baseline makes it easier to move from one team to another and understand the state of their systems. 
 
@@ -137,6 +140,7 @@ If these metrics aren't already in place or if the information isn't available, 
 The introduction of working in this way without having the telemetry (measurements) in place is tricky in itself before taking into account the cultural change. For this to be effective you have to have the investment from your team, and preferably the company as a whole.
 
 ## Coming next...
+---
 
 The next post will contain proposals for baselines for measuring API's. 
 
