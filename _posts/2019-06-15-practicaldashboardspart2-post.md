@@ -17,11 +17,6 @@ share: true
 ---
 <br/>
 
-> **DISCLAIMER:**
-_This chapter is written from my personal experience with dashboarding. Monitoring is a vast field and though I've touched upon various bits, the majority of my experience is in backend development, and I am learning more about operations (which is all very interesting and exciting). As such, the discussed "baselines" will be for backend work. I will not be covering frontend monitoring, performance monitoring, or other forms of monitoring in this current series of posts. They may be broached in future posts as I become older and wiser._
-
-<br/>
-
 As mentioned in the [previous post](https://jesswhite.co.uk/2019/04/15/practicaldashboardspart1-post.html) having baselines for dashboards can be useful for a variety of reasons.
 
 * Recognising patterns for where to investigate when something goes wrong in your system.
