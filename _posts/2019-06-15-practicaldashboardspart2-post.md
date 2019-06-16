@@ -2,8 +2,8 @@
 layout: post
 title: A Practical Guide To Dashboarding Part Two
 description: "Metrics for Services"
-date: 2019-04-15
-cover: "/assets/img/2019-06-16/saturation.png"
+date: 2019-06-15
+cover: "/assets/img/2019-06-15/saturation.png"
 tags: [monitoring, instrumentation, dashboard]
 comments: false
 share: true
@@ -45,7 +45,7 @@ In Brendan Gregg's original definition he describes utilisation as _"the average
 When applying this to our definition for analysing services, this refers to how long a service takes to do it's process, the work it needs to do. It's the time from input to outcome. 
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-06-16/utilisation.png" alt="Layers">
+<img src="{{site.baseurl}}/assets/img/2019-06-15/utilisation.png" alt="Layers">
 </div>
 
 ---
@@ -68,7 +68,7 @@ This is where the definitions I use for service metrics diverges a bit. Here I u
 This could be in a literal queue in the case of services - RabbitMQ, SQS or similar. There a couple of measures for this - the depth of queue, and the oldest message.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-06-16/saturation.png" alt="Layers">
+<img src="{{site.baseurl}}/assets/img/2019-06-15/saturation.png" alt="Layers">
 </div>
 
 ---
@@ -89,7 +89,7 @@ For monitoring services, errors are pretty much what you would expect. When meas
 Without causing too much noise we need to measure these errors in a suitable way. If it is a fatal error, don't just show it on a dashboard - alert on it. It needs an immediate response.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-06-16/error.png" alt="Layers">
+<img src="{{site.baseurl}}/assets/img/2019-06-15/error.png" alt="Layers">
 </div>
 
 ---
