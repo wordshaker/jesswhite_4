@@ -141,6 +141,13 @@ I plan to only talk through APIs and services for now, as these are the areas I 
 
 This set of talks is based on a talk I've recently presented at a few of the NDC Conferences - _A Practical Guide To Dashboarding_. It will go a little more in-depth, and I will share similar resources and maybe even record a couple of accompanying examples to go along with the posts. I have learnt a little more since the first presentation, as is always the way.
 
+## See the talk
+---
+
+You can watch the talk relating to this particular series here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-3g4qjQ0Qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 _Chapter 2 - A Practical Guide To Dashboarding Series_
