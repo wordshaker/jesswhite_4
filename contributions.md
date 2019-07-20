@@ -99,6 +99,14 @@ London .NET User Group (Meetup)
 
 ## Sponsorship and Mentorship
 
+For events that I have been invited to speak at but have not been able to attend, I have sponsored other female speakers and mentored them through their first talks.
+
+<div class="center">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You got me my first talk and coached me through writing it and all the extras that speaking involves 🙏</p>&mdash; Ashley Smith 🦊🌻 (@TuffersTests) <a href="https://twitter.com/TuffersTests/status/1151104262618976256?ref_src=twsrc%5Etfw">July 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
 ---
 
 ## Awards
