@@ -19,6 +19,7 @@ permalink: /contributions/
 ---
 
 ## Presentations
+_See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> for more talk information_
 
 #### Introducing a Culture of Monitoring
 **2019**
@@ -41,24 +42,30 @@ permalink: /contributions/
 
 #### A Practical Guide To Dashboarding
 **2019**
-- NDC Porto
+
+- <a href="https://www.youtube.com/watch?v=n-3g4qjQ0Qg" target="_blank">NDC Porto</a>
 - NDC Copenhagen
 - NDC London
 
 **2018**
-London .NET User Group (Meetup)
+- <a href="https://skillsmatter.com/skillscasts/12510-a-practical-guide-to-dashboarding" target="_blank">London .NET User Group</a>
 
 #### Creating & Maintaining Impactful Dashboards
 **2018**
-- NDC Sydney
-- NDC Minnesota
+- <a href="https://www.youtube.com/watch?v=7jPDnF5bXNw" target="_blank">NDC Sydney</a>
+- <a href="https://vimeo.com/271363592" target="_blank">NDC Minnesota</a>
 - WXG
 
 #### Who needs Dashboards?
 **2018**
-- NDC London
+
+- <a href="https://vimeo.com/271363592" target="_blank">NDC London</a>
 - Hull Devs
-- Dot York
+- <a href="https://dotyork.com/speakers/jessica-white" target="_blank">Dot York</a>
+
+#### Be A Great Engineer
+**2016**
+- <a href="https://jesswhite.co.uk/2016/11/12/witconf-post.html" target="_blank">WITConf, University of Birmingham</a>
 
 ---
 
@@ -87,13 +94,22 @@ London .NET User Group (Meetup)
 
 ## Outreach
 - **Supporting Second Year Projects for The University of Nottingham**
+At UNiDAYS in 2018 I project managed two second-year projects for The University Of Nottingham. This involved coming up with the projects, coordinating with the university, organising workshops, managing the mentors of the project, making sure the work was on track and that both the company and students were getting the most out of the experience. 
+
+    I am now (2019) assisting on running the same initiative with my employer, Experian.
+
+- **Careers Fairs at Local Secondary Schools**
+I have ran stalls at a couple of careers fairs promoting the local tech community and jobs to secondary school students.
+
+- **Q&A Sessions & advocacy for School Of Code**
+<a href="https://blog.schoolofcode.co.uk" target="_blank">School Of Code</a> has been running for two years now (2019) and for both cohorts of students I have ran an "untweetable truth" Q&A session. I am a huge supporter of this initiative and am very vocal about it on all social media.
 
 ---
 
 ## Volunteering
 
-- NDC Oslo 
-- NDC London
+- <a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" target="_blank">NDC Oslo</a>
+- <a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" target="_blank">NDC London</a>
 
 ---
 
@@ -112,7 +128,6 @@ For events that I have been invited to speak at but have not been able to attend
 ## Awards
 
 #### 2018
-
 - <a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>
 - <a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>
 - <a href="https://wearetechwomen.wearethecity.com/" target="_blank">Shortlisted for the WeAreTechWomen TechWomen50 Awards 2018</a>
@@ -122,6 +137,8 @@ For events that I have been invited to speak at but have not been able to attend
 ## Podcast
 **2018**
 - <a href="https://www.dotnetrocks.com/?show=1526" target="_blank">.Net Rocks</a>
+- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496?autoplay=true" target="_blank">Side Hustle Success Podcast</a>
+- <a href="https://www.stitcher.com/podcast/twine-radio/book-club-pod" target="_blank">A regular on BookClubPod</a>
 
 ---
 ## Publications
