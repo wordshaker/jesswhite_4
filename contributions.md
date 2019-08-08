@@ -15,6 +15,8 @@ permalink: /contributions/
 - [Awards](#awards)
 - [Podcast](#podcast)
 - [Publications](#publications)
+- [Memberships](#memberships)
+- [Applications](#applications)
 
 ---
 
@@ -146,3 +148,12 @@ For events that I have been invited to speak at but have not been able to attend
 - <a href="https://www.theguardian.com/education/2018/jul/09/graduate-experience-everything-life-tech-days-software-developer" target="_blank">
 Featured in The Guardian Graduate Section</a>
 
+---
+## Memberships
+**2019**
+- .NET Foundation Member
+
+---
+## Applications
+**2019**
+- <a href="https://election.dotnetfoundation.org/campaign-2019/jessica-white.html" target="_blank">Ran for the .NET Foundation Elections</a>
