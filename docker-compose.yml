@@ -1,10 +1,14 @@
-version: '3'
+version: "3"
 services:
   site:
+    command: jekyll serve
     image: jekyll/jekyll:latest
-    command: jekyll serve --watch --force_polling --verbose
     volumes:
-      - ./site:/srv/jekyll
-      - ./vendor/bundle:/usr/local/bundle
+      - .:/srv/jekyll
     ports:
       - 4000:4000
+  build:
+    command: jekyll build
+    image: jekyll/jekyll:latest
+    volumes:
+      - .:/srv/jekyll
