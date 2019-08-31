@@ -2,6 +2,7 @@
 
 # Compiled site
 _site
+site/*
 
 # Sass garbage
 .sass-cache
