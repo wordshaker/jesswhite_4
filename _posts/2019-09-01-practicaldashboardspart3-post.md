@@ -38,21 +38,30 @@ There is a lot of overlap between these patterns, and personally, I've used a mi
 
 ---
 
- The Four Golden Signals are mentioned in the Monitoring Distributed Systems chapter of the Google SRE book. Used in combination, the four metrics discussed are incredibly powerful.
+The Four Golden Signals are mentioned in the Monitoring Distributed Systems chapter of the Google SRE book. Used in combination, the four metrics discussed are incredibly powerful.
 
 ### Latency 
-the time between request and response but with a focus of the difference between successful and erroring requests.
 
+This is the time between request and response but with a focus of the difference between successful and erroring requests. The reason for this is a slow error can give different context to a fast error, and it is always useful to know if a successful response is made within the expected time range. 
+
+The example given in the SRE book is as follows
+
+>  _For example, an HTTP 500 error triggered due to loss of connection to a database or other critical backend might be served very quickly; however, as an HTTP 500 error indicates a failed request, factoring 500s into your overall latency might result in misleading calculations_
+
+Alongside helping to diagnose problems with the API, measuring API latency is also important for determining if the API is meeting any Service Level Agreements that have been agreed internally or externally. As you would have expected baselines around latency, you could even set alerts if your 95th percentile doesn't meet these expectations.
 
 ### Traffic 
-requests per second. A measure of the load on the API.
+
+This refers to the requests made to an API per second. The reason to measure this is to observe the load on the API and it's effects. If there is a spike in traffic that correlates with a problematic rise in latency or errors, it suggests that the API may want to be scaled to cope with the traffic. 
+
+If the traffic is at expected levels, and there are problems elsewhere, it may not be dealing with the load that's causing your problems.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/img/2019-09-01/traffic.png" alt="Errors">
 </div>
 
 ---
-_Analogy:ut._
+_Analogy: In the picture, the latency is represented by how many cars cross the finish line in a set amount of times._
 
 ---
 
@@ -64,7 +73,7 @@ same as before, a count of errors.
 </div>
 
 ---
-_Analogy:ut._
+_Analogy: There's no analogy here. An error is an error. It's just an excuse to draw Clippy._
 
 ---
 
