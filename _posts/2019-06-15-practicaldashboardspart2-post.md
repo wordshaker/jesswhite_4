@@ -147,7 +147,7 @@ _Chapter 2 - A Practical Guide To Dashboarding Series_
 
 * <strong><a href="{{site.baseurl}}/2019/05/15/practicaldashboardspart2-post.html">Part 2 - Baselines for Services. </a></strong>
 
-* Part 3 - Baselines for API's. _coming soon_
+* <a href="{{site.baseurl}}/2019/08/31/practicaldashboardspart3-post.html">Part 3 - Baselines for API's.</a>
 
 ---
 

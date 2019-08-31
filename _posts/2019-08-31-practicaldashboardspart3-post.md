@@ -2,8 +2,8 @@
 layout: post
 title: A Practical Guide To Dashboarding Part Three
 description: "Metrics for APIs"
-date: 2019-09-01
-cover: "/assets/img/2019-09-01/traffic.png"
+date: 2019-08-31
+cover: "/assets/img/2019-08-31/traffic.png"
 tags: [monitoring, instrumentation, dashboard]
 comments: false
 share: true
@@ -20,8 +20,7 @@ share: true
 As mentioned in the [previous post](https://jesswhite.co.uk/2019/04/15/practicaldashboardspart1-post.html) having baselines for dashboards can be useful for a variety of reasons.
 
 * Recognising patterns for where to investigate when something goes wrong in your system.
-* Transferable knowledge across teams.
-
+* Transferable knowledge across teams.3
 In this post, we shall explore how this applies to metrics measuring the health of APIs.
 
 ## Two Recommended Baselines
@@ -59,7 +58,7 @@ This refers to the requests made to an API per second. The reason to measure thi
 If the traffic is at expected levels, and there are problems elsewhere, it may not be dealing with the load that's causing your problems.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-09-01/traffic.png" alt="Errors">
+<img src="{{site.baseurl}}/assets/img/2019-08-31/traffic.png" alt="Errors">
 </div>
 
 ---
@@ -78,7 +77,7 @@ This means in order to determine what an erroring call, conversations will be ne
 The reason to measure the difference between success and failing calls is because this ratio can be an expected difference, or can tell you more about why you are seeing differences in latency.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-09-01/error.png" alt="Errors">
+<img src="{{site.baseurl}}/assets/img/2019-08-31/error.png" alt="Errors">
 </div>
 
 ---
@@ -170,7 +169,7 @@ _Chapter 2 - A Practical Guide To Dashboarding Series_
 
 * <a href="{{site.baseurl}}/2019/05/15/practicaldashboardspart2-post.html">Part 2 - Baselines for Services. </a>
 
-* <strong><a href="{{site.baseurl}}/2019/09/01/practicaldashboardspart3-post.html">Part 3 - Baselines for API's.</a></strong>
+* <strong><a href="{{site.baseurl}}/2019/08/31/practicaldashboardspart3-post.html">Part 3 - Baselines for API's.</a></strong>
 
 ---
 
