@@ -2,7 +2,7 @@
 layout: post
 title: A Practical Guide To Dashboarding Part Three
 description: "Metrics for APIs"
-date: 2019-06-15
+date: 2019-09-01
 cover: "/assets/img/2019-09-01/traffic.png"
 tags: [monitoring, instrumentation, dashboard]
 comments: false
@@ -88,7 +88,7 @@ _Analogy: There's no analogy here. An error is an error. It's just an excuse to 
 
 ### Saturation 
 
-The saturation is percentage of your systems resources that are currently in use. This is not the easiest of aspects to measure, and sometimes it isn't possible at all, as it first requires load testing your API.
+The saturation is a percentage of your systems resources that are currently in use. This is not the easiest of aspects to measure, and sometimes it isn't possible at all, as it first requires load testing your API.
 
 First we need to know the limits of our baselines. How much traffic can the API handle before the most restrained resource can't take any more. Measures can include CPU utilization or network bandwidth. 
 
@@ -156,7 +156,7 @@ There are numerous behaviours that can suggest things going wrong in the API jus
 ## Summary
 ---
 
-Hopefully, this has demonstrated some of the baselines you can use to help diagnose the problems with your APIs and what different behaviours might help guide our actions for fixing those issues.
+Hopefully, this has demonstrated some of the baselines you can use to help diagnose problems with your APIs and what different behaviours might help guide our actions for fixing those issues.
 
 I'll emphasise again that these are but one part of monitoring and should be used alongside good diagnostic tooling (such as logging and tracing) and alerting. 
 
