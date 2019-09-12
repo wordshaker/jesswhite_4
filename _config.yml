@@ -69,3 +69,5 @@ social:
 
 protocols:
     twitter_image: "/assets/logo.png"
+
+permalink: /:year/:month/:day/:title:output_ext
