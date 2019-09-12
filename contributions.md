@@ -11,6 +11,8 @@ permalink: /contributions/
 - [Event Organisation](#event-organisation)
 - [Outreach](#outreach)
 - [Volunteering](#volunteering)
+    - [Organisations](#organisations)
+    - [Conferences](#conferences)
 - [Sponsorship and Mentorship](#sponsorship-and-mentorship)
 - [Awards](#awards)
 - [Podcast](#podcast)
@@ -25,7 +27,7 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 
 #### Introducing a Culture of Monitoring
 **2019**
-- ProgNet London
+- <a href="https://skillsmatter.com/skillscasts/14139-introducing-a-culture-of-monitoring" target="_blank">ProgNet London</a>
 
 #### The Future is Cross-functional
 **2019**
@@ -72,9 +74,12 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 ---
 
 ## Panel Discussions
+**2019**
+- <a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" target="_blank">ProgNET Have I Got .NET For You (comedy)</a>
+
+**2018**
 - Women In STEM for International Women's Day Trent Uni
 - Lincs Tech Week - The Future of Technology
-- Inspire WiT 
 
 ---
 
@@ -109,6 +114,14 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 ---
 
 ## Volunteering
+
+### Organisations
+- **.NET Foundation Action Groups**
+    - Outreach 
+    - Membership 
+    - Speaker Bureau and Meetups  
+
+### Conferences
 
 - <a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" target="_blank">NDC Oslo</a>
 - <a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" target="_blank">NDC London</a>
