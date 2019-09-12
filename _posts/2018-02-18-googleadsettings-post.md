@@ -4,7 +4,7 @@ title: Changing your Google Adverts
 description: "Because sometimes the algorithms are way off"
 date: 2018-01-29
 cover:  "/assets/img/2018-02-18/header.jpg"
-tags: [lifehack, adverts, personal]
+categories: [personal, lifehack]
 comments: false
 share: true
 ---

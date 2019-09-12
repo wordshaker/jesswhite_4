@@ -4,7 +4,7 @@ title: "Microservices Day"
 description: "Microservices Day London 2016"
 date: 2016-05-10
 cover:  "/assets/img/2016-05-10/micro-day.jpg"
-tags: [conference, js, attended]
+categories: [event, review]
 comments: false
 share: true
 ---
@@ -52,7 +52,7 @@ He went on to discuss that each service should have a local view of itself, but 
 An example of the implementation of a microservices architecture using Node.JS written by Richard can be found [here](https://github.com/senecajs/ramanujan). This is a Twitter like app that uses the Seneca microservices framework that is also a good example of the SWIM protocol for peer-to-peer discovery.
 
 #### [Fred George](https://www.youtube.com/watch?v=WKTtnVb83mQ) - How to enable organizations to go faster:
-Fred George is a pretty well known speaker, so admittedly I was excited to see him speak. In this talk he explored the hot topics surrounding microservices, which pretty much covered the common themes throughout the whole day. He then went on to discuss the [Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_Framework) and how it acn be used to judge how profitable a solution to a problem may be as well as whether a company should use traditional or non-traditional methods to solve it.
+Fred George is a pretty well known speaker, so admittedly I was excited to see him speak. In this talk he explored the hot topics surrounding microservices, which pretty much covered the common themes throughout the whole day. He then went on to discuss the [Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin_Framework) and how it can be used to judge how profitable a solution to a problem may be as well as whether a company should use traditional or non-traditional methods to solve it.
 
 He went on to discuss the 5 points which can help an organisation progress:
 1. Understand your problem.
@@ -87,7 +87,7 @@ Decoupling the microlith us difficult and investment in logging is VERY importan
 It was interesting seeing how another company has approached the monolith to microservices journey and the tools they found useful. There seems to be many variations of this journey but a lot of the same difficulties are faced in each.
 
 ### Overview
-Overall, for a free event, the quality of the speakers was supprisingly high. The venue was fantastic, the staff friendly and the general vibe was very open. As a conference, I would recommend it for both those wanting to explore moving into a microservices architecture and those that are established. It is good to learn from other companies wins and mistakes, but also there are a lot of practices and tools that may be useful.
+Overall, for a free event, the quality of the speakers was surprisingly high. The venue was fantastic, the staff friendly and the general vibe was very open. As a conference, I would recommend it for both those wanting to explore moving into a microservices architecture and those that are established. It is good to learn from other companies wins and mistakes, but also there are a lot of practices and tools that may be useful.
 
 Microservices Day did feel a bit like a practice for NodeConf, but it was free so I cannot complain about that. The talks all followed similar themes and towards the end of the day it started to feel like you had heard the same thing three times over - but I guess that it what comes from having a small area to talk about. 
 

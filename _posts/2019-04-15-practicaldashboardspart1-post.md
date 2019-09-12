@@ -4,7 +4,7 @@ title: A Practical Guide To Dashboarding Part One
 description: "Introduction To Baselines for Dashboards"
 date: 2019-04-15
 cover: "/assets/img/2019-04-15/header.png"
-tags: [monitoring, instrumentation, dashboard]
+categories: [monitoring, dashboarding]
 comments: false
 share: true
 ---

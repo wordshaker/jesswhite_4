@@ -4,7 +4,7 @@ title: "Error! Error!"
 description: "Getting your error levels right - An assessment of error levels and what they mean"
 date: 2017-03-11
 cover:  "/assets/img/2017-03-11/err.jpg"
-tags: [article, monitoring, alerting, errors]
+categories: [monitoring, logging]
 comments: false
 share: true
 ---

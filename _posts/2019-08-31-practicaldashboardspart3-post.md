@@ -4,7 +4,7 @@ title: A Practical Guide To Dashboarding Part Three
 description: "Metrics for APIs"
 date: 2019-08-31
 cover: "/assets/img/2019-08-31/traffic.png"
-tags: [monitoring, instrumentation, dashboard]
+categories: [monitoring, dashboarding]
 comments: false
 share: true
 ---

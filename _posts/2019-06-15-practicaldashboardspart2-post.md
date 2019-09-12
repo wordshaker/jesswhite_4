@@ -4,7 +4,7 @@ title: A Practical Guide To Dashboarding Part Two
 description: "Metrics for Services"
 date: 2019-06-15
 cover: "/assets/img/2019-06-15/saturation.png"
-tags: [monitoring, instrumentation, dashboard]
+categories: [monitoring, dashboarding]
 comments: false
 share: true
 ---

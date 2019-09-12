@@ -4,7 +4,7 @@ title: "NodeConf London"
 description: "NodeConf London 2016"
 date: 2016-05-11
 cover:  "/assets/img/2016-05-11/nodeconf.jpg"
-tags: [conference, js, attended]
+categories: [event, review]
 comments: false
 share: true
 ---

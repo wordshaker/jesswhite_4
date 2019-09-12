@@ -4,7 +4,7 @@ title: Creating & Maintaining Impactful Dashboards Part One
 description: "Some handy tips to consider when creating dashboards"
 date: 2018-04-09
 cover:  "/assets/img/2018-04-09/header.png"
-tags: [monitoring, instrumentation, dashboard]
+categories: [monitoring, dashboarding]
 comments: false
 share: true
 ---
