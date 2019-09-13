@@ -18,12 +18,18 @@ share: true
 --- 
 <br/>
 
-We are going to explore different levels of error, what they mean and when they should be used. Before we begin, there is a disclaimer: in my opinion logging is very important - but so is avoiding noise. I prefer logs that have a purpose and are going to be used. If I can't use it or
+# Introduction
+---
+
+This is an exploration of the different levels of error, what they mean and when they should be used. Before we begin, there is a disclaimer: in my opinion logging is very important - but so is avoiding noise. I prefer logs that have a purpose and are going to be used. If I can't use it or
 act on it at any time, it's not getting logged. 
 
 This article is based off what I have learnt and my experience using logs as a developer. I'm currently using these levels in C# using Serilog, so this is where they will probably most applicable but the concepts will be made as generic as possible.
 
-## Basic Error levels
+<br/>
+
+# Basic Error levels
+---
 
 There are many different levels available for logging including:
 
@@ -42,10 +48,6 @@ But what do these mean and when should you use them? For consistent and effectiv
 #### FATAL
 
 THE WORLD IS ENDING! This is for the worst of the very worst situation. This is for situations which force the application to close. As such their use should be very rare, if used at all. 
-
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2017-03-11/fatal.gif" alt="Tools">
-</div>
 
 #### ERROR
 
@@ -78,15 +80,14 @@ The Trace or Verbose level of logging is often used for very detailed level logg
 
 Again, the Trace level is not a level of logging I personally have used much. I can definitely see how it could be useful if used with discipline.
 
-### In conclusion..
+<br/>
+
+# In Conclusion.
+---
 
 As mentioned throughout, how to use logging levels is not something that is completely concrete. In this article, I have explored my interpretation of what the levels mean and how to use them. This is from how I would use them in my job as a developer, but also from reading other peoples usage. Please send me any resources on the topic, or experiences that you have found useful.
 
-<div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2017-03-11/end.gif" alt="Tools">
-</div>
-
-### References
+## References
 
 1. [https://dave.cheney.net/2015/11/05/lets-talk-about-logging](Lets Talk About Logging - Dave Cheney)
 2. [http://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels](StackOverflow - Logging Levels)
