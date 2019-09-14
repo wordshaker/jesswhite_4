@@ -3,7 +3,7 @@ layout: post
 title: Who Needs Dashboards?
 description: "An overview of the different types of dashboards and what they are for"
 date: 2017-10-25
-cover:  "/assets/img/2017-10-25/header.jpg"
+cover:  "/assets/img/2017-10-25/header.png"
 categories: [monitoring, dashboarding]
 comments: false
 share: true

@@ -3,7 +3,7 @@ layout: post
 title: "Be A Great Engineer - WITConf, University of Birmingham"
 description: "My talk at the Women In Tech Conference 2.0 at The University of Birmingham"
 date: 2016-11-12
-cover:  "/assets/img/2016-11-12/wit-brum-2.jpg"
+cover:  "/assets/img/2016-11-12/header.png"
 categories: [personal, conference, speaking]
 comments: false
 share: true
@@ -135,7 +135,7 @@ Just because people think they know what's best for you, doesn't mean they are r
 > You are a valuable asset. A great engineer. Make sure the world knows it.
 
 
-
+<br/>
 <div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>
