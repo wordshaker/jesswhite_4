@@ -16,3 +16,13 @@ jobs:
         gem install bundler
         bundle install --jobs 4 --retry 3
         jekyll build
+    - name: Deploy	
+      env:	
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}	
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}	
+      run: |	
+        aws s3 cp \	
+          --recursive \	
+          --acl public-read \	
+          --region eu-west-1 \ 	
+          ./_site/ [s3://jesswhite/] 
