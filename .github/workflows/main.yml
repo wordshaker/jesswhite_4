@@ -19,7 +19,7 @@ jobs:
     - name: Set AWS CLI	
       env:	
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}	
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}	
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_ACCESS_SECRET_KEY }}	
       run: |
         sudo pip install --upgrade pip
         echo "pip upgraded"
@@ -32,4 +32,5 @@ jobs:
         echo "AWS CLI configured"
     - name: Deploy To S3
       run: |
-        aws s3 sync ./_site/ s3://jesswhite/
+        aws s3 sync ./_site/ s3://jesswhite/  --delete
+        echo "Deployed to S3"
