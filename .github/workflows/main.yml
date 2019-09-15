@@ -32,4 +32,4 @@ jobs:
         echo "AWS CLI configured"
     - name: Deploy To S3
       run: |
-        aws s3 sync ./_site/ s3://jesswhite/ --delete
+        aws s3 sync ./_site/ s3://jesswhite/
