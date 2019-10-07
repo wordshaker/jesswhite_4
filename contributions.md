@@ -36,12 +36,14 @@ permalink: /contributions/
 ---
 
 ## Event Organisation
+
 ### Agenda And Organisation Committees
 The below lists organisations that I have joined committees for, either for agenda selection or other organisational needs.
 
 #### 2019 - Present
 - **NDC London Agenda Committee** 
 - **ProgNET**
+
 <br/>
 
 ### Individual Event Organisation
@@ -53,6 +55,8 @@ Organised for members from Women In Tech Nottingham to take part in the local ha
 
 - #### Hidden Figures Screening
 to celebrate International Women's Day and raise money for Code Club East Midlands (2016).
+
+<br/>
 
 ---
 
