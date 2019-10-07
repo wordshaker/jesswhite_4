@@ -59,6 +59,16 @@ to celebrate International Women's Day and raise money for Code Club East Midlan
 ## Presentations
 _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> for more talk information_
 
+### Title to Be Confirmed.
+#### 2019
+
+- <a href="https://www.women-in-technology.com/" target="_blank">Women of Silicon Roundabout</a>
+
+### Controlling Wildfires While Only Getting Singed.
+#### 2019
+
+- _Submitted to two conferences - awaiting confirmation._
+
 ### Introducing a Culture of Monitoring
 #### 2019
 - <a href="https://skillsmatter.com/skillscasts/14139-introducing-a-culture-of-monitoring" target="_blank">ProgNet London</a>
