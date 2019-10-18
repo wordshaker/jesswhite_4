@@ -69,9 +69,9 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 - <a href="https://www.women-in-technology.com/" target="_blank">Women of Silicon Roundabout</a>
 
 ### Controlling Wildfires While Only Getting Singed.
-#### 2019
+#### 2020
 
-- _Submitted to two conferences - awaiting confirmation._
+- <a href="https://ndc-london.com/speaker/jessica-white/" target="_blank">NDC London</a>
 
 ### Introducing a Culture of Monitoring
 #### 2019
