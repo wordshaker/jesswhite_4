@@ -63,15 +63,15 @@ to celebrate International Women's Day and raise money for Code Club East Midlan
 ## Presentations
 _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> for more talk information_
 
-### Title to Be Confirmed.
-#### 2019
-
-- <a href="https://www.women-in-technology.com/" target="_blank">Women of Silicon Roundabout</a>
-
 ### Controlling Wildfires While Only Getting Singed.
 #### 2020
 
 - <a href="https://ndc-london.com/speaker/jessica-white/" target="_blank">NDC London</a>
+
+### Title to Be Confirmed.
+#### 2020
+
+- <a href="https://www.women-in-technology.com/" target="_blank">Women of Silicon Roundabout</a>
 
 ### Introducing a Culture of Monitoring
 #### 2019
