@@ -5,6 +5,7 @@ permalink: /contributions/
 ---
 
 ## Contents
+- [Awards](#awards)
 - [Founder](#founder)
 - [Event Organisation](#event-organisation)
     - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
@@ -16,12 +17,31 @@ permalink: /contributions/
     - [Organisations](#organisations)
     - [Conferences](#conferences)
 - [Sponsorship and Mentorship](#sponsorship-and-mentorship)
-- [Awards](#awards)
 - [Podcast](#podcast)
 - [Publications](#publications)
 - [Memberships](#memberships)
 - [Applications](#applications)
 
+
+
+---
+
+## Awards
+
+#### 2019 -2021
+
+- <a href="https://mvp.microsoft.com/en-us/MyProfile" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a> 
+
+#### 2018
+- <a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>
+
+- <a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>
+
+- <a href="https://wearetechwomen.wearethecity.com/" target="_blank">Shortlisted for the WeAreTechWomen TechWomen50 Awards 2018</a>
+
+<br/>
+
+<img style="border-radius: 20%;" src="{{ site.baseurl }}/assets/awards.png" title="Award Logos" class="awards">
 
 ---
 
@@ -187,15 +207,6 @@ For events that I have been invited to speak at but have not been able to attend
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You got me my first talk and coached me through writing it and all the extras that speaking involves 🙏</p>&mdash; Ashley Smith 🦊🌻 (@TuffersTests) <a href="https://twitter.com/TuffersTests/status/1151104262618976256?ref_src=twsrc%5Etfw">July 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
-
----
-
-## Awards
-
-#### 2018
-- <a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>
-- <a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>
-- <a href="https://wearetechwomen.wearethecity.com/" target="_blank">Shortlisted for the WeAreTechWomen TechWomen50 Awards 2018</a>
 
 ---
 
