@@ -30,7 +30,7 @@ permalink: /contributions/
 
 #### 2019 -2021
 
-- <a href="https://mvp.microsoft.com/en-us/MyProfile" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a> 
+- <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003572" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a> 
 
 #### 2018
 - <a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>
