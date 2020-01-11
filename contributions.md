@@ -86,9 +86,11 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 ### Controlling Wildfires While Only Getting Singed.
 #### 2020
 
-- <a href="https://ndc-london.com/speaker/jessica-white/" target="_blank">NDC London</a>
+- <a href="https://ndc-london.com/speaker/jessica-white/" target="_blank">NDC London - January</a>
+- <a href="https://sddconf.com/agenda/" target="_blank">SDD Conference - May</a>
 
-### Title to Be Confirmed.
+
+### Stabilising Systems.
 #### 2020
 
 - <a href="https://www.women-in-technology.com/" target="_blank">Women of Silicon Roundabout</a>
@@ -106,6 +108,11 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 <br/>
 
 ### How to Talk Really, Really Good,
+#### 2020 _(upcoming)_
+- Notts Dev Workshop
+- Tech Fast
+- Derby Developers
+
 #### 2019
 - Digital Lincoln
 - Notts IoT 
