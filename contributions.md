@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contributions
+title: Awards/Contributions
 permalink: /contributions/
 ---
 
@@ -112,6 +112,7 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 - Notts Dev Workshop
 - Tech Fast
 - Derby Developers
+- NottJS
 
 #### 2019
 - Digital Lincoln
