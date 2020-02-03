@@ -32,6 +32,10 @@ permalink: /contributions/
 
 - <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003572" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a> 
 
+#### 2020
+
+- <a href="https://www.everywoman.com/events-awards/2020-fdm-everywoman-awards-finalists-announced" target="_blank">Finalist - Team Leader Award Category - FDM EVERYWOMAN IN TECHNOLOGY AWARDS</a> 
+
 #### 2018
 - <a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>
 

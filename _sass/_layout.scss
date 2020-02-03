@@ -76,7 +76,11 @@ pre code.hljs {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
-		background-size: cover;
+		background-size: inherit;
+		background-repeat: no-repeat;
+		@media only screen and (max-width: 600px) {
+			background-position: 0% 0%;
+		}
 		.title {
 			font-size: modular-scale(6);
 		}
@@ -87,10 +91,12 @@ pre code.hljs {
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
 			@include media($tablet) {
 				padding: 9em 1em !important;
+			}
+			@include media($tablet) {
+				margin-right: 20%;
 			}
 		}
 	}
@@ -259,7 +265,7 @@ pre code.hljs {
 	.site-header-container {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.33);
-		background-color: $highlight-color;
+		background-color: $blue;
 		.site-header{
 			.title {
 				font-size: modular-scale(6);
@@ -373,7 +379,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: $highlight-color;
+	background-color: $blue;
 	color: $white;
 	a {
 	  color: $link-color;
