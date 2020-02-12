@@ -10,13 +10,14 @@ permalink: /contributions/
 - [Event Organisation](#event-organisation)
     - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
     - [Individual Event Organisation](#individual-event-organisation)
+- [Event Sponsorship](#event-sponsorship)    
 - [Presentations](#presentations)
 - [Panel Discussions](#panel-discussions)
 - [Outreach](#outreach)
 - [Volunteering](#volunteering)
     - [Organisations](#organisations)
     - [Conferences](#conferences)
-- [Sponsorship and Mentorship](#sponsorship-and-mentorship)
+- [Sponsorship and Mentorship of Individuals](#sponsorship-and-mentorship-of-individuals)
 - [Podcast](#podcast)
 - [Publications](#publications)
 - [Memberships](#memberships)
@@ -28,7 +29,7 @@ permalink: /contributions/
 
 ## Awards
 
-#### 2019 -2021
+#### 2019 - 2021
 
 - <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003572" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a> 
 
@@ -79,6 +80,16 @@ Organised for members from Women In Tech Nottingham to take part in the local ha
 
 - #### Hidden Figures Screening
 to celebrate International Women's Day and raise money for Code Club East Midlands (2016).
+
+<br/>
+
+---
+
+## Event Sponsorship
+
+#### 2020 - 2021
+
+- <a href="https://projectfunction.io/" target="_blank">Bronze Sponsor of Project Function</a> 
 
 <br/>
 
@@ -210,7 +221,7 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 
 ---
 
-## Sponsorship and Mentorship
+## Sponsorship and Mentorship of Individuals
 
 For events that I have been invited to speak at but have not been able to attend, I have sponsored other female speakers and mentored them through their first talks.
 
