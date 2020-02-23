@@ -6,6 +6,7 @@ permalink: /contributions/
 
 ## Contents
 - [Awards](#awards)
+- [Certifications](#certifications)
 - [Founder](#founder)
 - [Event Organisation](#event-organisation)
     - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
@@ -57,6 +58,16 @@ permalink: /contributions/
 
 #### 2015 - 2017
 - **Founder and organiser of the <a href="https://www.meetup.com/Women-In-Tech-Nottingham/" target="_blank">Women In Tech, Nottingham</a>.**
+
+---
+
+## Certifications
+
+#### 2020 - 2023
+
+- AWS Certified Solutions Architect - Associate
+
+<img style="border-radius: 20%;" src="{{ site.baseurl }}/assets/aws.png" title="Certificate Logos" class="awards">
 
 ---
 
