@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Practical Guide To Dashboarding Part One
-description: "Introduction To Baselines for Dashboards"
+title: Introduction To Baselines for Dashboards
+description: A Practical Guide To Dashboarding Part One
 date: 2019-04-15
-cover: "/assets/img/2019-04-15/header.png"
+cover: "/assets/blog_header.jpg"
 categories: [monitoring, dashboarding]
 comments: false
 share: true
@@ -11,7 +11,7 @@ share: true
 
 ----
 <center>
-<h3> Introduction To Baselines for Dashboards. </h3>
+<h3> A Practical Guide To Dashboarding Part One </h3>
 </center>
 ---
 <br/>

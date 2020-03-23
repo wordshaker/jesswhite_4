@@ -3,8 +3,8 @@ layout: post
 title: "Microservices Day"
 description: "Microservices Day London 2016"
 date: 2016-05-10
-cover:  "/assets/img/2016-05-10/micro-day.jpg"
-categories: [event, review]
+cover: "/assets/blog_header.jpg"
+categories: [event, review, attendee]
 comments: false
 share: true
 ---

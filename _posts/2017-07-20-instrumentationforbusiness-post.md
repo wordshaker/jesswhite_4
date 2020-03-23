@@ -3,7 +3,7 @@ layout: post
 title: Implementing Instrumentation For Business Need
 description: "A case study on driving instrumentation through business requirements"
 date: 2017-07-20
-cover:  "/assets/img/2017-07-20/dashboards.jpg"
+cover: "/assets/blog_header.jpg"
 categories: [instrumentation, dashboarding]
 comments: false
 share: true

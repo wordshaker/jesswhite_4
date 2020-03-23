@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Creating & Maintaining Impactful Dashboards Part One
-description: "Some handy tips to consider when creating dashboards"
+title: Handy tips for Creating Dashboards
+description: Creating & Maintaining Impactful Dashboards Part One
 date: 2018-04-09
-cover:  "/assets/img/2018-04-09/header.png"
+cover: "/assets/blog_header.jpg"
 categories: [monitoring, dashboarding]
 comments: false
 share: true
@@ -11,7 +11,7 @@ share: true
 
 ----
 <center>
-<h3> Creation of impactful dashboards </h3>
+<h3> Creating & Maintaining Impactful Dashboards Part One </h3>
 </center>
 --- 
 <br/>

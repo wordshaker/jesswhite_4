@@ -3,8 +3,8 @@ layout: post
 title: "Be A Great Engineer - WITConf, University of Birmingham"
 description: "My talk at the Women In Tech Conference 2.0 at The University of Birmingham"
 date: 2016-11-12
-cover:  "/assets/img/2016-11-12/header.png"
-categories: [personal, conference, speaking]
+cover: "/assets/blog_header.jpg"
+categories: [personal, attendee]
 comments: false
 share: true
 ---

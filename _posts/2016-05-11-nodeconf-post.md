@@ -3,8 +3,8 @@ layout: post
 title: "NodeConf London"
 description: "NodeConf London 2016"
 date: 2016-05-11
-cover:  "/assets/img/2016-05-11/nodeconf.jpg"
-categories: [event, review]
+cover: "/assets/blog_header.jpg"
+categories: [event, review, attendee]
 comments: false
 share: true
 ---

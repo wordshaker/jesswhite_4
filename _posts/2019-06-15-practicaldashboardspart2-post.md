@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Practical Guide To Dashboarding Part Two
-description: "Metrics for Services"
+title: Metrics Baselines for Services
+description: A Practical Guide To Dashboarding Part Two
 date: 2019-06-15
-cover: "/assets/img/2019-06-15/header.png"
+cover: "/assets/blog_header.jpg"
 categories: [monitoring, dashboarding]
 comments: false
 share: true
@@ -11,7 +11,7 @@ share: true
 
 ----
 <center>
-<h3> Baselines for Services. </h3>
+<h3> A Practical Guide To Dashboarding Part Two </h3>
 </center>
 
 ---

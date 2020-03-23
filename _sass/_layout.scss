@@ -76,7 +76,7 @@ pre code.hljs {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
-		background-size: inherit;
+		background-size: cover;
 		background-repeat: no-repeat;
 		@media only screen and (max-width: 600px) {
 			background-position: 0% 0%;
