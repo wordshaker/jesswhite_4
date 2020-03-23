@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Creating & Maintaining Impactful Dashboards Part Two
-description: "Getting the most out of your dashboards on a day to day basis"
+title: Getting the most out of your dashboards
+description: Creating & Maintaining Impactful Dashboards Part Two
 date: 2018-04-22
-cover:  "/assets/img/2018-04-22/header.png"
+cover: "/assets/blog_header.jpg"
 categories: [monitoring, dashboarding]
 comments: false
 share: true
@@ -11,7 +11,7 @@ share: true
 
 ----
 <center>
-<h3> Getting the most out of your dashboards on a day to day basis - Continuous Maintenance. </h3>
+<h3> Creating & Maintaining Impactful Dashboards Part Two </h3>
 </center>
 --- 
 <br/>

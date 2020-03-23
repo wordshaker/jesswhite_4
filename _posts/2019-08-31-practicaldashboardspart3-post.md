@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Practical Guide To Dashboarding Part Three
-description: "Metrics for APIs"
+title: Metric Baselines For APIs
+description: A Practical Guide To Dashboarding Part Three
 date: 2019-08-31
-cover: "/assets/img/2019-08-31/header.png"
+cover: "/assets/blog_header.jpg"
 categories: [monitoring, dashboarding]
 comments: false
 share: true
@@ -11,7 +11,7 @@ share: true
 
 ----
 <center>
-<h3> Baselines for APIs. </h3>
+<h3> A Practical Guide To Dashboarding Part Three </h3>
 </center>
 
 ---

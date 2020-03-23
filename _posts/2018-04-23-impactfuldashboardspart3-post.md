@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Creating & Maintaining Impactful Dashboards Part Three
-description: "Danger Signs of Dashboarding"
+title: Danger Signs of Dashboarding
+description: Creating & Maintaining Impactful Dashboards Part Three
 date: 2018-04-23
-cover:  "/assets/img/2018-04-23/header.png"
+cover: "/assets/blog_header.jpg"
 categories: [monitoring, dashboarding]
 comments: false
 share: true
@@ -11,7 +11,7 @@ share: true
 
 ----
 <center>
-<h3> Danger Signs of Dashboarding - Times to make a change. </h3>
+<h3> Creating & Maintaining Impactful Dashboards Part Three </h3>
 </center>
 --- 
 <br/>

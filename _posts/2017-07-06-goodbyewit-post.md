@@ -3,7 +3,7 @@ layout: post
 title: "Goodbye WIT & Thank You"
 description: "A farewell and best luck to the future"
 date: 2017-07-06
-cover:  "/assets/img/2017-07-06/bye-wit.jpg"
+cover: "/assets/blog_header.jpg"
 categories: [personal, founder]
 comments: false
 share: true
