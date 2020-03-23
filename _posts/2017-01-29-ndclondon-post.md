@@ -4,7 +4,7 @@ title: "My First NDC"
 description: "Volunteering at NDC London 2017"
 date: 2017-01-29
 cover: "/assets/blog_header.jpg"
-categories: [volunteering, personal, event]
+categories: [volunteering, personal, attendee]
 comments: false
 share: true
 ---
