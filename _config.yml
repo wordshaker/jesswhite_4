@@ -14,7 +14,7 @@ name: Jessica White
 description:  >
   All views and opinions expressed in this blog are my own and do not reflect the views of my employer.
 baseurl: "" 
-url: "" 
+url: "https://jesswhite.co.uk/" 
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
