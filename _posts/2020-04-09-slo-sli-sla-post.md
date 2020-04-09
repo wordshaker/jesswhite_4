@@ -56,63 +56,46 @@ The top tier of these measurements and contracts is the Service Level Objective 
 
 SLOs are measurable, numerical values of system availability.
 
+> **SLOs can—and should—be a major driver in prioritizing work for SREs and product developers, because they reflect what users care about. A good SLO is a helpful, legitimate forcing function for a development team. But a poorly thought-out SLO can result in wasted work if a team uses heroic efforts to meet an overly aggressive SLO, or a bad product if the SLO is too lax. SLOs are a massive lever: use them wisely.**
+
+
 ### Determining SLO's
 
 There are a number of factors when defining and determining SLOs. As mentioned SLOs have tie in business and product need, as well as the technical considerations such as feasibility of measurement and cost. 
 
+<strong>Simple and discrete</strong>
+
+Ideally, there should be a limited number of these measures and they should be measures that aren't over complicated. The more complex the measurement and the more moving pieces, the more likely it is that something will be missed or misinterpreted. Likewise, too many measures hide what it is important and can be difficult to keep track of. 
+
 <strong>Not a measure of perfection</strong>
 
-As mentioned previously, SLOs are measures of what is expected of the service. Common mistakes with SLOs are to set them too high or too low. SLOs are meant to be achievable, not set as stretch goals or what the system can achieve in a perfect world. If you are rarely or never achieving an SLO, it defeats the purpose of having it as a measure of if the service is meeting it's expected behaviours to be "available".
+As mentioned previously, SLOs are measures of what is expected of the service. Common mistakes with SLOs are to set them too high or too low. 
+
+SLOs are meant to be achievable, not set as stretch goals or what the system can achieve in a perfect world. If you are rarely or never achieving an SLO, it defeats the purpose of having it as a measure of if the service is meeting it's expected behaviours to be "available".
+
+As with everything in life, perfection is always impossible. There will be downtime due to errors, deployments and more which call lead to a loss in availability. Likewise, the expectation that things will never fail can cripple innovation and experimentation, which can be detrimental to progression. It's worth accounting for these as part of determining your SLOs.
 
 Likewise they should be a measure that is too low. When a service is demonstrating behaviours which are considered problematic or broken to users or a business need, SLOs shouldn't pass.
 
-<strong>Simple and discrete</strong>
-
-
-
 <strong>Costs versus reliability</strong>
+
+One of the reasons why perfection is unattainable is that is it is expensive. Operation costs increase the more reliable and available you want your service to be. As such, it is suggested in the Google SRE book that the lowest level of reliability that can be achieved while still making dependants, clients etc happy with the level of service should be stated as an SLO.
+
+Likewise with other SLOs, the cost of achieving them should be accounted for. If to achieve an SLO the service needs rewriting, a system rearchitecting or an unachievable budget requirement - it's not a suitable SLO.
 
 <strong>Flexibilities of measures</strong>
 
+Over time a services purpose can change as can the expectations of that service. For example change in code or tooling could change the level of average performance. Likewise, there can be additional or reduced features from product. Over time it is best to review and adjust SLOs and related SLAs and SLIs. 
+
 <strong>Accounting for error budgets</strong>
 
+Error budgets are explored <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" target="_blank">in Chapter 3 of the Google SRE (Site Reliability Engineering) Book.</a> They are closely tied to SLOs. It is a metric covering how much time in a quarter a service can be "unreliable".
+
+This budget accounts for down time due to deployments, production issues and unexpected events. As previously mentioned, an SLO of 100% availability and reliability isn't possible, but we can plan and aim for achievable goals and measures.
 
 ### Setting SLO's
 
-
 ### Transparency
-
-
-----------
-
-
-- "However, if you simply start with what’s easy to measure, you’ll end up with less useful SLOs. As a result, we’ve sometimes found that working from desired objectives backward to specific indicators works better than choosing indicators and then coming up with targets."
-
-
-- "Keep in mind that the more reliable the service, the more it costs to operate.  Define the lowest level of reliability that you can get away with for each service, and state that as your SLO."
-
-- "whether your service needs to be made more reliable (increasing cost and slowing development) or less reliable (allowing greater velocity of development)."
-
-- "It’s both unrealistic and undesirable to insist that SLOs will be met 100% of the time: doing so can reduce the rate of innovation and deployment, require expensive, overly conservative solutions, or both. Instead, it is better to allow an error budget—a rate at which the SLOs can be missed—and track that on a daily or weekly basis."
-
-- "Choosing targets (SLOs) is not a purely technical activity because of the product and business implications, which should be reflected in both the SLIs and SLOs (and maybe SLAs) that are selected."
-
-- Don’t pick a target based on current performance
-While understanding the merits and limits of a system is essential, adopting values without reflection may lock you into supporting a system that requires heroic efforts to meet its targets, and that cannot be improved without significant redesign.
-
-Keep it simple
-Complicated aggregations in SLIs can obscure changes to system performance, and are also harder to reason about.
-
-Avoid absolutes
-While it’s tempting to ask for a system that can scale its load "infinitely" without any latency increase and that is "always" available, this requirement is unrealistic. Even a system that approaches such ideals will probably take a long time to design and build, and will be expensive to operate—and probably turn out to be unnecessarily better than what users would be happy (or even delighted) to have.
-
-Have as few SLOs as possible
-Choose just enough SLOs to provide good coverage of your system’s attributes. Defend the SLOs you pick: if you can’t ever win a conversation about priorities by quoting a particular SLO, it’s probably not worth having that SLO.17 However, not all product attributes are amenable to SLOs: it’s hard to specify "user delight" with an SLO.
-
-Perfection can wait
-You can always refine SLO definitions and targets over time as you learn about a system’s behavior. It’s better to start with a loose target that you tighten than to choose an overly strict target that has to be relaxed when you discover it’s unattainable.
-
-SLOs can—and should—be a major driver in prioritizing work for SREs and product developers, because they reflect what users care about. A good SLO is a helpful, legitimate forcing function for a development team. But a poorly thought-out SLO can result in wasted work if a team uses heroic efforts to meet an overly aggressive SLO, or a bad product if the SLO is too lax. SLOs are a massive lever: use them wisely.
 
 ----------------
 
