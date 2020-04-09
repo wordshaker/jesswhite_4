@@ -54,10 +54,9 @@ Now we have established the basics of what each are and how they are connected; 
 
 The top tier of these measurements and contracts is the Service Level Objective (SLO). An SLO sets the expectation for how available a service is and how it should perform. by no means are SLO's purely technical measurements. They require the input of a business and should be linked to both product and overall business expectation.
 
-SLOs are measurable, numerical values of system availability.
+SLOs are measurable, numerical values of system availability/reliability. They go hand in hand with error budgets, which are targets for the maximum amount of time a service is unavailable/unreliable in a quarter.
 
-> **SLOs can—and should—be a major driver in prioritizing work for SREs and product developers, because they reflect what users care about. A good SLO is a helpful, legitimate forcing function for a development team. But a poorly thought-out SLO can result in wasted work if a team uses heroic efforts to meet an overly aggressive SLO, or a bad product if the SLO is too lax. SLOs are a massive lever: use them wisely.**
-
+When it comes to discussing work, a team and product can refer back to SLO's to help determine it's value and purpose. This is assuming it is a well defined "good" measure which doesn't increase work for a team because it's too stretched.
 
 ### Determining SLO's
 
