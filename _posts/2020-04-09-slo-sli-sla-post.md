@@ -17,9 +17,9 @@ share: true
 ---
 <br/>
 
-In order to know if a system is working, we have to know what working looks like and how to measure it. This is not only a technical concern, but also includes if a system meets a product or business need. The user and client experiences of interacting with these systems also need to be factored. 
+In order to know if a system is working, we have to know what working looks like and how to measure it. This is not only a technical concern, but also a product and/or business need. We make things for customers and clients, and as such, part of knowing if something is working includes knowing how these users are impacted and if they are receiving the "right" level of service.
 
-How can we measure a system in a way that satisfies all these concerns? This is where Service Level Objectives (SLO), Service Level Agreements (SLA) and Service Level Indicators (SLI) come into play. These measures are explored <a href="https://landing.google.com/sre/sre-book/chapters/service-level-objectives/" target="_blank">in Chapter 4 of the Google SRE (Site Reliability Engineering)</a>
+How can we define what working looks like and measure a system in a way that satisfies all these concerns? This is where Service Level Objectives (SLO), Service Level Agreements (SLA) and Service Level Indicators (SLI) come into play. These measures are explored <a href="https://landing.google.com/sre/sre-book/chapters/service-level-objectives/" target="_blank">in Chapter 4 of the Google SRE (Site Reliability Engineering) book.</a>
 
 Determining these measures can be more difficult than first anticipated and they will change over time. Nonetheless, the are important to track.
 
@@ -27,13 +27,13 @@ Determining these measures can be more difficult than first anticipated and they
 
 In this post, we will go through how these measurements are linked, what they are and how they can be defined and measured. Throughout this post I refer to "service". It is most likely your SLO's and SLA's will be set around domain boundaries, but it depends on how your system is architected and organised. For the purpose of this high level exploration, service/ system can refer to a technical component, domain or product, depending on your system.
 
-For SLOs and SLAs you will most likely be discussing things with product / the wider business at a feature, product, project or domain level.
+For SLOs and SLAs you will most likely be discussing them with product / the wider business at a feature, product, project or domain level.
 
 ### Quick definitions
 
-- **SLO :** Measures of expected behaviours of the service. These are measured by SLIs.
-- **SLA :** Contracts of the consequences of missing the SLO's agreed with consumers, users and other parties.
-- **SLI :** A quantifiable measure of some level of service provided. Help to measure if SLAs are met.
+- **SLO (Service Level Objectives):** Defined and measurable expectations of the service. These are measured by SLIs and sometimes "enforced" by SLAs.
+- **SLA (Service Level Agreements):** Contracts agreed with consumers, users and other parties determining the consequences of not meeting certain levels of service. These may link to higher level objectives and are measured by SLIs.
+- **SLI (Service Level Indicators):** A quantifiable measure of some level of service provided. Help to measure if SLAs and SLOs are met.
 
 ### How these are linked
 
@@ -57,17 +57,23 @@ Now we have established the basics of what each are and how they are connected; 
 
 ## Service Level Objective (SLO)
 
-The top tier of these measurements and contracts is the Service Level Objective (SLO). An SLO sets the expectation for how available a service is and how it should perform. by no means are SLO's purely technical measurements. They require the input of a business and should be linked to both product and overall business expectation.
+The top tier of these measurements and contracts is the Service Level Objective (SLO). An SLO sets the expectation for how available a service is and how it should perform. By no means are SLO's purely technical measurements. They require the input of a business and should be linked to both product and overall business expectation.
 
-SLOs are measurable, numerical values of system availability/reliability. They go hand in hand with error budgets, which are targets for the maximum amount of time a service is unavailable/unreliable in a quarter.
+SLOs are measurable, numerical values of systems availability/reliability. They go hand in hand with <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" target="_blank">error budgets, which are targets for the maximum amount of time a service is unavailable/unreliable in a quarter</a>.
 
 When it comes to discussing work, a team and product can refer back to SLO's to help determine it's value and purpose. This is assuming it is a well defined "good" measure which doesn't increase work for a team because it's too stretched.
 
 ### Setting SLOs
 
+There are a number of considerations for setting SLOs including what is technically and financially achievable and what your end consumer would expect/need. Setting objectives is not purely a technical exercise and will need the inclusion and buy in of product and the business.
+
+It is advised that objectives are limited. This helps determine what behaviour is the priority for the business/consumer, as often there will be some pay off depending on whether a focus is scalability, availability, resilience, performance or otherwise.
+
+Most importantly, the objectives need to demonstrate what the reasonable expectations of a service is. They need to be achievable and focused.
+
 ### Determining SLO's
 
-There are a number of factors when defining and determining SLOs. As mentioned SLOs have tie in business and product need, as well as the technical considerations such as feasibility of measurement and cost. 
+There are a number of factors when defining and determining SLOs. As mentioned SLOs have to tie into business and product need, as well as the technical considerations such as feasibility of measurement and cost. 
 
 <strong>Simple and discrete</strong>
 
@@ -79,49 +85,54 @@ As mentioned previously, SLOs are measures of what is expected of the service. C
 
 SLOs are meant to be achievable, not set as stretch goals or what the system can achieve in a perfect world. If you are rarely or never achieving an SLO, it defeats the purpose of having it as a measure of if the service is meeting it's expected behaviours to be "available".
 
-As with everything in life, perfection is always impossible. There will be downtime due to errors, deployments and more which call lead to a loss in availability. Likewise, the expectation that things will never fail can cripple innovation and experimentation, which can be detrimental to progression. It's worth accounting for these as part of determining your SLOs.
+As with everything in life, perfection is always impossible. There will be downtime due to errors, deployments and other events which call lead to a loss in availability. Likewise, the expectation that things will never fail can cripple innovation and experimentation, which can be detrimental to progression. It's worth accounting for these as part of determining your SLOs.
 
-Likewise they should be a measure that is too low. When a service is demonstrating behaviours which are considered problematic or broken to users or a business need, SLOs shouldn't pass.
+As mentioned, it is also possible to set objectives which are too low. When a service is demonstrating behaviours which are considered problematic or broken to users or a business need, SLOs shouldn't pass. Negative impact to a customer or consumer should not be considered as acceptable for an expected level of availability.
 
 <strong>Costs versus reliability</strong>
 
-One of the reasons why perfection is unattainable is that is it is expensive. Operation costs increase the more reliable and available you want your service to be. As such, it is suggested in the Google SRE book that the lowest level of reliability that can be achieved while still making dependants, clients etc happy with the level of service should be stated as an SLO.
+One of the reasons why perfection is unattainable is that is it is expensive. Operation costs increase the more reliable and available you want your service to be. As such, it is suggested in the Google SRE book that the lowest level of reliability that can be achieved while still making dependants, clients etc happy with the level of service, should be stated as an SLO.
 
-Likewise with other SLOs, the cost of achieving them should be accounted for. If to achieve an SLO the service needs rewriting, a system rearchitecting or an unachievable budget requirement - it's not a suitable SLO.
+There may also be costs outside of operational costs that would need to be considered when trying to meet certain objectives. If to achieve an SLO the service needs rewriting, a system rearchitecting or an unachievable budget requirement needs satisfying (i.e. new tooling etc) - it's not a suitable SLO.
 
 <strong>Flexibilities of measures</strong>
 
-Over time a services purpose can change as can the expectations of that service. For example change in code or tooling could change the level of average performance. Likewise, there can be additional or reduced features from product. Over time it is best to review and adjust SLOs and related SLAs and SLIs. 
+Over time a service's purpose can change, as can the expectations of that service. For example, changes in code or tooling could change the level of average performance. Likewise, there can be additional or reduced features from product. Over time, it is best to review and adjust SLOs and related SLAs and SLIs. 
 
 <strong>Accounting for error budgets</strong>
 
-Error budgets are explored <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" target="_blank">in Chapter 3 of the Google SRE (Site Reliability Engineering) Book.</a> They are closely tied to SLOs. It is a metric covering how much time in a quarter a service can be "unreliable".
+Error budgets are explored <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" target="_blank">in Chapter 3 of the Google SRE (Site Reliability Engineering) book.</a> They are closely tied to SLOs. It is a metric covering how much time in a quarter a service can be "unreliable".
 
-This budget accounts for down time due to deployments, production issues and unexpected events. As previously mentioned, an SLO of 100% availability and reliability isn't possible, but we can plan and aim for achievable goals and measures.
+This budget accounts for down time due to deployments, production issues and unexpected events. It also allows time for teams to experiment and innovate in a controlled manner where failure (in a regulated amount) is not an issue. As previously mentioned, an SLO of 100% availability and reliability isn't possible, but we can plan and aim for achievable goals and measures.
 
 <br/>
 
 ## Service Level Agreement (SLA)
 
-These are contracts (which can be explicit or implicit) for what can be expected from a service in terms of it's reliability, performance and behaviour. These are tied into SLOs, as the objectives outline what is expected reasonable reliability for a service whereas the SLAs are contractual agreements with others for what level of reliability should be expected from a service.
+These are contracts (which can be explicit or implicit) for what can be expected from a service in terms of it's reliability, performance and behaviour. These are tied into SLOs, as the objectives outline the expected service levels agreed by the business, whereas SLAs are the contractual agreements that these service levels will be met.
 
-SLA's normally have some form of consequence when they are not met. This in normal financial, but can come in other forms as well. These contracts can also be with multiple forms of third parties. It can be with external clients, internal teams - anyone using your service/product.
+SLA's normally have some form of consequence when they are not met. This can be financial remediation, but can come in other forms as well. These contracts can also be with multiple forms of third parties. It can be with external clients, internal teams - anyone using your service/product.
 
-They are a good way to have clear and strong relationship with your customers, consumers and clients using your service. 
+They are a good way to have clear and strong relationship with your customers, consumers and clients using your service. This is because they increase the transparency around expected interactions and levels of service agreed by both parties.
 
 ### Setting SLAs
 
-Although SLAs can be linked to SLOs they are often not directly intertwined. In order to set SLAs you will first need to measure baselines of how you service normally behaves and what its capable of. 
+Although SLAs can be linked to SLOs they are often not matched to each other. The agreements tend to be set at a more relaxed level than the objectives. 
 
-The next step is to talk to the direct consumers/customers of your service. Find out what sort of service they expect / need, why and if it's achievable. Find out behaviours of your service are of highest priority - availability, throughput, response time etc.
+In order to set SLAs you will first need to measure baselines of how you service normally behaves and what its capable of. This may be done through monitoring your system or testing it. 
 
-The above should provide enough information to create drafts of your SLAs. The contracted behaviours that are achievable by your service and have a high level of impact on your customers. 
+The next step is to talk to the direct consumers/customers of your service. Find out what sort of service they expect/need, why and if it's achievable. Find out which behaviours of your service are of highest priority to them - availability, throughput, response time etc. All of this will help limit and define your final SLAs
 
-Once these draft SLAs are written they need to be proposed to the business with reasoning to be refined and approved. If they can align with some SLOs in some way that is beneficial for aligning to business concerns (i.e. align to availability SLOs but a little more relaxed). The business will be impacted by any consequences of not meeting SLAs as well so have to be involved in the process.
+The above should provide enough information to create drafts of your SLAs. With the information you should now know what is achievable by your service, what behaviours are of highest importance to your consumers, if these are compatible and what service levels can be agreed to.
 
-For internal SLAs, the expectation of how different services / domains interact can effect a users journey end to end. It can be beneficial to consider overall contracts at a high level in certain circumstances to get an idea of a "worst case" for all SLAs.
+Once these draft SLAs are written they need to be proposed to the business to be refined and approved. If the agreements align well with the objectives, it will be easier to discuss them in terms of the businesses goals. The business will be impacted by any consequences of not meeting SLAs as well, so have to be involved in the process.
 
-All of this process involves the cooperation of multiple departments in your company.
+For internal SLAs, the expectation of how different services/domains interact can effect a users journey end to end. It can be beneficial to consider overall contracts at a high level in certain circumstances to get an idea of a "worst case" for all SLAs. I.e. what the slowest agreed journey is end-to-end for your consumer/customer given all components and domains involved are meeting their maximum SLA for latency.
+
+All of this process involves the cooperation of multiple departments in your company. For example:
+- Tech will be impacted by what is currently achievable with what they have built and if SLI's are in place to measure the agreed contract is being met.
+- Product could be impacted by trying to meet consumer/customer/clients needs and discussions around that.
+- Finances and the business as a whole could be impacted by the consequences of a SLA not being met.
 
 ### Determining SLAs
 
@@ -141,14 +152,20 @@ It may be that outages from external dependencies can mean that SLAs aren't met.
 
 <br/>
 
-## Service-Level Indicator (SLI)
+## Service-Level Indicators (SLI)
 
 Lastly, we come to SLIs. These are the measures of level of service, which help us determine if we are meeting the SLOs and SLAs. SLI's can include measurements of availability or downtime as well as metrics about how your service is performing.
 
 If you have some baselines of metrics currently in place in your system, some of these SLI's may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="https://jesswhite.co.uk/2019/08/31/practicaldashboardspart3-post.html" target="_blank">Metric Baselines For APIs</a> and <a href="https://jesswhite.co.uk/2019/06/15/practicaldashboardspart2-post.html" target="_blank">Metrics Baselines for Services
 </a>.
 
-In order to measure SLAs and SLOs, SLIs need to be put into place. These measurements are tracked by percentage over time, and as such SLIs are often aggregated and measured in the same way to see if expectations are met.
+In order to measure SLAs and SLOs, SLIs need to be put into place. Objectives and agreements are often tracked by percentage over time, and as such SLIs are often aggregated and measured in the same way to see if expectations are met.
+
+### Setting SLIs
+
+In some way or other you will need to set up monitoring to track whether your SLAs and SLOs are being met. This could be with dashboards and with alerts for when thresholds are under threat. If an SLA or SLO is in danger of not being met, it is likely there will be some work needed and communication sent out to remediate the issues.
+
+If there are any measurements missing for the purpose of measuring if SLAs and SLOs are being met they will need to be implemented. 
 
 ### Determining SLIs
 
@@ -162,24 +179,19 @@ Not overcomplicating measurements means that it will be less likely to have erro
 
 It's most likely some tooling will be required in order to implement SLIs. When picking and implementing tooling you'll need to consider the cost of hosting and running and if the tool itself will have any impact on your measurements (such as latency of calls).
 
-### Setting SLIs
-
-In some way or other you will need to set up monitoring to track whether your SLAs and SLOs are being met. This could be with dashboards and with alerts for when thresholds are under threat. If an SLA or SLO is in danger of not being met, it is likely there will be some work needed and communication sent out to remediate the issues.
-
-If there are any measurements missing for the purpose of measuring if SLAs and SLOs are being met they will need to be implemented. 
-
-
 <br/>
 
 ---
 
 # Transparency
 
-One of the most important aspect of defining and measuring service levels is transparency and communication. 
+One of the most important aspects of defining and measuring service levels is transparency and communication. 
 
-Firstly, they help with communication. SLOs and SLAs are great for clarifying expectation and can be referred to whenever changes are being asked for. It might be that you are fighting to do work that may enable these service levels being improved or met. Maybe they have been missed a few times and work needs to be done to fix up a product.
+Firstly, they help with communication. SLOs and SLAs are great for clarifying expectation and can be referred to whenever changes are being asked for. It might be that you are fighting to do work that may enable these service levels being improved or met. Maybe they have been missed a few times and work needs to be done to fix up a product. Another possibility is that you may refer to the effect on expected service level when new functionality is being proposed.
 
-Using SLIs you can also make is demonstrable that you are meeting business or consumer requirements. Using dashboards or other forms of communication you can make it visible to the business how a system is performing against the service level objectives which they've helped set.
+In terms of production support, if service level is defined and the impacts of detriment to service level is well documented, it helps determine the urgency of work and the communication that needs to be distributed. Objectives make it clear what a service needs to achieve and to what level. They also demonstrate potential impact to consumer. Agreements demonstrate the consequences of these levels not being met. Indicators help when trying to determine if these levels are being met, and if not, where service levels are being impacted.
+
+Further to this, using SLIs you can demonstrate that you are meeting business or consumer requirements. Using dashboards or other forms of communication you can make it visible to the business how a system is performing against the service level objectives which they've helped set.
 
 <br/>
 
@@ -193,7 +205,7 @@ Objectives, agreements and indicators are important for communicating and measur
 - _Pizza SLA:_ If a pizza isn't delivered within 4 hours, you will be refunded half the cost.
 - _Pizza SLI:_ Timer from order to delivery.
 
-For measuring if a system or service meets it's required business need, having SLOs, SLAs and SLIs are essential. They also help direct the work needed to keep a system maintained to a level where businesses and consumers are satisfied with its performance.
+For measuring if a system or service meets it's required business need, having SLOs, SLAs and SLIs are essential. They also help direct the work needed to keep a system maintained to a level where businesses and consumers are satisfied with its performance. They help direct conversations about priority internally and externally around service and also give a sense of purpose. When it's made clear what the business value is and what impacts there are to consumers, it is easier to define and direct conversations around the value of your service.
 
 <br/>
 
