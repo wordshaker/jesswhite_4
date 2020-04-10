@@ -11,7 +11,7 @@ share: true
 
 ----
 <center>
-<h3>  </h3>
+<h3> Objectives, Agreements and Indicators. </h3>
 </center>
 
 ---
@@ -58,6 +58,8 @@ SLOs are measurable, numerical values of system availability/reliability. They g
 
 When it comes to discussing work, a team and product can refer back to SLO's to help determine it's value and purpose. This is assuming it is a well defined "good" measure which doesn't increase work for a team because it's too stretched.
 
+### Setting SLOs
+
 ### Determining SLO's
 
 There are a number of factors when defining and determining SLOs. As mentioned SLOs have tie in business and product need, as well as the technical considerations such as feasibility of measurement and cost. 
@@ -92,19 +94,63 @@ Error budgets are explored <a href="https://landing.google.com/sre/sre-book/chap
 
 This budget accounts for down time due to deployments, production issues and unexpected events. As previously mentioned, an SLO of 100% availability and reliability isn't possible, but we can plan and aim for achievable goals and measures.
 
-### Setting SLO's
+<br/>
 
-### Transparency
-
-----------------
+---
 
 ## Service Level Agreement (SLA)
 
-### Setting SLA's
+These are contracts (which can be explicit or implicit) for what can be expected from a service in terms of it's reliability, performance and behaviour. These are tied into SLOs, as the objectives outline what is expected reasonable reliability for a service whereas the SLAs are contractual agreements with others for what level of reliability should be expected from a service.
+
+SLA's normally have some form of consequence when they are not met. This in normal financial, but can come in other forms as well. These contracts can also be with multiple forms of third parties. It can be with external clients, internal teams - anyone using your service/product.
+
+They are a good way to have clear and strong relationship with your customers, consumers and clients using your service. 
+
+### Setting SLAs
+
+Although SLAs can be linked to SLOs they are often not directly intertwined. In order to set SLAs you will first need to measure baselines of how you service normally behaves and what its capable of. 
+
+The next step is to talk to the direct consumers/customers of your service. Find out what sort of service they expect / need, why and if it's achievable. Find out behaviours of your service are of highest priority - availability, throughput, response time etc.
+
+The above should provide enough information to create drafts of your SLAs. The contracted behaviours that are achievable by your service and have a high level of impact on your customers. 
+
+Once these draft SLAs are written they need to be proposed to the business with reasoning to be refined and approved. If they can align with some SLOs in some way that is beneficial for aligning to business concerns (i.e. align to availability SLOs but a little more relaxed). The business will be impacted by any consequences of not meeting SLAs as well so have to be involved in the process.
+
+For internal SLAs, the expectation of how different services / domains interact can effect a users journey end to end. It can be beneficial to consider overall contracts at a high level in certain circumstances to get an idea of a "worst case" for all SLAs.
+
+All of this process involves the cooperation of multiple departments in your company.
+
+### Determining SLAs
+
+Throughout this process there are a few things that can make the SLAs easier to measure and track.
+
+<strong>Simple and discrete</strong>
+
+In order to have clear communication and expectations with your consumers, the SLAs themselves need to be clear. They need to be easy to measure and easy to understand. As such, aim to have simple SLAs without too many interconnected, moving parts.
+
+<strong>Temporal Concerns</strong>
+
+SLAs don't have to be set at a 24/7 rate. It might be that your consumers want to set expectations for distinct periods of times. This could be times of day or seasonal, which allow for the services to have further expected downtimes or slowing in service.
+
+<strong>Consider dependencies</strong>
+
+It may be that outages from external dependencies can mean that SLAs aren't met. As there are consequences to SLAs, financial or otherwise, you don't want to be impacted by problems with dependencies. This can be covered in the agreements with your consumers, dependencies or both.
+
+<br/>
+
+---
 
 ## Service-Level Indicator (SLI)
 
-### Setting SLI's
+### Determining SLIs
+
+### Setting SLIs
+
+<br/>
+
+---
+
+# Transparency
 
 ---
 
