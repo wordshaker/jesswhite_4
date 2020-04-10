@@ -175,11 +175,29 @@ If there are any measurements missing for the purpose of measuring if SLAs and S
 
 # Transparency
 
+One of the most important aspect of defining and measuring service levels is transparency and communication. 
+
+Firstly, they help with communication. SLOs and SLAs are great for clarifying expectation and can be referred to whenever changes are being asked for. It might be that you are fighting to do work that may enable these service levels being improved or met. Maybe they have been missed a few times and work needs to be done to fix up a product.
+
+Using SLIs you can also make is demonstrable that you are meeting business or consumer requirements. Using dashboards or other forms of communication you can make it visible to the business how a system is performing against the service level objectives which they've helped set.
+
+<br/>
+
 ---
 
-# Worked Example
+# Conclusions
 
+Objectives, agreements and indicators are important for communicating and measuring service levels. They are intrinsically intertwined. For a simplified example:
 
+- _Pizza SLO:_ 99% of pizzas will be delivered within 4 hours.
+- _Pizza SLA:_ If a pizza isn't delivered within 4 hours, you will be refunded half the cost.
+- _Pizza SLI:_ Timer from order to delivery.
+
+For measuring if a system or service meets it's required business need, having SLOs, SLAs and SLIs are essential. They also help direct the work needed to keep a system maintained to a level where businesses and consumers are satisfied with its performance.
+
+<br/>
+
+---
 
 # References
 
@@ -194,10 +212,6 @@ If there are any measurements missing for the purpose of measuring if SLAs and S
 - <a href="https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/" target="_blank">A Guide To Service Level Objectives, Part 1: SLOs & You</a>
 
 - <a href="https://blog.newrelic.com/engineering/best-practices-for-setting-slos-and-slis-for-modern-complex-systems/" target="_blank">Best Practices for Setting SLOs and SLIs For Modern, Complex Systems</a>
-
----
-
-_Jess_
 
 ---
 
