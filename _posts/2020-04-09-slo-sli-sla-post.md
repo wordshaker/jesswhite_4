@@ -25,7 +25,9 @@ Determining these measures can be more difficult than first anticipated and they
 
 > _"These tools aren’t just useful abstractions. Without them, you cannot know if your system is reliable, available or even useful. If they don’t tie explicitly back to your business objectives, then you don’t have data on whether the choices you make are helping or hurting your business." - Google SRE Book_
 
-In this post, we will go through how these measurements are linked, what they are and how they can be defined and measured. 
+In this post, we will go through how these measurements are linked, what they are and how they can be defined and measured. Throughout this post I refer to "service". It is most likely your SLO's and SLA's will be set around domain boundaries, but it depends on how your system is architected and organised. For the purpose of this high level exploration, service/ system can refer to a technical component, domain or product, depending on your system.
+
+For SLOs and SLAs you will most likely be discussing things with product / the wider business at a feature, product, project or domain level.
 
 ### Quick definitions
 
@@ -41,14 +43,17 @@ These help when agreeing SLAs. By knowing what the expected behaviour of a servi
 
 Whether SLAs and SLOs are met and achieved are measured using SLIs.
 
+Another way to look at this is SLO's set the expectations, SLAs determine consequences to some of those expectations not being met and SLIs are how we measure if the expectations are being met.
+
 <br/>
 
 ---
 
-
 # Diving into each 
 
 Now we have established the basics of what each are and how they are connected; lets dive into each of them in a bit more detail. 
+
+<br/>
 
 ## Service Level Objective (SLO)
 
@@ -96,8 +101,6 @@ This budget accounts for down time due to deployments, production issues and une
 
 <br/>
 
----
-
 ## Service Level Agreement (SLA)
 
 These are contracts (which can be explicit or implicit) for what can be expected from a service in terms of it's reliability, performance and behaviour. These are tied into SLOs, as the objectives outline what is expected reasonable reliability for a service whereas the SLAs are contractual agreements with others for what level of reliability should be expected from a service.
@@ -138,13 +141,33 @@ It may be that outages from external dependencies can mean that SLAs aren't met.
 
 <br/>
 
----
-
 ## Service-Level Indicator (SLI)
+
+Lastly, we come to SLIs. These are the measures of level of service, which help us determine if we are meeting the SLOs and SLAs. SLI's can include measurements of availability or downtime as well as metrics about how your service is performing.
+
+If you have some baselines of metrics currently in place in your system, some of these SLI's may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="https://jesswhite.co.uk/2019/08/31/practicaldashboardspart3-post.html" target="_blank">Metric Baselines For APIs</a> and <a href="https://jesswhite.co.uk/2019/06/15/practicaldashboardspart2-post.html" target="_blank">Metrics Baselines for Services
+</a>.
+
+In order to measure SLAs and SLOs, SLIs need to be put into place. These measurements are tracked by percentage over time, and as such SLIs are often aggregated and measured in the same way to see if expectations are met.
 
 ### Determining SLIs
 
+The indicators required to measure whether the objectives and agreements are being met will need to be implemented. With these being closely linked to SLAs and SLOs, a lot of the principles when defining them overlap.
+
+<strong>Simple and discrete</strong>
+
+Not overcomplicating measurements means that it will be less likely to have erroneous or missed measurements.
+
+<strong>Impact of measurement</strong>
+
+It's most likely some tooling will be required in order to implement SLIs. When picking and implementing tooling you'll need to consider the cost of hosting and running and if the tool itself will have any impact on your measurements (such as latency of calls).
+
 ### Setting SLIs
+
+In some way or other you will need to set up monitoring to track whether your SLAs and SLOs are being met. This could be with dashboards and with alerts for when thresholds are under threat. If an SLA or SLO is in danger of not being met, it is likely there will be some work needed and communication sent out to remediate the issues.
+
+If there are any measurements missing for the purpose of measuring if SLAs and SLOs are being met they will need to be implemented. 
+
 
 <br/>
 
@@ -169,6 +192,8 @@ It may be that outages from external dependencies can mean that SLAs aren't met.
 - <a href="https://docs.honeycomb.io/working-with-your-data/slos/" target="_blank">Define and manage Service Level Objectives (SLOs)</a>
 
 - <a href="https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/" target="_blank">A Guide To Service Level Objectives, Part 1: SLOs & You</a>
+
+- <a href="https://blog.newrelic.com/engineering/best-practices-for-setting-slos-and-slis-for-modern-complex-systems/" target="_blank">Best Practices for Setting SLOs and SLIs For Modern, Complex Systems</a>
 
 ---
 
