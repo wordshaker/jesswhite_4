@@ -17,7 +17,9 @@ share: true
 ---
 <br/>
 
-Recently we have all been stuck indoors and as such, some of us have taken up jigsaw puzzles. Let's assume you have bought a second-hand jigsaw puzzle. This is much like taking over a system.
+Recently we have all been stuck indoors and as such, some of us have taken up putting together jigsaw puzzles. 
+
+A lot of my career has involved working with pre-loved systems, and it's come to mind how similar working out a system and it's domain(s) is to having bought a second-hand jigsaw puzzle and putting those pieces together. 
 
 There are two approaches to solving a jigsaw puzzle or learning about a domain. Working from the pieces up or from the full picture down. Using this analogy I will go through why I think the later has more benefits.
 
