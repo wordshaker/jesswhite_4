@@ -61,12 +61,49 @@ When working with pre-loved systems, there is no magic picture on a box. Instead
 
 ### Product Owners
 
+Arrange a meeting with the the product owners that have cared for this domain before it was handed to you. This meeting, in person or remote, isn't to got through the details of the system but instead to go through the journeys at a high level. 
+
+Ask them to walk through a good customer/client/consumer experience using your domain and error scenarios. This can be done with a whiteboard (virtual or physical), post-its, a Trello board or bullet points.
+
+This helps to build a picture of your domain and what features are important. You can talk through how this ties to Key Performance Indicators for the business. What is important to the business about this domain: is it throughput of customers, speed, how much it makes financial or something else.
+
+If you have your KPIs as well as a picture of your domain, you will have measurements of what success looks like, and what you are building towards
+
 ### Consumers
+
+Also talk to the consumers of your services. These could be internal or external consumers.
+
+Here, my examples are angled towards backend systems as that's what I know, but talking to consumers can give you a really good idea about the boundaries of your system and it's interactions.
+
+When having these discussions I often ask for their documentation. When integrating with this domain or onboarding a new member to work on interaction with this domain, what is the documentation they refer to? 
+
+If there are any available, it is also good to ask about any service level agreements that are in place. These are agreements about behaviour that are in place, where if they are not met, there are consequences to the business. <a href="https://jesswhite.co.uk/2020/04/09/slo-sli-sla-post.html" target="_blank">More can be read about Service Levels in this blog post.</a>
+
+By having information about the behaviours your consumers expect and how they integrate with your domain, you can better understand the external boundaries of your domains.
 
 ### Users
 
+Another group that can help give you the full picture of how your system should work is your users. This may be harder to achieve than the other two, depending on the system you are working with and where you work.
 
+Whether you talk directly to your users, record their interactions with your system or run focus groups, this will help highlight how they work with your system and what is important to them. 
 
+Seeing this interaction will not only help with understanding domain, but what features of it are important. Often users won't use your system as intended by product, and doing this will highlight which parts of the system are valued by your users.
+
+<br/>
+
+---
+
+## Working From The Picture To The Pieces
+
+Once you have the picture of the responsibilities of your system and how it works, you can figure out the domain(s). This gives you your full picture, that jigsaw puzzle box lid.
+
+From there, each component can be assessed to see how it fits against this picture. Pull down the code to evaluate it at a high level, examine the tests and read the documentation. Figure out the shape of each of your jigsaw puzzle pieces.
+
+You may find the documentation is out of date. You might have missing or extra components. At least by having conversations with those who know about and use the domain, if any of this happens it will be clear as you try to understand the details of how your system hangs together and lines up to its purpose.
+
+In the end, from my personal experience it will save a lot of time and heart-ache working from the picture down. 
+
+Enjoy your puzzles,
 
 _Jess_
 
