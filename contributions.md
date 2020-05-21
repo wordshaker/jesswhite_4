@@ -21,7 +21,7 @@ permalink: /contributions/
 - [Volunteering](#volunteering)
     - [Master of Ceremonies](#master-of-ceremonies)
     - [Organisations](#organisations)
-    - [Conferences](#conferences)
+    - [Conference Crew](#conference-crew)
 - [Sponsorship and Mentorship of Individuals](#sponsorship-and-mentorship-of-individuals)
 - [Podcast](#podcast)
 - [Publications](#publications)
@@ -34,18 +34,18 @@ permalink: /contributions/
 
 #### 2019 - 2021
 
-- <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003572" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a> 
+- **<a href="https://mvp.microsoft.com/en-us/PublicProfile/5003572" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a>**
 
 #### 2020
 
-- <a href="https://www.everywoman.com/events-awards/2020-fdm-everywoman-awards-finalists-announced" target="_blank">Finalist - Team Leader Award Category - FDM EVERYWOMAN IN TECHNOLOGY AWARDS</a> 
+- **<a href="https://www.everywoman.com/events-awards/2020-fdm-everywoman-awards-finalists-announced" target="_blank">Finalist - Team Leader Award Category - FDM EVERYWOMAN IN TECHNOLOGY AWARDS</a>** 
 
 #### 2018
-- <a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>
+- **<a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>**
 
-- <a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>
+- **<a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>**
 
-- <a href="https://wearetechwomen.wearethecity.com/" target="_blank">Shortlisted for the WeAreTechWomen TechWomen50 Awards 2018</a>
+- **<a href="https://wearetechwomen.wearethecity.com/" target="_blank">Shortlisted for the WeAreTechWomen TechWomen50 Awards 2018</a>**
 
 <br/>
 
@@ -67,7 +67,7 @@ permalink: /contributions/
 
 #### 2020 - 2023
 
-- AWS Certified Solutions Architect - Associate
+- **AWS Certified Solutions Architect - Associate**
 
 <img style="border-radius: 20%;" src="{{ site.baseurl }}/assets/aws.png" title="Certificate Logos" class="awards">
 
@@ -94,10 +94,10 @@ The below lists organisations that I have joined committees for, either for agen
 The below list one off events I have organised
 #### 2016 & 2017
 
-- #### Hackathon Team Organisation 
+- **Hackathon Team Organisation** 
 Organised for members from Women In Tech Nottingham to take part in the local hackathon Hack24.
 
-- #### Hidden Figures Screening
+- **Hidden Figures Screening**
 to celebrate International Women's Day and raise money for Code Club East Midlands (2016).
 
 <br/>
@@ -108,7 +108,7 @@ to celebrate International Women's Day and raise money for Code Club East Midlan
 
 #### 2020 - 2021
 
-- <a href="https://projectfunction.io/" target="_blank">Bronze Sponsor of Project Function</a> 
+- **<a href="https://projectfunction.io/" target="_blank">Bronze Sponsor of Project Function</a>**
 
 <br/>
 
@@ -208,10 +208,10 @@ Co-presented between talks with <a href="https://twitter.com/jonathanfmills" tar
     - Membership 
     - Speaker Bureau and Meetups  
 
-### Conferences
+### Conference Crew
 #### 2017
-- <a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" target="_blank">NDC Oslo</a>
-- <a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" target="_blank">NDC London</a>
+- **<a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" target="_blank">NDC Oslo</a>** - Norway
+- **<a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" target="_blank">NDC London</a>** - UK
 
 ---
 
@@ -228,23 +228,26 @@ For events that I have been invited to speak at but have not been able to attend
 ---
 
 ## Podcast
+#### 2020
+- **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" target="_blank">Side Hustle Success Podcast</a>**
+
 #### 2018
-- <a href="https://www.dotnetrocks.com/?show=1526" target="_blank">.Net Rocks</a>
-- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496?autoplay=true" target="_blank">Side Hustle Success Podcast</a>
-- <a href="https://www.stitcher.com/podcast/twine-radio/book-club-pod" target="_blank">A regular on BookClubPod</a>
+- **<a href="https://www.dotnetrocks.com/?show=1526" target="_blank">.Net Rocks</a>**
+- **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" target="_blank">Side Hustle Success Podcast</a>**
+- **<a href="https://www.stitcher.com/podcast/twine-radio/book-club-pod" target="_blank">A regular on BookClubPod</a>**
 
 ---
 ## Publications
 #### 2018
-- <a href="https://www.theguardian.com/education/2018/jul/09/graduate-experience-everything-life-tech-days-software-developer" target="_blank">
-Featured in The Guardian Graduate Section</a>
+- **<a href="https://www.theguardian.com/education/2018/jul/09/graduate-experience-everything-life-tech-days-software-developer" target="_blank">
+Featured in The Guardian Graduate Section</a>**
 
 ---
 ## Memberships
 #### 2019
-- .NET Foundation Member
+- **.NET Foundation Member**
 
 ---
 ## Applications
 #### 2019
-- <a href="https://election.dotnetfoundation.org/campaign-2019/jessica-white.html" target="_blank">Ran for the .NET Foundation Elections</a>
+- **<a href="https://election.dotnetfoundation.org/campaign-2019/jessica-white.html" target="_blank">Ran for the .NET Foundation Elections</a>**
