@@ -193,6 +193,8 @@ At UNiDAYS in 2018 I project managed two second-year projects for The University
 -  **Careers Fairs at Local Secondary Schools**
 I have ran stalls at a couple of careers fairs promoting the local tech community and jobs to secondary school students.
 
+<br/>
+
 ---
 
 ## Volunteering
@@ -201,6 +203,8 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 - **<a href="https://devaroundthesun.org/" target="_blank">Dev Around the Sun</a>**
 Co-presented between talks with <a href="https://twitter.com/jonathanfmills" target="_blank">Jonathan Mills</a> for 3 hours of Dev Around The Sun. this was a conference-come-telethon to raise money for Direct Reliefs Corona Virus Fund.
 
+<br/>
+
 ### Organisations
 #### 2019 - Present
 - **.NET Foundation Action Groups**
@@ -208,10 +212,14 @@ Co-presented between talks with <a href="https://twitter.com/jonathanfmills" tar
     - Membership 
     - Speaker Bureau and Meetups  
 
+<br/>
+
 ### Conference Crew
 #### 2017
 - **<a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" target="_blank">NDC Oslo</a>** - Norway
 - **<a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" target="_blank">NDC London</a>** - UK
+
+<br/>
 
 ---
 
@@ -225,6 +233,8 @@ For events that I have been invited to speak at but have not been able to attend
 
 </div>
 
+<br/>
+
 ---
 
 ## Podcast
@@ -236,16 +246,22 @@ For events that I have been invited to speak at but have not been able to attend
 - **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" target="_blank">Side Hustle Success Podcast</a>**
 - **<a href="https://www.stitcher.com/podcast/twine-radio/book-club-pod" target="_blank">A regular on BookClubPod</a>**
 
+<br/>
+
 ---
 ## Publications
 #### 2018
 - **<a href="https://www.theguardian.com/education/2018/jul/09/graduate-experience-everything-life-tech-days-software-developer" target="_blank">
 Featured in The Guardian Graduate Section</a>**
 
+<br/>
+
 ---
 ## Memberships
 #### 2019
 - **.NET Foundation Member**
+
+<br/>
 
 ---
 ## Applications
