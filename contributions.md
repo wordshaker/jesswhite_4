@@ -9,13 +9,17 @@ permalink: /contributions/
 - [Certifications](#certifications)
 - [Founder](#founder)
 - [Event Organisation](#event-organisation)
+    - [Conference Organisation](#conference-organisation)
     - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
     - [Individual Event Organisation](#individual-event-organisation)
 - [Event Sponsorship](#event-sponsorship)    
-- [Presentations](#presentations)
-- [Panel Discussions](#panel-discussions)
+- [Speaking Engagements](#speaking-engagements)
+    - [Conferences](#conferences)
+    - [Meetups](#meetups)
+    - [Panel Discussions](#panel-discussions)
 - [Outreach](#outreach)
 - [Volunteering](#volunteering)
+    - [Master of Ceremonies](#master-of-ceremonies)
     - [Organisations](#organisations)
     - [Conferences](#conferences)
 - [Sponsorship and Mentorship of Individuals](#sponsorship-and-mentorship-of-individuals)
@@ -23,8 +27,6 @@ permalink: /contributions/
 - [Publications](#publications)
 - [Memberships](#memberships)
 - [Applications](#applications)
-
-
 
 ---
 
@@ -72,6 +74,12 @@ permalink: /contributions/
 ---
 
 ## Event Organisation
+### Conference Organisation
+Below is a list of conferences I co-organise
+#### 2019 - Present
+- **<a href="https://www.dddeastmidlands.com/" target="_blank">DDD East Midlands Conference</a>** Developer! Developer! Developer! East Midlands is a general technology conference, for the community, by the community. This not-for-profit has all of its talks displayed anonymously and talks are selected by attendee vote. 
+
+<br/>
 
 ### Agenda And Organisation Committees
 The below lists organisations that I have joined committees for, either for agenda selection or other organisational needs.
@@ -106,95 +114,66 @@ to celebrate International Women's Day and raise money for Code Club East Midlan
 
 ---
 
-## Presentations
+## Speaking Engagements
 _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> for more talk information_
 
-### Controlling Wildfires While Only Getting Singed.
+### Conferences
+
 #### 2020
-
-- <a href="https://ndc-london.com/speaker/jessica-white/" target="_blank">NDC London - January</a>
-- <a href="https://sddconf.com/agenda/" target="_blank">SDD Conference - May</a>
-
-
-### Stabilising Systems.
-#### 2020
-
-- <a href="https://www.women-in-technology.com/" target="_blank">Women of Silicon Roundabout</a>
-
-### Introducing a Culture of Monitoring
-#### 2019
-- <a href="https://skillsmatter.com/skillscasts/14139-introducing-a-culture-of-monitoring" target="_blank">ProgNet London</a>
-
-<br/>
-
-### The Future is Cross-functional
-#### 2019
-- New Adventures Conference
-
-<br/>
-
-### How to Talk Really, Really Good,
-#### 2020 _(upcoming)_
-- Notts Dev Workshop
-- Tech Fast
-- Derby Developers
-- NottJS
+- **<a href="https://ndc-london.com/speaker/jessica-white/" target="_blank">NDC London</a>** - UK - Controlling Wildfires While Only Getting Singed.
 
 #### 2019
-- Digital Lincoln
-- Notts IoT 
-- Women In Tech Nottingham
+- **<a href="https://skillsmatter.com/skillscasts/14139-introducing-a-culture-of-monitoring" target="_blank">ProgNet London</a>** - UK - Introducing a Culture of Monitoring
+- **<a href="https://noti.st/jesspwhite/O4Z17M/the-future-is-cross-functional" target="_blank">New Adventures Conference</a>** - UK - The Future is Cross-functional
+- **<a href="https://www.youtube.com/watch?v=n-3g4qjQ0Qg" target="_blank">NDC Porto</a>** - UK - A Practical Guide To Dashboarding
+- **NDC Copenhagen** - UK - A Practical Guide To Dashboarding
+- **NDC London** - UK - A Practical Guide To Dashboarding
 
 #### 2018
-- HACKSOC - University Of Nottingham
-- Dot Net Notts
-- Derbyshire Dot Net
+- **<a href="https://skillsmatter.com/skillscasts/12510-a-practical-guide-to-dashboarding" target="_blank">London .NET User Group</a>** - UK - A Practical Guide To Dashboarding
+- **<a href="https://www.youtube.com/watch?v=7jPDnF5bXNw" target="_blank">NDC Sydney</a>** - Australia - Creating & Maintaining Impactful Dashboards
+- **<a href="https://vimeo.com/271363592" target="_blank">NDC Minnesota</a>** - USA - Creating & Maintaining Impactful Dashboards
+- **WXG** - UK - Creating & Maintaining Impactful Dashboards
+- **<a href="https://vimeo.com/271363592" target="_blank">NDC London</a>** - UK - Who needs Dashboards?
+- **<a href="https://dotyork.com/speakers/jessica-white" target="_blank">Dot York</a>** - UK - Who needs Dashboards?
 
-<br/>
-
-### A Practical Guide To Dashboarding
-#### 2019
-
-- <a href="https://www.youtube.com/watch?v=n-3g4qjQ0Qg" target="_blank">NDC Porto</a>
-- NDC Copenhagen
-- NDC London
-
-#### 2018
-- <a href="https://skillsmatter.com/skillscasts/12510-a-practical-guide-to-dashboarding" target="_blank">London .NET User Group</a>
-
-<br/>
-
-### Creating & Maintaining Impactful Dashboards
-#### 2018
-- <a href="https://www.youtube.com/watch?v=7jPDnF5bXNw" target="_blank">NDC Sydney</a>
-- <a href="https://vimeo.com/271363592" target="_blank">NDC Minnesota</a>
-- WXG
-
-<br/>
-
-### Who needs Dashboards?
-#### 2018
-
-- <a href="https://vimeo.com/271363592" target="_blank">NDC London</a>
-- Hull Devs
-- <a href="https://dotyork.com/speakers/jessica-white" target="_blank">Dot York</a>
-
-<br/>
-
-### Be A Great Engineer
 #### 2016
-- <a href="https://jesswhite.co.uk/2016/11/12/witconf-post.html" target="_blank">WITConf, University of Birmingham</a>
+- **<a href="https://jesswhite.co.uk/2016/11/12/witconf-post.html" target="_blank">WITConf, University of Birmingham</a>** - UK - Be A Great Engineer
 
----
+<br/>
 
-## Panel Discussions
+### Meetups
+
+#### 2020
+- **School Of Code** - UK - Tripping Through Technology
+- **Notts Dev Workshop** - UK - How to Talk Really, Really Good
+- **Tech Fast** - UK - How to Talk Really, Really Good
+- **Derby Developers** - UK - How to Talk Really, Really Good
+- **NottJS** - UK - How to Talk Really, Really Good
 
 #### 2019
-- <a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" target="_blank">ProgNET Have I Got .NET For You (comedy)</a>
+- **Digital Lincoln** - UK - How to Talk Really, Really Good
+- **Notts IoT** - UK - How to Talk Really, Really Good
+- **Women In Tech Nottingham** - UK - How to Talk Really, Really Good
 
 #### 2018
-- Women In STEM for International Women's Day Trent Uni
-- Lincs Tech Week - The Future of Technology
+- **HACKSOC** - UK - How to Talk Really, Really Good
+- **Dot Net Notts** - UK - How to Talk Really, Really Good
+- **Derbyshire Dot Net** - UK - How to Talk Really, Really Good
+- **Hull Devs** - UK - Who needs Dashboards?
+
+<br/>
+
+### Panel Discussions
+
+#### 2019
+- **<a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" target="_blank">ProgNET</a>** - UK - Have I Got .NET For You (comedy)
+
+#### 2018
+- **Trent Uni** - UK - Women In STEM for International Women's Day
+- **Lincs Tech Week** - UK - The Future of Technology
+
+<br/>
 
 ---
 
@@ -217,6 +196,10 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 ---
 
 ## Volunteering
+### Master of Ceremonies
+#### 2020
+- **<a href="https://devaroundthesun.org/" target="_blank">Dev Around the Sun</a>**
+Co-presented between talks with <a href="https://twitter.com/jonathanfmills" target="_blank">Jonathan Mills</a> for 3 hours of Dev Around The Sun. this was a conference-come-telethon to raise money for Direct Reliefs Corona Virus Fund.
 
 ### Organisations
 #### 2019 - Present
