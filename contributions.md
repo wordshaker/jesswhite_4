@@ -206,6 +206,10 @@ Co-presented between talks with <a href="https://twitter.com/jonathanfmills" tar
 <br/>
 
 ### Organisations
+#### 2020
+- **<a href="https://dotnetfoundation.org/blog/2020/06/15/net-foundation-election-2020-nominations-open" target="_blank">.NET Nomination Committee</a>** 
+This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb Othman. This committee was put together to encourage people to submit to the .NET Foundation board elections, with some focus on increasing all forms of diversity. As a group it was also our responsibility to narrow down the submissions down to 18 which the community could vote on. This gives a choice of around 3 people per board seat.
+
 #### 2019 - Present
 - **.NET Foundation Action Groups**
     - Outreach 
