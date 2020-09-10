@@ -4,7 +4,7 @@ title: Getting the most out of your dashboards
 description: Creating & Maintaining Impactful Dashboards Part Two
 date: 2018-04-22
 cover: "/assets/blog_header.jpg"
-categories: [monitoring, dashboarding]
+categories: [observability, tech]
 comments: false
 share: true
 ---

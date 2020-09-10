@@ -4,7 +4,7 @@ title: "Goodbye WIT & Thank You"
 description: "A farewell and best luck to the future"
 date: 2017-07-06
 cover: "/assets/blog_header.jpg"
-categories: [personal, founder]
+categories: [personal, organisation, events]
 comments: false
 share: true
 ---

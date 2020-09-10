@@ -4,7 +4,7 @@ title: "Microservices Day"
 description: "Microservices Day London 2016"
 date: 2016-05-10
 cover: "/assets/blog_header.jpg"
-categories: [event, review, attendee]
+categories: [personal, events]
 comments: false
 share: true
 ---

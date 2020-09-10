@@ -4,7 +4,7 @@ title: Pre-loved Systems
 description: "Why I love working with systems that need more TLC"
 date: 2020-05-07
 cover: "/assets/blog_header.jpg"
-categories: []
+categories: [tech]
 comments: false
 share: true
 ---

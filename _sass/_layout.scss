@@ -78,8 +78,9 @@ pre code.hljs {
 		background-position: 50% 50%;
 		background-size: cover;
 		background-repeat: no-repeat;
-		@media only screen and (max-width: 600px) {
-			background-position: 0% 0%;
+		@media only screen and (max-width: 768px) {
+			background-color: #5c90bd!important;
+			background-image: none !important;
 		}
 		.title {
 			font-size: modular-scale(6);
@@ -92,8 +93,14 @@ pre code.hljs {
 		padding: 3em 1em;
 		&.has-cover {
 			padding: 6em 1em !important;
+			@media only screen and (max-width: 768px) {
+				padding: 15px 15px !important;
+			}
+			@media only screen and (max-width: 1300px) {
+				padding: 4em 1em !important;
+			}
 			@include media($tablet) {
-				padding: 9em 1em !important;
+				padding: 6em 1em !important;
 			}
 			@include media($tablet) {
 				margin-right: 20%;
@@ -214,7 +221,7 @@ pre code.hljs {
 		text-align: center;
 		text-decoration: none;
 		display: inline-block;
-		font-size: 16px;
+		font-size: 20px;
 		border-radius: 12px;
 		margin: 15px 5px;
 	  }

@@ -4,7 +4,7 @@ title: Metrics Baselines for Services
 description: A Practical Guide To Dashboarding Part Two
 date: 2019-06-15
 cover: "/assets/blog_header.jpg"
-categories: [monitoring, dashboarding]
+categories: [observability, tech]
 comments: false
 share: true
 ---

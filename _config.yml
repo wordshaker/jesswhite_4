@@ -7,7 +7,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Jessica White - Blog
+title: Jessica White
+subtitle: Developer | Speaker | Event Organiser
 #subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: me@jesswhite.co.uk
 name: Jessica White
@@ -15,7 +16,7 @@ description:  >
   All views and opinions expressed in this blog are my own and do not reflect the views of my employer.
 baseurl: "" 
 url: "https://jesswhite.co.uk/" 
-cover: "/assets/header_image.jpg"
+cover: "/assets/blog_header.jpg"
 logo: "/assets/logo.png"
 
 # Build settings

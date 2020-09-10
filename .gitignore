@@ -10,3 +10,6 @@ site/*
 # Bundler
 .bundle/
 vendor/
+
+# Jekyll Cache
+.jekyll-cache

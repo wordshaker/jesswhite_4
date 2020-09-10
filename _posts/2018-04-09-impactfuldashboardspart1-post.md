@@ -4,7 +4,7 @@ title: Handy tips for Creating Dashboards
 description: Creating & Maintaining Impactful Dashboards Part One
 date: 2018-04-09
 cover: "/assets/blog_header.jpg"
-categories: [monitoring, dashboarding]
+categories: [observability, tech]
 comments: false
 share: true
 ---
