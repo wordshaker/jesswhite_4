@@ -4,7 +4,7 @@ title: Danger Signs of Dashboarding
 description: Creating & Maintaining Impactful Dashboards Part Three
 date: 2018-04-23
 cover: "/assets/blog_header.jpg"
-categories: [monitoring, dashboarding]
+categories: [observability, tech]
 comments: false
 share: true
 ---

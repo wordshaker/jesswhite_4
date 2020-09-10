@@ -4,7 +4,7 @@ title: Service Levels
 description: "Objectives, Agreements and Indicators"
 date: 2020-04-09
 cover: "/assets/blog_header.jpg"
-categories: []
+categories: [tech]
 comments: false
 share: true
 ---

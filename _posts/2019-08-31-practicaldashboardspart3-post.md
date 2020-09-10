@@ -4,7 +4,7 @@ title: Metric Baselines For APIs
 description: A Practical Guide To Dashboarding Part Three
 date: 2019-08-31
 cover: "/assets/blog_header.jpg"
-categories: [monitoring, dashboarding]
+categories: [observability, tech]
 comments: false
 share: true
 ---

@@ -4,7 +4,7 @@ title: Pre-loved Systems Are Like Second Hand Jigsaw Puzzles
 description: "Putting together the bigger picture"
 date: 2020-05-19
 cover: "/assets/blog_header.jpg"
-categories: []
+categories: [tech]
 comments: false
 share: true
 ---

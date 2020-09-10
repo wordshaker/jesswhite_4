@@ -4,7 +4,7 @@ title: Socialising - Distantly (and Not)
 description: "Keeping up with the East Mids tech scene before and after COVID-19"
 date: 2020-03-27
 cover: "/assets/blog_header.jpg"
-categories: []
+categories: [events]
 comments: false
 share: true
 ---
