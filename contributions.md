@@ -9,6 +9,7 @@ permalink: /contributions/
 - [Certifications](#certifications)
 - [Founder](#founder)
 - [Event Organisation](#event-organisation)
+    - [Meetup Organisation](#meetup-organisation)
     - [Conference Organisation](#conference-organisation)
     - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
     - [Individual Event Organisation](#individual-event-organisation)
@@ -74,6 +75,13 @@ permalink: /contributions/
 ---
 
 ## Event Organisation
+### Meetup Organisation
+Below is a list of meetups I co-organise
+#### 2020 - Present
+- **<a href="https://www.meetup.com/dotnetnotts/" target="_blank">.NET Nottingham Meetup</a>** A monthly meetup centered around .NET talks.
+
+<br/>
+
 ### Conference Organisation
 Below is a list of conferences I co-organise
 #### 2019 - Present
@@ -165,6 +173,9 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 <br/>
 
 ### Panel Discussions
+
+#### 2020
+- **<a href="https://dev.to/azure/the-cloud-skills-show-languages-frameworks-1adi#:~:text=The%20Cloud%20Skills%20Show%20is,start%20a%20career%20in%20tech)." target="_blank">The Cloud Skills Show</a>** - Talk with Pete Gallagher about learning resources for .NET.
 
 #### 2019
 - **<a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" target="_blank">ProgNET</a>** - UK - Have I Got .NET For You (comedy)
