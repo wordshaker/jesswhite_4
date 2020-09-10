@@ -6,10 +6,8 @@ layout: default
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
-      <h1 class="title">{{ site.title }}
-        <img style="border-radius: 20%; width:400px" src="{{ site.baseurl }}/assets/awards.png" title="Award Logos" class="awards">
-      </h1>
-      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+      <h1 class="title">{{ site.title }}</h1>
+      <h2 class="subtitle">{{ site.subtitle }}</h2>
     </header>
   </div>
 </div>
@@ -18,11 +16,9 @@ layout: default
   <a class="button" href="/category/personal/" >Personal</a>
   <a class="button" href="/category/dashboarding/" >Dashboards</a>
   <a class="button" href="/category/logging/" >Logging</a>
-</div>
-<div class="center-buttons">
-  <a class="button" href="/category/scene/" >Tech Scene</a>
-  <a class="button" href="/category/attendee/" >Event Attendence</a>
+  <a class="button" href="/category/events/" >Events</a>
   <a class="button" href="/category/founder/" >Event Organisation</a>
+  <a class="button" href="/category/founder/" > Speaking</a>
 </div>
 
 <div class="wrapper">
@@ -32,9 +28,6 @@ layout: default
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
     <section class="post-meta">
       <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
       <div class="post-categories">
