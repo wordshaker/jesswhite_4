@@ -79,7 +79,8 @@ pre code.hljs {
 		background-size: cover;
 		background-repeat: no-repeat;
 		@media only screen and (max-width: 600px) {
-			background-position: 0% 0%;
+			background-color: #5c90bd!important;
+			background-image: none !important;
 		}
 		.title {
 			font-size: modular-scale(6);
@@ -92,6 +93,9 @@ pre code.hljs {
 		padding: 3em 1em;
 		&.has-cover {
 			padding: 6em 1em !important;
+			@media only screen and (max-width: 600px) {
+				padding: 15px 15px !important;
+			}
 			@include media($tablet) {
 				padding: 9em 1em !important;
 			}
