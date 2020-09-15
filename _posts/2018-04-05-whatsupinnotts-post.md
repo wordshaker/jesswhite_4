@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's up in Nott's?
-description: "A list of a few techy jewels available in Nottingham"
+description: "The many offerings of the Nottingham Tech Scene and why you should take part in them."
 date: 2018-04-05
 cover: "/assets/blog_header.jpg"
 categories: [personal, events]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing your Google Adverts
-description: "Because sometimes the algorithms are way off"
+description: "Setting your Google adverts to something that is relevant to you. To help avoid you seeing things that you are tired of seeing."
 date: 2018-01-29
 cover: "/assets/blog_header.jpg"
 categories: [personal]

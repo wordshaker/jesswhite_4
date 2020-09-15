@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goodbye WIT & Thank You"
-description: "A farewell and best luck to the future"
+description: "A farewell and best luck to the future to the meetup I founded and organised for a number of years."
 date: 2017-07-06
 cover: "/assets/blog_header.jpg"
 categories: [personal, organisation, events]

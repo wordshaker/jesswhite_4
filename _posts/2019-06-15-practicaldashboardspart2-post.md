@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metrics Baselines for Services
-description: A Practical Guide To Dashboarding Part Two
+description: "Part Two of A Practical Guide To Dashboarding. Standardised baselines for measuring Services behaviour and how they can be used."
 date: 2019-06-15
 cover: "/assets/blog_header.jpg"
 categories: [observability, tech]
