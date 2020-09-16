@@ -25,4 +25,5 @@ jobs:
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'jesswhite'
+        app_location: '/_site' 
         publish-profile: ${{ secrets.AzurePublishProfile }}
