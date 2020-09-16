@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pre-loved Systems
-description: "Why I love working with systems that need more TLC"
+description: "What is great about working with older systems and why I think legacy is a dirty word."
 date: 2020-05-07
 cover: "/assets/blog_header.jpg"
 categories: [tech]

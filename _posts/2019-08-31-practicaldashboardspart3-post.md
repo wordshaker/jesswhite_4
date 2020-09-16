@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metric Baselines For APIs
-description: A Practical Guide To Dashboarding Part Three
+description: "Part Three of A Practical Guide To Dashboarding. Standardised baselines for measuring API behaviour and how they can be used."
 date: 2019-08-31
 cover: "/assets/blog_header.jpg"
 categories: [observability, tech]

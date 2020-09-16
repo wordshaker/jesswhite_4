@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First NDC"
-description: "Volunteering at NDC London 2017"
+description: "The experience of volunteering at NDC London 2017"
 date: 2017-01-29
 cover: "/assets/blog_header.jpg"
 categories: [personal, events]

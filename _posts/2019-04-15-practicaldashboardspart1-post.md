@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction To Baselines for Dashboards
-description: A Practical Guide To Dashboarding Part One
+description: "Part One of A Practical Guide To Dashboarding. Why dashboards are important and how to keep them useful."
 date: 2019-04-15
 cover: "/assets/blog_header.jpg"
 categories: [observability, tech]
