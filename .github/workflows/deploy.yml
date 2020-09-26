@@ -22,8 +22,10 @@ jobs:
         bundle exec jekyll build
     
     - name: Deploy to Azure Web App
+      run: |
+        cd ./_site
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'jesswhite'
         publish-profile: ${{ secrets.AzurePublishProfile }}
-        path: ./_site
+        path: 
