@@ -23,7 +23,7 @@ jobs:
     
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
-      working-directory: ./_site
       with:
         app-name: 'jesswhite'
         publish-profile: ${{ secrets.AzurePublishProfile }}
+        path: ./_site
