@@ -86,7 +86,7 @@ This repository lists projects by language that have labels indicating that ther
 
 A site where you can search for issues that available by label, langauge, tag or name. It shows projects which have issues that indicate they are looking for contributors. This is for all levels and not only beginner friendly issues.
 
-#### <a href="https://www.firsttimersonly.com/" target="_blank">First Timers Oonly</a>
+#### <a href="https://www.firsttimersonly.com/" target="_blank">First Timers Only</a>
 
 This page have a number of resources for first time contributors.
 
