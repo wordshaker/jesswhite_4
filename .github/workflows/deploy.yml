@@ -30,4 +30,3 @@ jobs:
       with:
         app-name: 'jesswhite'
         publish-profile: ${{ secrets.AzurePublishProfile }}
-        path: 
