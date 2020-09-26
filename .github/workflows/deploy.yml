@@ -20,10 +20,12 @@ jobs:
         gem install bundler
         bundle install --jobs 4 --retry 3
         bundle exec jekyll build
-    
-    - name: Deploy to Azure Web App
+
+    - name: Change Directory
       run: |
         cd ./_site
+    
+    - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'jesswhite'
