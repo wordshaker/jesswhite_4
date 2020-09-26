@@ -19,10 +19,11 @@ jobs:
       run: |
         gem install bundler
         bundle install --jobs 4 --retry 3
-        jekyll build
+        bundle exec jekyll build
     
-    #- name: Deploy to Azure Web App
-    #  uses: azure/webapps-deploy@v2
-    #  with:
-    #    app-name: 'jesswhite'
-    #    publish-profile: ${{ secrets.AzurePublishProfile }}
+    - name: Deploy to Azure Web App
+      uses: azure/webapps-deploy@v2
+      working-directory: ./_site
+      with:
+        app-name: 'jesswhite'
+        publish-profile: ${{ secrets.AzurePublishProfile }}
