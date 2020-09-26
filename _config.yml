@@ -69,6 +69,6 @@ social:
     share: true
 
 protocols:
-    twitter_image: "/assets/logo.png"
+    twitter_image: https://s3.eu-west-2.amazonaws.com/jesstwittercard/jesswhiteblog
 
 permalink: /:year/:month/:day/:title:output_ext

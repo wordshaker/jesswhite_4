@@ -4,7 +4,7 @@ title: Hacktober Hints
 description: "Links and tips for how to take part in Hacktober and where to find repositories to contribute to."
 date: 2020-09-20
 cover: "/assets/blog_header.jpg"
-image: "/assets/2020-09-20/twitter.jpg"
+image: "assets/img/2020-09-20/twitter.jpg"
 categories: [tech]
 comments: false
 share: true

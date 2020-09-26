@@ -85,10 +85,12 @@
 
   {% if page.image %}
   <meta name="twitter:card"  content="summary_large_image">
-  <meta name="twitter:image" content="{{ page.image}}">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta content="{{ site.url }}{{ page.image }}" property="og:image">
   {% else %}
   <meta name="twitter:card"  content="summary">
   <meta name="twitter:image" content="https://s3.eu-west-2.amazonaws.com/jesstwittercard/jesswhiteblog">
+  <meta content="https://s3.eu-west-2.amazonaws.com/jesstwittercard/jesswhiteblog" property="og:image">
   {% endif %}
 
   {% endif %}
