@@ -18,13 +18,104 @@ share: true
 ---
 <br/>
 
-October has come around quickly, which means it's time to turn that GitHub graph green, find projects that need help and earn a t-shirt and stickers for your hard efforts. This post goes through what Hacktober is, how to make a contribution and a few resources for finding projects to contribute to.
+October has come around quickly, which means it's time to turn that GitHub graph green, find projects that need help and earn a t-shirt and stickers for your hard efforts. This post goes through what Hacktober is, how to find finding projects to contribute to while ensuring your safety and how to make a contribution.
 
 ## What is Hacktoberfest and how to sign up
 
 Hacktoberfest is an event where the aim is to encourage participation on the open source community. In exchange for a number of pull requests on OSS repositories, participants are rewarded with a t-shirt and some stickers. 
 
 To sign up, <a href="https://hacktoberfest.digitalocean.com/" target="_blank"> head over to the Hacktoberfest website</a>.
+
+
+<br/>
+
+## Which PR's count for Hacktoberfest?
+
+Hacktober is <a href="https://hacktoberfest.digitalocean.com/hacktoberfest-update" target="_blank">now an opt-in process for maintainers</a> as there have been issues with spam PRs. Spam PR's are where people have raised pull-requests for changes that have no beneficial impact to the repository.
+
+What this means is that if an open-source repository is happy to have contributions from those taking part in Hacktoberfest, they need to label their topics with a `hacktoberfest` label
+
+<br/>
+<div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2020-09-20/topic.png" alt="Screen shot of github showing the topics section.">
+</div>
+
+<br/>
+
+On the main page of the repository you want to contribute to in GitHub you will see an About section on the right-hand side. Here the topic labels are displayed in blue tablets under the about text. Check that the `hacktoberfest` label is present if Hacktoberfest is your current reason for contributing to open-source.
+
+<br/>
+
+## Where to find repositories to contribute to
+
+There are a lot of places online to find places to contribute. Here are a few of the resources I've found that are available for new / first-time contributors:
+
+#### <a href="https://github.com/firstcontributions/first-contributions" target="_blank">First Contributions</a>
+
+First contributions is a repository made for those who have never contributed to OSS before. Fork, create a branch, add your name to the `Contributors.md` and raise a pull request.
+
+#### <a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">Awesome First PR Opportunities</a>
+
+This repository lists projects by language that have labels indicating that there are issues suitable for those new to contributing to open source. It also lists the labels to search for within the issues of each project.
+
+#### <a href="https://up-for-grabs.net/#/" target="_blank">Up For Grabs</a>
+
+A site where you can search for issues that available by label, langauge, tag or name. It shows projects which have issues that indicate they are looking for contributors. This is for all levels and not only beginner friendly issues.
+
+#### <a href="https://www.firsttimersonly.com/" target="_blank">First Timers Only</a>
+
+This page have a number of resources for first time contributors.
+
+#### GitHub labels.
+
+There are a number of labels which are attached to issues, indicating they are looking for help and what level the problems may be available for. Some include:
+
+- `beginner`
+- `beginner-friendly`
+- `first-timers-only`
+- `first-contribution`
+- `good-first-issue`
+- `help-wanted`
+- `up-for-grabs`
+
+<br/>
+
+## Staying safe in open source
+
+In general, people want to help you and encourage you to learn in a safe space. None the less, not all online spaces are safe and welcoming. For the most part, if it is indicated that a project has issues suited for beginners and first time contributors, then it's a project you will be treated well in.
+
+### Check that the project has a code of conduct before contributing. 
+
+Hopefully this code of conduct will outline what you can do if you experience any behaviour that makes you feel uncomfortable or that is un-supportive. In this case, if the worst happens you know that you will be supportive and what support you can expect to receive.
+
+The code of conduct may be in a markdown file, often named `CODE_OF_CONDUCT.md` or may be attached in the README of the project.
+
+### Check current issues and PR's for tone of voice. 
+
+An option is to look through current issues and pull requests that have been picked up to see what the maintainers tone of voice is and how responsive they are. 
+
+#### Are they constructive and friendly? 
+
+This is a check to see that you are going to get the right level of support and feedback that you need and that the environment/online-culture is suitable for you.
+
+#### Are comments responded to within 6 months/a year. 
+
+Not all repositories will have immediate feedback, as often these repositories are done in maintainers free time. It is worth checking that the repository is still actively maintained, even if comments are addressed monthly.
+
+### Check the repositories licence.
+
+Ensure that the project has a licence and that the licence is appropriate for an open-source project. The licence determines how the software and code contributed to it can be used, and how it is used by other parties (including whether anyone profits from it).
+
+The Licence for GitHub projects is shown and linked to in the About section on the right-hand side of the main page of the GitHub repository, underneath the about text and topics. The example in the image below has an MIT Licence.
+
+<br/>
+<div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
+<img src="{{site.baseurl}}/assets/img/2020-09-20/licence.png" alt="Screen shot of github showing the topics section.">
+</div>
+<br/>
+
+There are a number of resources around licencing, but a quick go-to is <a href="https://opensource.org/licenses" target="_blank">the list on the Open Source Website</a>
+
 
 <br/>
 
@@ -70,51 +161,60 @@ Go back to the contribution guidelines and check that you've met the instruction
 
 <br/>
 
-## Where to find repositories to contribute to
+## Checking for and fixing conflicts
 
-There are a lot of places online to find places to contribute. Here are a few of the resources I've found that are available for new / first-time contributors:
+Sometimes your changes will become out of date with the upstream (originating) repository as other changes have been merged in while you've been making yours. 
 
-#### <a href="https://github.com/firstcontributions/first-contributions" target="_blank">First Contributions</a>
+### Ensure upstream is set up
 
-First contributions is a repository made for those who have never contributed to OSS before. Fork, create a branch, add your name to the `Contributors.md` and raise a pull request.
+Check that your upstream is set up correctly using `git remote -v`. The returned output should look like:
 
-#### <a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">Awesome First PR Opportunities</a>
+```
+> origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+> origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+> upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
+> upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
+```
 
-This repository lists projects by language that have labels indicating that there are issues suitable for those new to contributing to open source. It also lists the labels to search for within the issues of each project.
+If you are missing the bottom two lines, set up your upstream using a command in the terminal that looks like:
 
-#### <a href="https://up-for-grabs.net/#/" target="_blank">Up For Grabs</a>
+```
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+```
 
-A site where you can search for issues that available by label, langauge, tag or name. It shows projects which have issues that indicate they are looking for contributors. This is for all levels and not only beginner friendly issues.
+### Pull in the upstream main branch to make sure yours is up to date.
 
-#### <a href="https://www.firsttimersonly.com/" target="_blank">First Timers Only</a>
+Get the branches from the upstream repository:
 
-This page have a number of resources for first time contributors.
+```
+git fetch upstream
+```
 
-#### GitHub labels.
+Merge the upstream main branch into your fork and branch. Depending on what the default branch is for the upstream repository the last word of the following command could be `master`, `main` or something else.
 
-There are a number of labels which are attached to issues, indicating they are looking for help and what level the problems may be available for. Some include:
+```
+git merge upstream/main
+```
 
-- `beginner`
-- `beginner-friendly`
-- `first-timers-only`
-- `first-contribution`
-- `good-first-issue`
-- `help-wanted`
-- `up-for-grabs`
+### If there are conflicts.
 
-<br/>
+There are numerous tools for resolving git conflicts including <a href="https://www.scootersoftware.com/" target="_blank">Beyond Compare</a>, <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>, your IDE or choice or you can use your terminal of choice.
 
-## Staying safe in open source
+I personally like to use <a href="https://code.visualstudio.com/docs/editor/versioncontrol#_merge-conflicts" target="_blank">the Visual Studio Code merge conflict solution.</a> I find it very intuitive and easy to use. 
 
-In general, people want to help you and encourage you to learn in a safe space. None the less, not all online spaces are safe and welcoming. For the most part, if it is indicated that a project has issues suited for beginners and first time contributors, then it's a project you will be treated well in.
+Have a google and see which offering you think is best for you. If you do have conflicts and are struggling, you can comment to ask the maintainer to help resolve your conflicts.
 
-I personally would advise to **check that the project has a code of conduct before contributing**. Hopefully this code of conduct will outline what you can do if you experience any behaviour that makes you feel uncomfortable or that is unsupportive. In this case, if the worst happens you know that you will be supportive and what support you can expect to recieve.
+### Add all, merge and push
+
+When the conflicts are resolved locally, you add your changes, merge and push. The branch should be back to being mergeable.
 
 <br/>
 
 ## Extra Resources
 - <a href="http://opensource.guide/how-to-contribute/" target="_blank">How to Contribute to Open Source</a>
 - <a href="https://chris.beams.io/posts/git-commit/" target="_blank">How to Write a Git Commit Message</a>
+
+<br/>
 
 ## When October Ends
 
@@ -128,6 +228,9 @@ _Jess_
 
 ---
 
+_Edits made: 4th October 2020_
+
+---
 
 <div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
