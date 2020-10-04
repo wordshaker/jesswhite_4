@@ -42,6 +42,11 @@ share: true
 
 ### Use the right licence
 
+Licencing is a tricky topic, but as a maintainer you need to ensure a licence is in place for the code you are caring for. There are many resources on this topic including the documentation <a href="https://opensource.org/licenses" target="_blank">on the OpenSource.Org Website.</a>
+
+I'd highly recommend watching <a href="https://www.youtube.com/watch?v=OV94p_kB-Lg" target="_blank">this talk by Jeff Strauss titled - What You Need to Know About Open Source—Trust Me, I’m a Lawyer</a>. I've watched this talk 3 times in person, back when we could watch talks in person. Jeff clearly talks through the different types of licence, what they mean and how they impact you as a code owner.
+
+Not only does this enforce how your software can be used, but also many contributors will avoid contributing to repositories that don't have a licence.
 
 <br/>
 
