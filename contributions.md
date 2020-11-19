@@ -58,9 +58,9 @@ permalink: /contributions/
 - [Publications](#publications)
     - [2018](#2018-5)
 - [Memberships](#memberships)
-    - [2019](#2019-3)
+    - [2019 - present](#2019---present-3)
 - [Applications](#applications)
-    - [2019](#2019-4)
+    - [2019](#2019-3)
 
 ---
 
@@ -75,6 +75,7 @@ permalink: /contributions/
 - **<a href="https://www.everywoman.com/events-awards/2020-fdm-everywoman-awards-finalists-announced" rel="noreferrer" target="_blank">Finalist - Team Leader Award Category - FDM EVERYWOMAN IN TECHNOLOGY AWARDS</a>** 
 
 #### 2018
+
 - **<a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>**
 
 - **<a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" rel="noreferrer" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>**
@@ -108,16 +109,21 @@ permalink: /contributions/
 ---
 
 ## Event Organisation
+
 ### Meetup Organisation
+
 Below is a list of meetups I co-organise
 #### 2020 - Present
+
 - **<a href="https://www.meetup.com/dotnetnotts/" rel="noreferrer" target="_blank">.NET Nottingham Meetup</a>** A monthly meetup centered around .NET talks.
 
 <br/>
 
 ### Conference Organisation
+
 Below is a list of conferences I co-organise
 #### 2019 - Present
+
 - **<a href="https://www.dddeastmidlands.com/" rel="noreferrer" target="_blank">DDD East Midlands Conference</a>** Developer! Developer! Developer! East Midlands is a general technology conference, for the community, by the community. This not-for-profit has all of its talks displayed anonymously and talks are selected by attendee vote. 
 
 <br/>
@@ -126,6 +132,7 @@ Below is a list of conferences I co-organise
 The below lists organisations that I have joined committees for, either for agenda selection or other organisational needs.
 
 #### 2019 - Present
+
 - **NDC London Agenda Committee** 
 - **ProgNET**
 
@@ -161,9 +168,11 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 ### Conferences
 
 #### 2020
+
 - **<a href="https://ndc-london.com/speaker/jessica-white/" rel="noreferrer" target="_blank">NDC London</a>** - UK - Controlling Wildfires While Only Getting Singed.
 
 #### 2019
+
 - **<a href="https://skillsmatter.com/skillscasts/14139-introducing-a-culture-of-monitoring" rel="noreferrer" target="_blank">ProgNet London</a>** - UK - Introducing a Culture of Monitoring
 - **<a href="https://noti.st/jesspwhite/O4Z17M/the-future-is-cross-functional" rel="noreferrer" target="_blank">New Adventures Conference</a>** - UK - The Future is Cross-functional
 - **<a href="https://www.youtube.com/watch?v=n-3g4qjQ0Qg" rel="noreferrer" target="_blank">NDC Porto</a>** - UK - A Practical Guide To Dashboarding
@@ -171,6 +180,7 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - **NDC London** - UK - A Practical Guide To Dashboarding
 
 #### 2018
+
 - **<a href="https://skillsmatter.com/skillscasts/12510-a-practical-guide-to-dashboarding" rel="noreferrer" target="_blank">London .NET User Group</a>** - UK - A Practical Guide To Dashboarding
 - **<a href="https://www.youtube.com/watch?v=7jPDnF5bXNw" rel="noreferrer" target="_blank">NDC Sydney</a>** - Australia - Creating & Maintaining Impactful Dashboards
 - **<a href="https://vimeo.com/271363592" rel="noreferrer" target="_blank">NDC Minnesota</a>** - USA - Creating & Maintaining Impactful Dashboards
@@ -179,6 +189,7 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - **<a href="https://dotyork.com/speakers/jessica-white" rel="noreferrer" target="_blank">Dot York</a>** - UK - Who needs Dashboards?
 
 #### 2016
+
 - **<a href="https://jesswhite.co.uk/2016/11/12/witconf-post.html" rel="noreferrer" target="_blank">WITConf, University of Birmingham</a>** - UK - Be A Great Engineer
 
 <br/>
@@ -186,6 +197,7 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 ### Meetups
 
 #### 2020
+
 - **School Of Code** - UK - Tripping Through Technology
 - **Notts Dev Workshop** - UK - How to Talk Really, Really Good
 - **Tech Fast** - UK - How to Talk Really, Really Good
@@ -193,11 +205,13 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - **NottJS** - UK - How to Talk Really, Really Good
 
 #### 2019
+
 - **Digital Lincoln** - UK - How to Talk Really, Really Good
 - **Notts IoT** - UK - How to Talk Really, Really Good
 - **Women In Tech Nottingham** - UK - How to Talk Really, Really Good
 
 #### 2018
+
 - **HACKSOC** - UK - How to Talk Really, Really Good
 - **Dot Net Notts** - UK - How to Talk Really, Really Good
 - **Derbyshire Dot Net** - UK - How to Talk Really, Really Good
@@ -208,12 +222,19 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 ### Panel Discussions
 
 #### 2020
-- **<a href="https://dev.to/azure/the-cloud-skills-show-languages-frameworks-1adi#:~:text=The%20Cloud%20Skills%20Show%20is,start%20a%20career%20in%20tech)." rel="noreferrer" target="_blank">The Cloud Skills Show</a>** - Talk with Pete Gallagher about learning resources for .NET.
 
+- **<a href="https://dev.to/azure/the-cloud-skills-show-languages-frameworks-1adi#:~:text=The%20Cloud%20Skills%20Show%20is,start%20a%20career%20in%20tech)." rel="noreferrer" target="_blank">The Cloud Skills Show - Series 1 Episode 2 - Languages & Frameworks</a>**
+
+- **<a href="https://dev.to/azure/the-cloud-skills-show-series-2-episode-1-hacktoberfest-16np" rel="noreferrer" target="_blank">The Cloud Skills Show - Series 2 Episode 2 - Hacktoberfest!</a>** 
+
+- **<a href="https://dev.to/azure/the-cloud-skills-show-net-31n3" rel="noreferrer" target="_blank">The Cloud Skills Show - Series 2 Episode 2 -.NET</a>** 
+  
 #### 2019
+
 - **<a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" rel="noreferrer" target="_blank">ProgNET</a>** - UK - Have I Got .NET For You (comedy)
 
 #### 2018
+
 - **Trent Uni** - UK - Women In STEM for International Women's Day
 - **Lincs Tech Week** - UK - The Future of Technology
 
@@ -224,6 +245,7 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 ## Outreach
 
 #### 2018 - Present
+
 - **Supporting Second Year Projects for The University of Nottingham**
 At UNiDAYS in 2018 I project managed two second-year projects for The University Of Nottingham. This involved coming up with the projects, coordinating with the university, organising workshops, managing the mentors of the project, making sure the work was on track and that both the company and students were getting the most out of the experience. 
 
@@ -242,28 +264,35 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 ---
 
 ## Volunteering
+
 ### Master of Ceremonies
+
 #### 2020
+
 - **<a href="https://devaroundthesun.org/" rel="noreferrer" target="_blank">Dev Around the Sun</a>**
 Co-presented between talks with <a href="https://twitter.com/jonathanfmills" rel="noreferrer" target="_blank">Jonathan Mills</a> for 3 hours of Dev Around The Sun. this was a conference-come-telethon to raise money for Direct Reliefs Corona Virus Fund.
 
 <br/>
 
 ### Organisations
+
 #### 2020
+
 - **<a href="https://dotnetfoundation.org/blog/2020/06/15/net-foundation-election-2020-nominations-open" rel="noreferrer" target="_blank">.NET Nomination Committee</a>** 
 This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb Othman. This committee was put together to encourage people to submit to the .NET Foundation board elections, with some focus on increasing all forms of diversity. As a group it was also our responsibility to narrow down the submissions down to 18 which the community could vote on. This gives a choice of around 3 people per board seat.
 
 #### 2019 - Present
+
 - **.NET Foundation Action Groups**
     - Outreach 
     - Membership 
-    - Speaker Bureau and Meetups  
 
 <br/>
 
 ### Conference Crew
+
 #### 2017
+
 - **<a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" rel="noreferrer" target="_blank">NDC Oslo</a>** - Norway
 - **<a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" rel="noreferrer" target="_blank">NDC London</a>** - UK
 
@@ -286,10 +315,13 @@ For events that I have been invited to speak at but have not been able to attend
 ---
 
 ## Podcast
+
 #### 2020
+
 - **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a>**
 
 #### 2018
+
 - **<a href="https://www.dotnetrocks.com/?show=1526" rel="noreferrer" target="_blank">.Net Rocks</a>**
 - **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a>**
 - **<a href="https://www.stitcher.com/podcast/twine-radio/book-club-pod" rel="noreferrer" target="_blank">A regular on BookClubPod</a>**
@@ -297,21 +329,30 @@ For events that I have been invited to speak at but have not been able to attend
 <br/>
 
 ---
+
 ## Publications
+
 #### 2018
+
 - **<a href="https://www.theguardian.com/education/2018/jul/09/graduate-experience-everything-life-tech-days-software-developer" rel="noreferrer" target="_blank">
 Featured in The Guardian Graduate Section</a>**
 
 <br/>
 
 ---
+
 ## Memberships
-#### 2019
+
+#### 2019 - present
+
 - **.NET Foundation Member**
 
 <br/>
 
 ---
+
 ## Applications
+
 #### 2019
+
 - **<a href="https://election.dotnetfoundation.org/campaign-2019/jessica-white.html" rel="noreferrer" target="_blank">Ran for the .NET Foundation Elections</a>**
