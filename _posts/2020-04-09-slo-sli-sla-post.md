@@ -19,7 +19,7 @@ share: true
 
 In order to know if a system is working, we have to know what working looks like and how to measure it. This is not only a technical concern, but also a product and/or business need. We make things for customers and clients, and as such, part of knowing if something is working includes knowing how these users are impacted and if they are receiving the "right" level of service.
 
-How can we define what working looks like and measure a system in a way that satisfies all these concerns? This is where Service Level Objectives (SLO), Service Level Agreements (SLA) and Service Level Indicators (SLI) come into play. These measures are explored <a href="https://landing.google.com/sre/sre-book/chapters/service-level-objectives/" target="_blank">in Chapter 4 of the Google SRE (Site Reliability Engineering) book.</a>
+How can we define what working looks like and measure a system in a way that satisfies all these concerns? This is where Service Level Objectives (SLO), Service Level Agreements (SLA) and Service Level Indicators (SLI) come into play. These measures are explored <a href="https://landing.google.com/sre/sre-book/chapters/service-level-objectives/" rel="noreferrer" target="_blank">in Chapter 4 of the Google SRE (Site Reliability Engineering) book.</a>
 
 Determining these measures can be more difficult than first anticipated and they will change over time. Nonetheless, the are important to track.
 
@@ -59,7 +59,7 @@ Now we have established the basics of what each are and how they are connected; 
 
 The top tier of these measurements and contracts is the Service Level Objective (SLO). An SLO sets the expectation for how available a service is and how it should perform. By no means are SLO's purely technical measurements. They require the input of a business and should be linked to both product and overall business expectation.
 
-SLOs are measurable, numerical values of systems availability/reliability. They go hand in hand with <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" target="_blank">error budgets, which are targets for the maximum amount of time a service is unavailable/unreliable in a quarter</a>.
+SLOs are measurable, numerical values of systems availability/reliability. They go hand in hand with <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" rel="noreferrer" target="_blank">error budgets, which are targets for the maximum amount of time a service is unavailable/unreliable in a quarter</a>.
 
 When it comes to discussing work, a team and product can refer back to SLO's to help determine it's value and purpose. This is assuming it is a well defined "good" measure which doesn't increase work for a team because it's too stretched.
 
@@ -101,7 +101,7 @@ Over time a service's purpose can change, as can the expectations of that servic
 
 <strong>Accounting for error budgets</strong>
 
-Error budgets are explored <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" target="_blank">in Chapter 3 of the Google SRE (Site Reliability Engineering) book.</a> They are closely tied to SLOs. It is a metric covering how much time in a quarter a service can be "unreliable".
+Error budgets are explored <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" rel="noreferrer" target="_blank">in Chapter 3 of the Google SRE (Site Reliability Engineering) book.</a> They are closely tied to SLOs. It is a metric covering how much time in a quarter a service can be "unreliable".
 
 This budget accounts for down time due to deployments, production issues and unexpected events. It also allows time for teams to experiment and innovate in a controlled manner where failure (in a regulated amount) is not an issue. As previously mentioned, an SLO of 100% availability and reliability isn't possible, but we can plan and aim for achievable goals and measures.
 
@@ -156,7 +156,7 @@ It may be that outages from external dependencies can mean that SLAs aren't met.
 
 Lastly, we come to SLIs. These are the measures of level of service, which help us determine if we are meeting the SLOs and SLAs. SLI's can include measurements of availability or downtime as well as metrics about how your service is performing.
 
-If you have some baselines of metrics currently in place in your system, some of these SLI's may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="https://jesswhite.co.uk/2019/08/31/practicaldashboardspart3-post.html" target="_blank">Metric Baselines For APIs</a> and <a href="https://jesswhite.co.uk/2019/06/15/practicaldashboardspart2-post.html" target="_blank">Metrics Baselines for Services
+If you have some baselines of metrics currently in place in your system, some of these SLI's may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="https://jesswhite.co.uk/2019/08/31/practicaldashboardspart3-post.html" rel="noreferrer" target="_blank">Metric Baselines For APIs</a> and <a href="https://jesswhite.co.uk/2019/06/15/practicaldashboardspart2-post.html" rel="noreferrer" target="_blank">Metrics Baselines for Services
 </a>.
 
 In order to measure SLAs and SLOs, SLIs need to be put into place. Objectives and agreements are often tracked by percentage over time, and as such SLIs are often aggregated and measured in the same way to see if expectations are met.

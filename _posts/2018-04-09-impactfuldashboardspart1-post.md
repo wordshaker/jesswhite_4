@@ -60,7 +60,7 @@ Management Information (MI) have projects aiding in the success of these overall
 
 * **What are the KPI’s of your project**
  
-KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
+KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" rel="noreferrer" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
 
 * **How might this initiative fail?**
 
@@ -83,13 +83,13 @@ This might seem like an obvious question, but the answers may not be what you ex
 
 Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPI's that need to be considered at this level.
 
-SLA's are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
+SLA's are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" rel="noreferrer" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
 
 As part of this you may want to find out who should be informed if these KPI's aren't met or SLA's are broken. Also, what action should be taken, if any. What is the impact?
 
 * **What are the base metrics we would normally use for this?**
 
-There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" target="_blank">R.E.D</a> for your APIs for <a href="http://www.brendangregg.com/usemethod.html" target="_blank">U.S.E</a> for your services. It might be the <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" target="_blank">Four Golden Signals from the Google SRE book</a>. There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
+There will always be some standard metrics you will want to cover as part of execution dashboarding. It might be that you use <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" rel="noreferrer" target="_blank">R.E.D</a> for your APIs for <a href="http://www.brendangregg.com/usemethod.html" rel="noreferrer" target="_blank">U.S.E</a> for your services. It might be the <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" rel="noreferrer" target="_blank">Four Golden Signals from the Google SRE book</a>. There will be standard metrics that you normally have to ensure that your environment is working as expected. Just remember to _keep them useful - not interesting_. (Though I think useful metrics ARE interesting as well as informative).
 
 ---
 
@@ -140,7 +140,7 @@ The importance of communication in the creation of dashboards and visualisations
 
 #### There isn't one perfect tool that is going to solve all your problems
 
-There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example <a href="https://www.datadoghq.com/" target="_blank">Datadog</a>) and those that are used for log analytics (an example is <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html" target="_blank">Kibana</a>). Some tools will specialise in a certain type of monitoring such as <a href="https://www.tableau.com/" target="_blank">Tableau</a> which is aimed at analysing BI data opposed to <a href="https://www.zabbix.com/" target="_blank">Zabbix</a> which is more suited for operational data. There are some that are more cross-functional as well.
+There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example <a href="https://www.datadoghq.com/" rel="noreferrer" target="_blank">Datadog</a>) and those that are used for log analytics (an example is <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html" rel="noreferrer" target="_blank">Kibana</a>). Some tools will specialise in a certain type of monitoring such as <a href="https://www.tableau.com/" rel="noreferrer" target="_blank">Tableau</a> which is aimed at analysing BI data opposed to <a href="https://www.zabbix.com/" rel="noreferrer" target="_blank">Zabbix</a> which is more suited for operational data. There are some that are more cross-functional as well.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/img/2018-04-09/tools.png" alt="Tools">

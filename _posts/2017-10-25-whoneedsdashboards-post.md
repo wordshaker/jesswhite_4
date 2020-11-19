@@ -20,7 +20,7 @@ share: true
 
 Dashboarding is part of the instrumentation portion of monitoring. The main purpose of a dashboard, no matter its type, is to enable the ability to quickly process information that a user might need. This may be to understand the current situation, to aide in decision making, or to inform that a reactive action is needed.
 
-In the - <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" target="_blank">Google SRE book</a> dashboards are defined as following:
+In the - <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" rel="noreferrer" target="_blank">Google SRE book</a> dashboards are defined as following:
 
 > _"An application (usually web-based) that provides a summary view of a service's core metrics. A dashboard may have filters, selectors, and so on, but is **prebuilt to expose the metrics most important to its users**. The dashboard **might also display team information** such as ticket queue length, a list of high-priority bugs, the current on-call engineer for a given area of responsibility, or recent pushes."_
 
@@ -147,8 +147,8 @@ Operational dashboards that cover software concerns may include:
 - Database Read/Write times
 - State of queueing technology i.e. partitions or the time to process a message
 - SLA’s of third parties (internal or external) and whether they are being met
-- Utilisation, saturation and error rates for services <a href="http://www.brendangregg.com/usemethod.html" target="_blank">(USE)</a>
--Rate of traffic, errors and duration of responses for API’s <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" target="_blank">(RED)</a>
+- Utilisation, saturation and error rates for services <a href="http://www.brendangregg.com/usemethod.html" rel="noreferrer" target="_blank">(USE)</a>
+-Rate of traffic, errors and duration of responses for API’s <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" rel="noreferrer" target="_blank">(RED)</a>
 
 These demonstrate how and if a software system is coping with demand. As such, some of these may be covered by development dashboards as well. For instance, if software performance is a concern of a business's development team.
 
