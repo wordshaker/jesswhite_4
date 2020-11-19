@@ -80,7 +80,7 @@ Here, my examples are angled towards backend systems as that's what I know, but 
 
 When having these discussions I often ask for their documentation. When integrating with this domain or onboarding a new member to work on interaction with this domain, what is the documentation they refer to? 
 
-If there are any available, it is also good to ask about any service level agreements that are in place. These are agreements about behaviour that are in place, where if they are not met, there are consequences to the business. <a href="https://jesswhite.co.uk/2020/04/09/slo-sli-sla-post.html" target="_blank">More can be read about Service Levels in this blog post.</a>
+If there are any available, it is also good to ask about any service level agreements that are in place. These are agreements about behaviour that are in place, where if they are not met, there are consequences to the business. <a href="https://jesswhite.co.uk/2020/04/09/slo-sli-sla-post.html" rel="noreferrer" target="_blank">More can be read about Service Levels in this blog post.</a>
 
 By having information about the behaviours your consumers expect and how they integrate with your domain, you can better understand the external boundaries of your domains. This, again, is useful for measuring success and building a picture of your domain. It is also good for testing and metrics. Now you know what the experience expected is, later down the line you can ensure there are procedures in place to ensure you are meeting those expectations.
 

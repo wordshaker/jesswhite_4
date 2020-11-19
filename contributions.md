@@ -5,29 +5,62 @@ permalink: /contributions/
 ---
 
 ## Contents
+- [Contents](#contents)
 - [Awards](#awards)
-- [Certifications](#certifications)
+    - [2019 - 2021](#2019---2021)
+    - [2020](#2020)
+    - [2018](#2018)
 - [Founder](#founder)
+    - [2018 - Present](#2018---present)
+    - [2015 - 2017](#2015---2017)
+- [Certifications](#certifications)
+    - [2020 - 2023](#2020---2023)
 - [Event Organisation](#event-organisation)
-    - [Meetup Organisation](#meetup-organisation)
-    - [Conference Organisation](#conference-organisation)
-    - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
-    - [Individual Event Organisation](#individual-event-organisation)
-- [Event Sponsorship](#event-sponsorship)    
+  - [Meetup Organisation](#meetup-organisation)
+    - [2020 - Present](#2020---present)
+  - [Conference Organisation](#conference-organisation)
+    - [2019 - Present](#2019---present)
+  - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
+    - [2019 - Present](#2019---present-1)
+  - [Individual Event Organisation](#individual-event-organisation)
+    - [2016 & 2017](#2016--2017)
+- [Event Sponsorship](#event-sponsorship)
+    - [2020 - 2021](#2020---2021)
 - [Speaking Engagements](#speaking-engagements)
-    - [Conferences](#conferences)
-    - [Meetups](#meetups)
-    - [Panel Discussions](#panel-discussions)
+  - [Conferences](#conferences)
+    - [2020](#2020-1)
+    - [2019](#2019)
+    - [2018](#2018-1)
+    - [2016](#2016)
+  - [Meetups](#meetups)
+    - [2020](#2020-2)
+    - [2019](#2019-1)
+    - [2018](#2018-2)
+  - [Panel Discussions](#panel-discussions)
+    - [2020](#2020-3)
+    - [2019](#2019-2)
+    - [2018](#2018-3)
 - [Outreach](#outreach)
+    - [2018 - Present](#2018---present-1)
+    - [2017 - 2018](#2017---2018)
 - [Volunteering](#volunteering)
-    - [Master of Ceremonies](#master-of-ceremonies)
-    - [Organisations](#organisations)
-    - [Conference Crew](#conference-crew)
+  - [Master of Ceremonies](#master-of-ceremonies)
+    - [2020](#2020-4)
+  - [Organisations](#organisations)
+    - [2020](#2020-5)
+    - [2019 - Present](#2019---present-2)
+  - [Conference Crew](#conference-crew)
+    - [2017](#2017)
 - [Sponsorship and Mentorship of Individuals](#sponsorship-and-mentorship-of-individuals)
 - [Podcast](#podcast)
+    - [2020](#2020-6)
+    - [2018](#2018-4)
 - [Publications](#publications)
+    - [2018](#2018-5)
 - [Memberships](#memberships)
+    - [2019](#2019-3)
 - [Applications](#applications)
+    - [2019](#2019-4)
 
 ---
 
@@ -35,18 +68,18 @@ permalink: /contributions/
 
 #### 2019 - 2021
 
-- **<a href="https://mvp.microsoft.com/en-us/PublicProfile/5003572" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a>**
+- **<a href="https://mvp.microsoft.com/en-us/PublicProfile/5003572" rel="noreferrer" target="_blank">Microsoft Most Valuable Professional - Developer Technologies</a>**
 
 #### 2020
 
-- **<a href="https://www.everywoman.com/events-awards/2020-fdm-everywoman-awards-finalists-announced" target="_blank">Finalist - Team Leader Award Category - FDM EVERYWOMAN IN TECHNOLOGY AWARDS</a>** 
+- **<a href="https://www.everywoman.com/events-awards/2020-fdm-everywoman-awards-finalists-announced" rel="noreferrer" target="_blank">Finalist - Team Leader Award Category - FDM EVERYWOMAN IN TECHNOLOGY AWARDS</a>** 
 
 #### 2018
 - **<a href="https://www.codefirstgirls.org.uk/ones-to-watch-2018.html" target="_blank">CODEFIRST:Girls Ones To Watch 2018</a>**
 
-- **<a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>**
+- **<a href="https://www.information-age.com/women-awards-2018-winners-revealed-123470601/" rel="noreferrer" target="_blank">Winner of the Rising Star Category Women In IT Awards 2018</a>**
 
-- **<a href="https://wearetechwomen.wearethecity.com/" target="_blank">Shortlisted for the WeAreTechWomen TechWomen50 Awards 2018</a>**
+- **<a href="https://wearetechwomen.wearethecity.com/" rel="noreferrer" target="_blank">Shortlisted for the WeAreTechWomen TechWomen50 Awards 2018</a>**
 
 <br/>
 
@@ -57,10 +90,10 @@ permalink: /contributions/
 ## Founder
 
 #### 2018 - Present
-- **Director and Co-Founder of <a href="http://dddeastmidlands.com" target="_blank">DDD East Midlands</a>.**
+- **Director and Co-Founder of <a href="http://dddeastmidlands.com" rel="noreferrer" target="_blank">DDD East Midlands</a>.**
 
 #### 2015 - 2017
-- **Founder and organiser of the <a href="https://www.meetup.com/Women-In-Tech-Nottingham/" target="_blank">Women In Tech, Nottingham</a>.**
+- **Founder and organiser of the <a href="https://www.meetup.com/Women-In-Tech-Nottingham/" rel="noreferrer" target="_blank">Women In Tech, Nottingham</a>.**
 
 ---
 
@@ -78,14 +111,14 @@ permalink: /contributions/
 ### Meetup Organisation
 Below is a list of meetups I co-organise
 #### 2020 - Present
-- **<a href="https://www.meetup.com/dotnetnotts/" target="_blank">.NET Nottingham Meetup</a>** A monthly meetup centered around .NET talks.
+- **<a href="https://www.meetup.com/dotnetnotts/" rel="noreferrer" target="_blank">.NET Nottingham Meetup</a>** A monthly meetup centered around .NET talks.
 
 <br/>
 
 ### Conference Organisation
 Below is a list of conferences I co-organise
 #### 2019 - Present
-- **<a href="https://www.dddeastmidlands.com/" target="_blank">DDD East Midlands Conference</a>** Developer! Developer! Developer! East Midlands is a general technology conference, for the community, by the community. This not-for-profit has all of its talks displayed anonymously and talks are selected by attendee vote. 
+- **<a href="https://www.dddeastmidlands.com/" rel="noreferrer" target="_blank">DDD East Midlands Conference</a>** Developer! Developer! Developer! East Midlands is a general technology conference, for the community, by the community. This not-for-profit has all of its talks displayed anonymously and talks are selected by attendee vote. 
 
 <br/>
 
@@ -116,37 +149,37 @@ to celebrate International Women's Day and raise money for Code Club East Midlan
 
 #### 2020 - 2021
 
-- **<a href="https://projectfunction.io/" target="_blank">Bronze Sponsor of Project Function</a>**
+- **<a href="https://projectfunction.io/" rel="noreferrer" target="_blank">Bronze Sponsor of Project Function</a>**
 
 <br/>
 
 ---
 
 ## Speaking Engagements
-_See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> for more talk information_
+_See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my Notist Profile</a> for more talk information_
 
 ### Conferences
 
 #### 2020
-- **<a href="https://ndc-london.com/speaker/jessica-white/" target="_blank">NDC London</a>** - UK - Controlling Wildfires While Only Getting Singed.
+- **<a href="https://ndc-london.com/speaker/jessica-white/" rel="noreferrer" target="_blank">NDC London</a>** - UK - Controlling Wildfires While Only Getting Singed.
 
 #### 2019
-- **<a href="https://skillsmatter.com/skillscasts/14139-introducing-a-culture-of-monitoring" target="_blank">ProgNet London</a>** - UK - Introducing a Culture of Monitoring
-- **<a href="https://noti.st/jesspwhite/O4Z17M/the-future-is-cross-functional" target="_blank">New Adventures Conference</a>** - UK - The Future is Cross-functional
-- **<a href="https://www.youtube.com/watch?v=n-3g4qjQ0Qg" target="_blank">NDC Porto</a>** - UK - A Practical Guide To Dashboarding
+- **<a href="https://skillsmatter.com/skillscasts/14139-introducing-a-culture-of-monitoring" rel="noreferrer" target="_blank">ProgNet London</a>** - UK - Introducing a Culture of Monitoring
+- **<a href="https://noti.st/jesspwhite/O4Z17M/the-future-is-cross-functional" rel="noreferrer" target="_blank">New Adventures Conference</a>** - UK - The Future is Cross-functional
+- **<a href="https://www.youtube.com/watch?v=n-3g4qjQ0Qg" rel="noreferrer" target="_blank">NDC Porto</a>** - UK - A Practical Guide To Dashboarding
 - **NDC Copenhagen** - UK - A Practical Guide To Dashboarding
 - **NDC London** - UK - A Practical Guide To Dashboarding
 
 #### 2018
-- **<a href="https://skillsmatter.com/skillscasts/12510-a-practical-guide-to-dashboarding" target="_blank">London .NET User Group</a>** - UK - A Practical Guide To Dashboarding
-- **<a href="https://www.youtube.com/watch?v=7jPDnF5bXNw" target="_blank">NDC Sydney</a>** - Australia - Creating & Maintaining Impactful Dashboards
-- **<a href="https://vimeo.com/271363592" target="_blank">NDC Minnesota</a>** - USA - Creating & Maintaining Impactful Dashboards
+- **<a href="https://skillsmatter.com/skillscasts/12510-a-practical-guide-to-dashboarding" rel="noreferrer" target="_blank">London .NET User Group</a>** - UK - A Practical Guide To Dashboarding
+- **<a href="https://www.youtube.com/watch?v=7jPDnF5bXNw" rel="noreferrer" target="_blank">NDC Sydney</a>** - Australia - Creating & Maintaining Impactful Dashboards
+- **<a href="https://vimeo.com/271363592" rel="noreferrer" target="_blank">NDC Minnesota</a>** - USA - Creating & Maintaining Impactful Dashboards
 - **WXG** - UK - Creating & Maintaining Impactful Dashboards
-- **<a href="https://vimeo.com/271363592" target="_blank">NDC London</a>** - UK - Who needs Dashboards?
-- **<a href="https://dotyork.com/speakers/jessica-white" target="_blank">Dot York</a>** - UK - Who needs Dashboards?
+- **<a href="https://vimeo.com/271363592" rel="noreferrer" target="_blank">NDC London</a>** - UK - Who needs Dashboards?
+- **<a href="https://dotyork.com/speakers/jessica-white" rel="noreferrer" target="_blank">Dot York</a>** - UK - Who needs Dashboards?
 
 #### 2016
-- **<a href="https://jesswhite.co.uk/2016/11/12/witconf-post.html" target="_blank">WITConf, University of Birmingham</a>** - UK - Be A Great Engineer
+- **<a href="https://jesswhite.co.uk/2016/11/12/witconf-post.html" rel="noreferrer" target="_blank">WITConf, University of Birmingham</a>** - UK - Be A Great Engineer
 
 <br/>
 
@@ -175,10 +208,10 @@ _See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> 
 ### Panel Discussions
 
 #### 2020
-- **<a href="https://dev.to/azure/the-cloud-skills-show-languages-frameworks-1adi#:~:text=The%20Cloud%20Skills%20Show%20is,start%20a%20career%20in%20tech)." target="_blank">The Cloud Skills Show</a>** - Talk with Pete Gallagher about learning resources for .NET.
+- **<a href="https://dev.to/azure/the-cloud-skills-show-languages-frameworks-1adi#:~:text=The%20Cloud%20Skills%20Show%20is,start%20a%20career%20in%20tech)." rel="noreferrer" target="_blank">The Cloud Skills Show</a>** - Talk with Pete Gallagher about learning resources for .NET.
 
 #### 2019
-- **<a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" target="_blank">ProgNET</a>** - UK - Have I Got .NET For You (comedy)
+- **<a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" rel="noreferrer" target="_blank">ProgNET</a>** - UK - Have I Got .NET For You (comedy)
 
 #### 2018
 - **Trent Uni** - UK - Women In STEM for International Women's Day
@@ -197,7 +230,7 @@ At UNiDAYS in 2018 I project managed two second-year projects for The University
     I am now (2019) assisting on running the same initiative with my employer, Experian.
 
 - **Q&A Sessions & advocacy for School Of Code**
-<a href="https://blog.schoolofcode.co.uk" target="_blank">School Of Code</a> has been running for two years now (2019) and for both cohorts of students I have ran an "untweetable truth" Q&A session. I am a huge supporter of this initiative and am very vocal about it on all social media.
+<a href="https://blog.schoolofcode.co.uk" rel="noreferrer" target="_blank">School Of Code</a> has been running for two years now (2019) and for both cohorts of students I have ran an "untweetable truth" Q&A session. I am a huge supporter of this initiative and am very vocal about it on all social media.
 
 #### 2017 - 2018
 
@@ -211,14 +244,14 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 ## Volunteering
 ### Master of Ceremonies
 #### 2020
-- **<a href="https://devaroundthesun.org/" target="_blank">Dev Around the Sun</a>**
-Co-presented between talks with <a href="https://twitter.com/jonathanfmills" target="_blank">Jonathan Mills</a> for 3 hours of Dev Around The Sun. this was a conference-come-telethon to raise money for Direct Reliefs Corona Virus Fund.
+- **<a href="https://devaroundthesun.org/" rel="noreferrer" target="_blank">Dev Around the Sun</a>**
+Co-presented between talks with <a href="https://twitter.com/jonathanfmills" rel="noreferrer" target="_blank">Jonathan Mills</a> for 3 hours of Dev Around The Sun. this was a conference-come-telethon to raise money for Direct Reliefs Corona Virus Fund.
 
 <br/>
 
 ### Organisations
 #### 2020
-- **<a href="https://dotnetfoundation.org/blog/2020/06/15/net-foundation-election-2020-nominations-open" target="_blank">.NET Nomination Committee</a>** 
+- **<a href="https://dotnetfoundation.org/blog/2020/06/15/net-foundation-election-2020-nominations-open" rel="noreferrer" target="_blank">.NET Nomination Committee</a>** 
 This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb Othman. This committee was put together to encourage people to submit to the .NET Foundation board elections, with some focus on increasing all forms of diversity. As a group it was also our responsibility to narrow down the submissions down to 18 which the community could vote on. This gives a choice of around 3 people per board seat.
 
 #### 2019 - Present
@@ -231,8 +264,8 @@ This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb O
 
 ### Conference Crew
 #### 2017
-- **<a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" target="_blank">NDC Oslo</a>** - Norway
-- **<a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" target="_blank">NDC London</a>** - UK
+- **<a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" rel="noreferrer" target="_blank">NDC Oslo</a>** - Norway
+- **<a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" rel="noreferrer" target="_blank">NDC London</a>** - UK
 
 <br/>
 
@@ -254,19 +287,19 @@ For events that I have been invited to speak at but have not been able to attend
 
 ## Podcast
 #### 2020
-- **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" target="_blank">Side Hustle Success Podcast</a>**
+- **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a>**
 
 #### 2018
-- **<a href="https://www.dotnetrocks.com/?show=1526" target="_blank">.Net Rocks</a>**
-- **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" target="_blank">Side Hustle Success Podcast</a>**
-- **<a href="https://www.stitcher.com/podcast/twine-radio/book-club-pod" target="_blank">A regular on BookClubPod</a>**
+- **<a href="https://www.dotnetrocks.com/?show=1526" rel="noreferrer" target="_blank">.Net Rocks</a>**
+- **<a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a>**
+- **<a href="https://www.stitcher.com/podcast/twine-radio/book-club-pod" rel="noreferrer" target="_blank">A regular on BookClubPod</a>**
 
 <br/>
 
 ---
 ## Publications
 #### 2018
-- **<a href="https://www.theguardian.com/education/2018/jul/09/graduate-experience-everything-life-tech-days-software-developer" target="_blank">
+- **<a href="https://www.theguardian.com/education/2018/jul/09/graduate-experience-everything-life-tech-days-software-developer" rel="noreferrer" target="_blank">
 Featured in The Guardian Graduate Section</a>**
 
 <br/>
@@ -281,4 +314,4 @@ Featured in The Guardian Graduate Section</a>**
 ---
 ## Applications
 #### 2019
-- **<a href="https://election.dotnetfoundation.org/campaign-2019/jessica-white.html" target="_blank">Ran for the .NET Foundation Elections</a>**
+- **<a href="https://election.dotnetfoundation.org/campaign-2019/jessica-white.html" rel="noreferrer" target="_blank">Ran for the .NET Foundation Elections</a>**

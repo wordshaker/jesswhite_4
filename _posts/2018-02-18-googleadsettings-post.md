@@ -58,7 +58,7 @@ Happy Googling.
 
 ### Here is the reference
 
-- <a href="https://support.google.com/ads/answer/2662922?hl=en-GB" target="_blank">Opt out of seeing personalised ads</a>
+- <a href="https://support.google.com/ads/answer/2662922?hl=en-GB" rel="noreferrer" target="_blank">Opt out of seeing personalised ads</a>
 
 
 <div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">

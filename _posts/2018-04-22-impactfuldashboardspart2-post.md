@@ -16,7 +16,7 @@ share: true
 --- 
 <br/>
 
-In Part One of this series of posts <a href="{{site.baseurl}}2018/04/09/impactfuldashboardspart1-post.html" target="_blank">Creation of impactful dashboards</a> we covered what a dashboard is, and some tips on what to do when thinking about creating a dashboard.
+In Part One of this series of posts <a href="{{site.baseurl}}2018/04/09/impactfuldashboardspart1-post.html" rel="noreferrer" target="_blank">Creation of impactful dashboards</a> we covered what a dashboard is, and some tips on what to do when thinking about creating a dashboard.
 
 In this section, we are going to cover maintenance of dashboards. Some suggestions on how to keep dashboards useful, and some considerations when working with them.
 

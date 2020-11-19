@@ -13,10 +13,18 @@ permalink: /abstracts/
 
 **[2019](#2019)**
 
-- [Introducing a Culture of Monitoring](#introducing-a-culture-of-monitoring)
-- [The Future is Cross-functional](#the-future-is-cross-functional)
-- [How to Talk Really Good](#how-to-talk-really-good)
-- [A Practical Guide To Dashboarding](#a-practical-guide-to-dashboarding)
+- [Contents](#contents)
+- [Presentations](#presentations)
+- [## 2020](#h2-id2020-312020h2)
+  - [Controlling Wildfires While Only Getting Singed](#controlling-wildfires-while-only-getting-singed)
+- [## 2019](#h2-id2019-312019h2)
+  - [Introducing a Culture of Monitoring](#introducing-a-culture-of-monitoring)
+  - [The Future is Cross-functional](#the-future-is-cross-functional)
+  - [How to Talk Really Good](#how-to-talk-really-good)
+  - [A Practical Guide To Dashboarding](#a-practical-guide-to-dashboarding)
+- [## 2018](#h2-id2018-312018h2)
+  - [Creating and Maintaining Impactful Dashboards](#creating-and-maintaining-impactful-dashboards)
+  - [Who Needs Dashboards](#who-needs-dashboards)
 
 **[2018](#2018)**
 
@@ -26,7 +34,7 @@ permalink: /abstracts/
 <br/>
 
 ## Presentations
-_See <a href="https://noti.st/jesspwhite" target="_blank">my Notist Profile</a> for more talk information_
+_See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my Notist Profile</a> for more talk information_
 
 <br/>
 
@@ -58,7 +66,7 @@ In this talk, Jessica will explore the different aspects of monitoring from log 
 
 This talk is for people of all walks of life in technology. The aim is to provide examples and guidance on what you measure, why you should be excited about it, how to sell this to your business and how to keep these measurements effective and useful.
 
-<h4><a href="https://noti.st/jesspwhite/dQHHZs/introducing-a-culture-of-monitoring" target="_blank">Link To Slides</a></h4>
+<h4><a href="https://noti.st/jesspwhite/dQHHZs/introducing-a-culture-of-monitoring" rel="noreferrer" target="_blank">Link To Slides</a></h4>
 
 <br/>
 
@@ -70,7 +78,7 @@ This is no longer the world we live in. We are encouraged to work cross-function
 
 This talk is aimed at all levels and all professions within technology. Come along, and I’ll show you not only why you should work together in this way, but also offer tips on how to achieve it.
 
-<h4><a href="https://noti.st/jesspwhite/O4Z17M/the-future-is-cross-functional" target="_blank">Link To Slides</a></h4>
+<h4><a href="https://noti.st/jesspwhite/O4Z17M/the-future-is-cross-functional" rel="noreferrer" target="_blank">Link To Slides</a></h4>
 
 <br/>
 
@@ -82,7 +90,7 @@ Let us be your guides through the challenging lands of talk submissions. From pi
 
 By the end of this talk, you’ll not only be ready to inspire with your words but feel fully prepared to take on the world.
 
-<h4><a href="https://noti.st/jesspwhite/wyszGx/how-to-talk-really-really-good" target="_blank">Link To Slides</a></h4>
+<h4><a href="https://noti.st/jesspwhite/wyszGx/how-to-talk-really-really-good" rel="noreferrer" target="_blank">Link To Slides</a></h4>
 
 <br/>
 
@@ -94,7 +102,7 @@ Together we will journey through a practical tour of dashboarding. Focusing on m
 
 This will be a whirlwind tour from start to finish on how to get started making useful development dashboards.
 
-<h4><a href="https://noti.st/jesspwhite/ppgyPV/a-practical-guide-to-dashboarding" target="_blank">Link To Slides</a></h4>
+<h4><a href="https://noti.st/jesspwhite/ppgyPV/a-practical-guide-to-dashboarding" rel="noreferrer" target="_blank">Link To Slides</a></h4>
 
 <br/>
 
@@ -109,7 +117,7 @@ Together we will explore some of the many forms of dashboards, from those that a
 
 No matter what your role within a company, there will be a type of dashboard that will dazzle you with its insights. Come along and find out which dashboard you need.
 
-<h4><a href="https://noti.st/jesspwhite/I0RDvX/creating-maintaining-impactful-dashboards" target="_blank">Link to slides</a></h4>
+<h4><a href="https://noti.st/jesspwhite/I0RDvX/creating-maintaining-impactful-dashboards" rel="noreferrer" target="_blank">Link to slides</a></h4>
 
 <br/>
 
@@ -121,6 +129,6 @@ Together we will explore some of the many forms of dashboards, from those that a
 
 No matter what your role within a company, there will be a type of dashboard that will dazzle you with its insights. Come along and find out which dashboard you need.
 
-<h4><a href="https://noti.st/jesspwhite/Mr2bfp/who-needs-dashboards" target="_blank">Link to slides</a></h4>
+<h4><a href="https://noti.st/jesspwhite/Mr2bfp/who-needs-dashboards" rel="noreferrer" target="_blank">Link to slides</a></h4>
 
 <br/>
