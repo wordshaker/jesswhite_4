@@ -1,4 +1,4 @@
-name: JessWhite Deploy to CO.UK
+name: JessWhite Deploy to .TECH
 
 on:
   push:
@@ -39,10 +39,10 @@ jobs:
 
     - name: Deploy To S3
       run: |
-        aws s3 sync ./_site/ s3://jesswhite.co.uk/  --delete
+        aws s3 sync ./_site/ s3://jesswhite.tech/  --delete
         echo "Deployed to S3"
 
     - name: Invalidate CloudFront cache
       run: |
-        aws cloudfront create-invalidation --distribution-id E164UBLX1GKOL2 --paths "/*"
+        aws cloudfront create-invalidation --distribution-id EK6GKU4L2UQD3 --paths "/*"
         echo 'Invalidated CloudFront cache'
