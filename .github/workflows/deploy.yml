@@ -1,4 +1,4 @@
-name: JessWhite Deploy
+name: JessWhite Deploy to CO.UK
 
 on:
   push:
@@ -44,5 +44,5 @@ jobs:
 
     - name: Invalidate CloudFront cache
       run: |
-        aws cloudfront create-invalidation --distribution-id E3GWURJ7NMA5UJ --paths "/*"
+        aws cloudfront create-invalidation --distribution-id E164UBLX1GKOL2 --paths "/*"
         echo 'Invalidated CloudFront cache'
