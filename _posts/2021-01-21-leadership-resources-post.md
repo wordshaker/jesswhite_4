@@ -2,10 +2,10 @@
 layout: post
 title: Leadership and Coaching Resources
 description: "A log of the leadership and coaching resources I've been recommended and short reviews after I have used them"
-date: 2021-01-18
+date: 2021-01-21
 cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-11-19/twitter.jpg"
-categories: [tech]
+image: "assets/img/20201-01-21/twitter.jpg"
+categories: [tech, personal]
 comments: false
 share: true
 ---
@@ -48,14 +48,13 @@ The full title of this book is _Radical Candor: How to Get What You Want by Sayi
 
 I didn't find this book dry, or hard to read. I devoured it in a couple of days. Some others I've spoken to weren't fond of the many examples from Kims past, but each to their own.
 
+### [Managing Humans - Michael Lopp](https://www.amazon.co.uk/gp/product/1484221575/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
+**Reading.**
 
 ### [The Managers Path - Camille Fournier](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897/ref=sr_1_1?dchild=1&keywords=The+Managers+Path&qid=1611090101&s=books&sr=1-1)
 
 **To be read.**
-
-### [Managing Humans - Michael Lopp](https://www.amazon.co.uk/gp/product/1484221575/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-
-**Reading.**
 
 ### [No Hard Feelings - Liz Fosslien](https://www.amazon.co.uk/dp/B07D1F9F3G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
@@ -88,13 +87,23 @@ Each of the videos is accompanied with PDFs with more detailed summaries of the 
 
 There are playlists to help focus on the area you want to learn more about including Personal Development and Peak Performance, Business and Innovation and Influence and Leadership.
 
+### Videos from LeadDev
+
+#### [Crucial career conversations: a framework in practice - Adrienne Lowe](https://www.youtube.com/watch?v=DTAXQNJLskk)
+
+#### [The team-changing magic of 1:1s - Adrienne Lowe](https://www.youtube.com/watch?v=_RoD3s-Ncnk)
+
 <br/>
 
 ## Websites
 
 ### [LeadDev](https://theleaddeveloper.com/)
 
+LeadDev provides resources in a number formats for new and experienced managers. They run conferences and workshops, host all of their past talks online, have a number of blogs on the topic and more. 
 
+I've watched a few of their videos and attended their conferences. I highly rate their content.
+
+<br/>
 
 _Keep Learning,_
 
