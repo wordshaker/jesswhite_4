@@ -37,11 +37,16 @@ share: true
 
 ### [Drive - Daniel Pink](https://www.amazon.co.uk/dp/B0033TI4BW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
-The full title of this book is _Drive: The Surprising Truth About What Motivates Us_
+The full title of this book is _Drive: The Surprising Truth About What Motivates Us_. I found it an enjoyable read which explored motivational theory in a way that rang true. The book goes through a number of examples of this motivational theory in practice, and in all honesty though I think this is a great book, the video linked later gives you the content you need to take away from this book. 
+
+The importance of **AUTONOMY**, **MASTERY** and **PURPOSE** is something I revisit often mentally in both my professional and personal life.
 
 
 ### [Radical Candor - Kim Scott](https://www.amazon.co.uk/dp/B01LW1LESC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
+The full title of this book is _Radical Candor: How to Get What You Want by Saying What You Mean_. Kim leans on her experience and talks through applied examples of not only how to use "radical candor" but also why. They explore damaging behaviours as well as how to correct them to give constructive criticism and communicate effectively.
+
+I didn't find this book dry, or hard to read. I devoured it in a couple of days. Some others I've spoken to weren't fond of the many examples from Kims past, but each to their own.
 
 
 ### [The Managers Path - Camille Fournier](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897/ref=sr_1_1?dchild=1&keywords=The+Managers+Path&qid=1611090101&s=books&sr=1-1)
