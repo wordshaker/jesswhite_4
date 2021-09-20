@@ -50,7 +50,7 @@ Those who chose to run will have had some element of challenge. Being part of th
 
 The current format is a popularity contest, no matter how much marketing we do around each applicant those who are most well known are most likely to get selected. I am not well known in .NET and don't plan on putting myself more into the limelight. I'm happy doing what I do because it makes me happy. 
 
-If I then got selected knowing this, I would always have a question at the back of my head - would I have been voted for, for being the only woman on the slate? Would it be for my diversity attributes rather than my skill to do the role? It would not affect my ability to do well in the role, and work to the best of my ability, but when questioned about it (which I would be) I would find it hard to defend that it hadn't contributed to being selected. 
+If I then got selected knowing this, I would always have a question at the back of my head: what would I have been voted for? For being the only woman on the slate? Would it be for my diversity attributes rather than my skill to do the role? It would not affect my ability to do well in the role, and work to the best of my ability, but when questioned about it (which I would be) I would find it hard to defend that it hadn't contributed to being selected. 
 
 ### Overview
 
