@@ -284,7 +284,7 @@ This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb O
 #### 2019 - Present
 
 - **.NET Foundation Action Groups**
-    - Outreach 
+    - Education
     - Membership 
 
 <br/>
