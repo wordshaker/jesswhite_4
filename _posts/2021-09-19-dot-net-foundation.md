@@ -36,9 +36,9 @@ Being part of the membership committee, I attend a meeting once every two weeks.
 
 I'm not going to avoid the awkward conversation on this one. Those going forward for the board all identify as male this time around. This was not down to the Nomination Committee. They reached out to a number of brilliantly qualified diverse members of the .NET Foundation, but for varied reasons all of which were valid, they chose not to go ahead.
 
-My reasons are simple.
+My reasons are as follows:
 
-**1. I can enact change without exposure**
+**I can enact change without exposure**
 
 Due to the format of the election meaning I would have to poll for support, I feared the negative attention I would receive on social media. As I run events and speak, I don't shy away from social media all that much, but I also know how vile it can be.
 
