@@ -2,7 +2,7 @@
 layout: post
 title: Maintaining Repositories During Hacktober
 description: "A guide to maintaining repositories during Hacktoberfest"
-date: 2021-10-07
+date: 2021-10-08
 cover: "/assets/blog_header.jpg"
 image: "assets/img/2020-11-19/twitter.jpg"
 categories: [tech]
@@ -21,23 +21,31 @@ share: true
 <h2>Quick Links:</h2>
 
 - [Repository Setup](#repository-setup)
+  - [What To Do To Opt-In To Hacktober](#what-to-do-to-opt-in-to-hacktober)
+  - [How To Mark Un-helpful Contributions](#how-to-mark-un-helpful-contributions)
+  - [In Built Guidance](#in-built-guidance)
   - [GitHub Templates](#github-templates)
   - [Branch Protection](#branch-protection)
   - [Setting up CI and CD](#setting-up-ci-and-cd)
-- [Issues and Correspondence](#issues-and-correspondence)
 - [What I've learnt as a maintainer](#what-ive-learnt-as-a-maintainer)
   - [Use the right licence](#use-the-right-licence)
   - [Have a Code Of Conduct in place](#have-a-code-of-conduct-in-place)
   - [Have a cracking Readme](#have-a-cracking-readme)
-  - [Guide for how to run the code and locally](#guide-for-how-to-run-the-code-and-locally)
   - [Contribution Guidelines](#contribution-guidelines)
   - [Avoiding PR clashes](#avoiding-pr-clashes)
   - [Advantages to the above documentation](#advantages-to-the-above-documentation)
     - [Maintaining consistency](#maintaining-consistency)
     - [Transparency](#transparency)
+- [Issues and Correspondence](#issues-and-correspondence)
   - [The many types of contribution](#the-many-types-of-contribution)
   - [Tone of voice](#tone-of-voice)
 - [In Conclusion](#in-conclusion)
+
+<br/>
+
+It's that most wonderful time of the year again! <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a> takes place for the whole of October with the aim of encouraging people to contribute to Open Source. If you have some open source repositories you'd like to encourage contributions to, there are a few things you can do to make the experience better for you, and the people interacting with your repository.
+
+This post is a guide to some of the things I've learnt while looking after open repositories.
 
 <br/>
 
@@ -47,7 +55,7 @@ In previous years, Hacktoberfest has been a time of horror for repository mainta
 
 To protect against this, the rules of Hacktober have tightened to make it possible for you to opt into the experience as a maintainer.
 
-### What to do to Opt-In to Hacktober
+### What To Do To Opt-In To Hacktober
 
 To opt your repository into Hacktoberfest do **EITHER** of the following.
 
@@ -57,7 +65,7 @@ On the main page of your repository add *hacktoberfest* as a topic tag. See the 
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-07/topic.png" alt="Screen shot of the GitHub Topic section.">
+<img src="{{site.baseurl}}/assets/img/2021-10-08/topic.png" alt="Screen shot of the GitHub Topic section.">
 </div>
 <br/>
 
@@ -67,17 +75,17 @@ Add a *hacktoberfest-accepted* label which can be applied to approved issues or 
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-07/label.png" alt="Screen shot of the hacktoberfest-accepted label in GitHub.">
+<img src="{{site.baseurl}}/assets/img/2021-10-08/label.png" alt="Screen shot of the hacktoberfest-accepted label in GitHub.">
 </div>
 <br/>
 
-### How to mark un-helpful contributions
+### How To Mark Un-helpful Contributions
 
-To ensure spam pull requests aren't counted as a Hacktoberfest contribution just as much as you, so please give them an `invalid` or `spam` label and close them. Pull requests that cthese labels won’t be counted toward Hacktoberfest.
+To ensure spam pull requests aren't counted as a Hacktoberfest contribution just as much as you, so please give them an `invalid` or `spam` label and close them. Pull requests that these labels won’t be counted toward Hacktoberfest.
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-07/spam.png" alt="Screen shot of the spam label in GitHub.">
+<img src="{{site.baseurl}}/assets/img/2021-10-08/spam.png" alt="Screen shot of the spam label in GitHub.">
 </div>
 <br/>
 
@@ -87,7 +95,7 @@ A lot of the items mentioned in this section are listed in the Community Profile
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-07/community.png" alt="Screen shot of the GitHub Community Profile page.">
+<img src="{{site.baseurl}}/assets/img/2021-10-08/community.png" alt="Screen shot of the GitHub Community Profile page.">
 </div>
 <br/>
 
@@ -101,12 +109,13 @@ You can outline headings and put down some description of what you would like th
 
 There is also the opportunity to create different templates for different scenarios. For example, on one of the repositories I co-manage we have separate templates for Bug Report Issues versus Feature Requests. These two types of issues require different information, so separating them was useful to us and our community. 
 
+Instructions for how to set up these templates can be found <a href="https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/about-issue-and-pull-request-templates" target="_blank">here.</a>
+
 ### Branch Protection
 
 In the Settings of the GitHub repository as a maintainer you can protect your branches under a number of criteria. You can set it up so that pull requests can't be merged without build checks passing, reviews from certain people or a set number of reviews or certain Code Owners.
 
-Some of the checks we have included are that the build is passing, tests are passing (including accessibility tests) and using a security scanning tool to ensure there are no known vulnerabilities. 
-
+You can set up any CI workflows/scripts as a required check. As part of the repositories I maintain I include checks for passing tests, security scans and linter checks.
 
 These rules ensure that unwanted changes can't be merged into your main branch and that changes match the quality and needs you expect in your project.
 
@@ -171,14 +180,6 @@ The Readme is the first thing I look at when going to a repository. As such it i
 
 <br/>
 
-### Guide for how to run the code and locally
-
-Having a clear guide on how to run the code locally will help anyone who wants to contribute to your repository test their work before pushing up changes. By helping your contributors run the code and tests on their locally machines, you help them to ensure they are pushing up code that meets the requirements without breaking anything else unexpectedly.
-
-As mentioned, I chose to put these guides in the README of the repository. The repository is a guaranteed place that all contributors will visit and having a guide here, also keeps the guide next to the code it affects.
-
-<br/>
-
 ### Contribution Guidelines
 
 These guidelines inform contributors what they need to do to make changes to the repository. Some of the sections we found useful include:
@@ -187,7 +188,7 @@ These guidelines inform contributors what they need to do to make changes to the
   As there may be multiple people wanting to work on the same issues, it's useful to have instructions for what to do when someone wants to pick up work, and how the contributor will be selected when multiple people want to work on the same issue. How does one indicate their interest? At what point can they submit their work on their issue? How will it be communicated that they can pick up a piece of work?
 
 * #### PR Guidelines
-  This is assisted with some of the automation available which is outlined later, such as PR templates and Code Owner files. You may want to add information in your guidelines though if there is a particular PR workflow you want people to adhere to.
+  This is assisted with some of the automation available which is outlined later, such as PR templates and Code Owner files. You may want to add information in your guidelines though if there is a particular PR workflow you want people to adhere to. This can also include what labels used for PRs in different statuses and what is required to have a PR approved and merged.
   
 * #### Branching guidelines
   How do you want people to branch from your project? Branch directly? Fork the repository? It can also be useful to link to resources for beginners. Also, is there a naming style for branches you would like contributors to conform to?
@@ -198,13 +199,15 @@ These guidelines inform contributors what they need to do to make changes to the
 * #### Link to the code of conduct
   Might seem like I've put this everywhere, but the Code of Conduct is inherently linked to contributing. This is a light reminder that if you are considering working on a repository, all contributors need to behave in a way that aligns to the Code of Conduct.
 
+Instructions for <a href="https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors" target="_blank">how to set up a contribution.md can be found here.</a>
+
 <br/>
 
 ### Avoiding PR clashes
 
-In the .NET Notts repositories we ask that people request to make changes on an existing issue or an issue they have raised. Once a maintainer has assigned the change to them, then they can raise a pull request. This worked on a "first-come-first-served" basis and we set a long time limit for people to complete the challenge in. If they don't complete in this time, the issue is re-opened to be picked up. This is indicated by un-assigning the issue and adding in labels again such as `help wanted` and removing `in progress` labels. 
+Tracking suggested changes can be done using Issues. For the repositories I look after I ask that a person is assigned to an existing issue or an that a new issue is raised. Once a maintainer has assigned the change to them, then they can raise a pull request. This worked on a "first-come-first-served" basis. In the contribution guidelines, state how long an issue can be assigned to a person before it can be reassigned to someone new. This is indicated by un-assigning the issue and adding in labels again such as `help wanted` and removing `in progress` labels. 
 
-The reason for this is we had a number of pull requests being raised for the same issue from numerous people. We needed a fair way to decide who's changes went through, and to be transparent about what this process was.
+The reason for this is you may have a number of pull requests being raised for the same issue from numerous people. This provides a fair way to decide who's changes went through, and to be transparent about what this process was.
 
 <br/>
 
