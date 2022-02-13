@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://jesswhite.co.uk/" 
+url: "https://jesswhite.co.uk" 
 
 # THEME-SPECIFIC CONFIGURATION
 title: Jessica White
