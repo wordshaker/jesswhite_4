@@ -225,7 +225,6 @@ For measuring if a system or service meets it's required business need, having S
 
 ---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

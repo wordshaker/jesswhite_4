@@ -84,7 +84,8 @@ Never forget to be excellent to each other, and party on.
 <img src="{{site.baseurl}}/assets/img/posts/2017/07-06/billandted.gif" alt="Tools">
 </div>
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

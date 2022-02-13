@@ -229,6 +229,6 @@ _Edits made: 4th October 2020_
 
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

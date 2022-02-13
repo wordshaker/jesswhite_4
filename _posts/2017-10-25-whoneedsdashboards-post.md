@@ -228,8 +228,8 @@ Thank you to: [Darren Whitworth](https://www.linkedin.com/in/darrenwhitworth1/),
 - [From Strategy to Business Models and to Tactics](http://www.hbs.edu/faculty/Publication%20Files/10-036.Pdf)
 - [Defining Strategy, Implementation, and Execution](https://hbr.org/2015/03/defining-strategy-implementation-and-execution)
 
+---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

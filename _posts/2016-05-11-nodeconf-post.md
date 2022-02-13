@@ -61,7 +61,8 @@ Sadly, despite the fantastic Code of Conduct - there was a bit of .NET bashing, 
 
 Overall, NodeConf is a great conference. I encourage everyone to keep an eye out on Nearforms future events. 
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>
