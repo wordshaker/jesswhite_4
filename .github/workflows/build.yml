@@ -10,18 +10,12 @@ jobs:
         ruby-version: [ '2.6', '2.7' ]
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v1
     - name: Set up Ruby
-      uses: ruby/setup-ruby@473e4d8fe5dd94ee328fdfca9f8c9c7afc9dae5e
+      uses: ruby/setup-ruby@v1
       with:
         ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true
-
-    - name: Install packages
-      continue-on-error: true
-      run: |
-        gem install type-on-strap
-        gem install jekyll-theme-type-on-strap
 
     - name: Build
       run: |
