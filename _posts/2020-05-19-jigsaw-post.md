@@ -3,11 +3,8 @@ layout: post
 title: Pre-loved Systems Are Like Second Hand Jigsaw Puzzles
 description: "Working out domains when working with pre-existing systems. How to put together the full picture of a system."
 date: 2020-05-19
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-05-19/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2020']
 ---
 
 ----
@@ -114,7 +111,6 @@ _Jess_
 
 ---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

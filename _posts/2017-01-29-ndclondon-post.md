@@ -3,10 +3,8 @@ layout: post
 title: "My First NDC"
 description: "The experience of volunteering at NDC London 2017"
 date: 2017-01-29
-cover: "/assets/blog_header.jpg"
-categories: [personal, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>
@@ -79,7 +77,8 @@ Along with learning about some great technologies and re-igniting my passion or 
 
 NDC is good for you. It's not great for your waistline.
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

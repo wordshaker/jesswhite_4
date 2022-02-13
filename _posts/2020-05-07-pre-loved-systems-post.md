@@ -2,11 +2,9 @@
 layout: post
 title: Pre-loved Systems
 description: "What is great about working with older systems and why I think legacy is a dirty word."
+image: "assets/img/posts/twitter.jpg"
 date: 2020-05-07
-cover: "/assets/blog_header.jpg"
-categories: [tech]
-comments: false
-share: true
+tags: ['2020']
 ---
 
 ----
@@ -31,7 +29,7 @@ In recent talks I've done about maintenance of pre-existing systems I've moved t
 
 <br/>
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2020-05-07/teddy.png" alt="A pre-loved vintage system with a lot of it's own personality.">
+<img src="{{site.baseurl}}/assets/img/posts/2020/05-07/teddy.png" alt="A pre-loved vintage system with a lot of it's own personality.">
 </div>
 
 These systems are often older or "vintage", but not always. They often have a lot of undocumented quirks. At one time, a team put time, care and effort into building these systems. They were loved once.
@@ -72,7 +70,6 @@ _Jess_
 
 ---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

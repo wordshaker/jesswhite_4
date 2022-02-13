@@ -3,10 +3,8 @@ layout: post
 title: Three Is The Magic Number
 description: "A reflection on 3 years of working in tech. What I've done and what I've learnt from it."
 date: 2018-09-23
-cover: "/assets/blog_header.jpg"
-categories: [personal]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2018']
 ---
 
 ----
@@ -93,6 +91,6 @@ Well, happy third tech birthday to me. Does this mean I'm a real grown-up develo
 
 J x
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

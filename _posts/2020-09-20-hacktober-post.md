@@ -3,11 +3,8 @@ layout: post
 title: Hacktober Hints For Contributors
 description: "Links and tips for how to take part in Hacktober and where to find repositories to contribute to."
 date: 2020-09-20
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-09-20/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2020']
 ---
 
 ----
@@ -37,7 +34,7 @@ What this means is that if an open-source repository is happy to have contributi
 
 <br/>
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2020-09-20/topic.png" alt="Screen shot of github showing the topics section.">
+<img src="{{site.baseurl}}/assets/img/posts/2020/09-20/topic.png" alt="Screen shot of github showing the topics section.">
 </div>
 
 <br/>
@@ -110,7 +107,7 @@ The Licence for GitHub projects is shown and linked to in the About section on t
 
 <br/>
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2020-09-20/licence.png" alt="Screen shot of github showing the topics section.">
+<img src="{{site.baseurl}}/assets/img/posts/2020/09-20/licence.png" alt="Screen shot of github showing the topics section.">
 </div>
 <br/>
 
@@ -232,6 +229,6 @@ _Edits made: 4th October 2020_
 
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>
