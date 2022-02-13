@@ -2,11 +2,9 @@
 layout: post
 title: Socialising - Distantly (and Not)
 description: "How to take part in the East Mids tech scene, both before and after COVID-19."
+image: "assets/img/posts/twitter.jpg"
 date: 2020-03-27
-cover: "/assets/blog_header.jpg"
-categories: [events]
-comments: false
-share: true
+tags: ['2020']
 ---
 
 ----

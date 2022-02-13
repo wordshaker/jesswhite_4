@@ -2,11 +2,9 @@
 layout: post
 title: Service Levels
 description: "Explaining Service Levels Objectives, Agreements and Indicators, what they are and how they are useful."
+image: "assets/img/posts/twitter.jpg"
 date: 2020-04-09
-cover: "/assets/blog_header.jpg"
-categories: [tech]
-comments: false
-share: true
+tags: ['2020']
 ---
 
 ----

@@ -3,10 +3,8 @@ layout: post
 title: "Be A Great Engineer - WITConf, University of Birmingham"
 description: "My talk at the Women In Tech Conference 2.0 at The University of Birmingham"
 date: 2016-11-12
-cover: "/assets/blog_header.jpg"
-categories: [personal, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>
@@ -34,7 +32,7 @@ This was my very first go at doing a public talk, and admittedly it took a lot o
  but this was the first chance to get to know her well, and her talk was really well delivered.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2016-11-12/speakers.jpg" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2016/11-12/speakers.jpg" alt="Tools">
 </div>
 
  The experience of the talk was not as bad as expected either. It is still scary. I didn't trip and fall on my face. People 
@@ -48,7 +46,7 @@ I was going to share the slides alone, but there is nothing on them, so instead 
 #### You will never stop learning
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2016-11-12/learning_slide.jpg" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2016/11-12/learning_slide.jpg" alt="Tools">
 </div>
 
 This is my favourite thing about being an engineer. There is an endless wealth of things to learn about. Even when you think you have the handle on a topic, new stuff will come out in the next ten minutes. 
@@ -76,7 +74,7 @@ If you are lucky you will be surrounded by talented and more experienced develop
 These people have had YEARS to learn. Even if they have the same amount of experience, they may have focused on a different area from you and learnt about it to a further degree. Do not mistake their different experience to intelligence. You are smart. It's likely you are learning at AT LEAST the same pace as the people you work with. You may even have some knowledge that your colleagues don't.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2016-11-12/Imposter.jpg" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2016/11-12/Imposter.jpg" alt="Tools">
 </div>
 
 The other side to this is that you will work with people who forget what it's like to be new. They might treat you like you know very little. Remind them that you are new to this and that they had to learn once too. There is a way to work with people that have more experience without feeling very small about yourself. If someone makes you feel small, that is something they need to work on to avoid doing. Even the most experienced developers can learn from the newest. This is all thanks again to the vast field we work on. In this field we all get different experiences, and exposure to different techniques. As such we can all learn from each other.
@@ -90,7 +88,7 @@ For some reason, back end development has a crazy reputation for being complicat
 #### Even Though Sometimes It Won't Feel Like It
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2016-11-12/horo.jpg" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2016/11-12/horo.jpg" alt="Tools">
 </div>
 
 There is a common theme throughout these points. Some days you will feel on top of the world; while others, not so much. The self-doubt, the comparisons to other colleagues, the sometimes feeling alone. Turns out this is a thing. It's called imposter syndrome. Want to know a secret - it's common. It's hard to fight, but together we can.

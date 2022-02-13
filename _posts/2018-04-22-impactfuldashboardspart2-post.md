@@ -3,10 +3,8 @@ layout: post
 title: Getting the most out of your dashboards
 description: "Part Two of Creating & Maintaining Impactful Dashboards. The lifetimes of different dashboards and metrucs and how to manage them."
 date: 2018-04-22
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2018']
 ---
 
 ----
@@ -25,7 +23,7 @@ In this section, we are going to cover maintenance of dashboards. Some suggestio
 Many different things involve monitoring from the type we see working with technology, to the good ol' car dash. For the use cases covered in these posts, businesses and systems are monitored. Businesses and systems evolve over time. They need to adapt and grow in order to be successful. The dashboards used to monitor them also need to evolve to stay valid. As the situations and priorities change, we need to adapt our measurements.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-22/lifetimes.png" alt="Lifetimes">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-22/lifetimes.png" alt="Lifetimes">
 </div>
 
 There are numerous situations in which dashboards will need to be edited, created or deleted:
@@ -76,7 +74,7 @@ If you are showing boards at a "project" or "feature" level on your visible scre
 ### Layers
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-22/layers.png" alt="Layers">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-22/layers.png" alt="Layers">
 </div>
 
 The different types of dashboard correspond to different layers in a system. As was just covered, the layer a dashboard may cover can affect peoples exposure to and use of it. Not all layers of dashboard will be visible to the same person / group of people and not all would be displayed at once.

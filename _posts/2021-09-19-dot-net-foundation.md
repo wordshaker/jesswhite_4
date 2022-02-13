@@ -3,11 +3,8 @@ layout: post
 title: Taking part in the .NET Foundation
 description: "Being part of a committee and why I didn't submit for the board"
 date: 2021-09-19
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-09-20/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2021']
 ---
 
 ----

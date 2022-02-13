@@ -3,11 +3,8 @@ layout: post
 title: Pull Down The Ivory Towers
 description: "Knowledge is power. Share it."
 date: 2021-05-20
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-09-20/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2021']
 ---
 
 ----

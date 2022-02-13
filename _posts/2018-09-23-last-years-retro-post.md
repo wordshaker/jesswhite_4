@@ -3,10 +3,8 @@ layout: post
 title: Three Is The Magic Number
 description: "A reflection on 3 years of working in tech. What I've done and what I've learnt from it."
 date: 2018-09-23
-cover: "/assets/blog_header.jpg"
-categories: [personal]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2018']
 ---
 
 ----

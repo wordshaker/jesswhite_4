@@ -3,11 +3,8 @@ layout: post
 title: Maintaining Repositories - A Hacktober Story
 description: "What I've learnt about and will consider for future repository maintenance based on my experience of being a maintainer of repositories taking part in Hacktoberfest."
 date: 2020-11-09
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-11-19/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2020']
 ---
 
 ----
@@ -148,7 +145,7 @@ A lot of the items mentioned in this section are listed in the Community Profile
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2020-11-19/community.png" alt="Screen shot of the GitHub Community Profile page.">
+<img src="{{site.baseurl}}/assets/img/posts/2020/11-19/community.png" alt="Screen shot of the GitHub Community Profile page.">
 </div>
 <br/>
 
