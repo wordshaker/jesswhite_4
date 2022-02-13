@@ -1,26 +1,29 @@
 {
-  "name": "type-on-strap-helper",
+  "name": "jesswhite_4",
   "version": "1.0.0",
-  "description": "Gulp file to manage the Type on Strap jekyll theme",
+  "description": "![JessWhite Deploy](https://github.com/wordshaker/jesswhite_4/workflows/JessWhite%20Deploy/badge.svg?branch=main)",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
     "update": "ncu dev -u",
     "fix": "npm audit fix"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sylhare/Type-on-Strap.git"
+    "url": "git+https://github.com/wordshaker/jesswhite_4.git"
   },
   "keywords": [
     "jekyll"
   ],
-  "author": "sylhare",
+  "author": "wordshaker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sylhare/Type-on-Strap/issues"
+    "url": "https://github.com/wordshaker/jesswhite_4/issues"
   },
-  "homepage": "https://github.com/sylhare/Type-on-Strap#readme",
+  "homepage": "https://github.com/wordshaker/jesswhite_4#readme",
+  "dependencies": {
+    "fuzzysearch": "^1.0.3",
+    "simple-jekyll-search": "^1.10.0"
+  },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.3.0",
@@ -33,3 +36,4 @@
     "gulp-webp": "^4.0.1"
   }
 }
+
