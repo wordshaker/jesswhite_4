@@ -81,6 +81,10 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - <a href="https://jesswhite.co.uk/2016/11/12/witconf-post.html" rel="noreferrer" target="_blank">WITConf, University of Birmingham</a> - UK - Be A Great Engineer _(2015)_
 
 ### Meetups
+- .NET SouthWest  - UK - Learning Leadership _(2021)_
+- Notts TechFast - UK - A .NET Christmas Carol _(2020)_
+- Notts TechFast - UK - Speaking In A Virtual World _(2020)_
+- .NET Oxford - UK - Systems Are Like A Jigsaw Puzzle _(2020)_
 - School Of Code - UK - Tripping Through Technology _(2020)_
 - Notts Dev Workshop - UK - How to Talk Really, Really Good _(2020)_
 - Tech Fast - UK - How to Talk Really, Really Good _(2020)_

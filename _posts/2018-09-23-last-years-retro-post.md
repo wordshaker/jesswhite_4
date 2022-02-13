@@ -91,6 +91,6 @@ Well, happy third tech birthday to me. Does this mean I'm a real grown-up develo
 
 J x
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

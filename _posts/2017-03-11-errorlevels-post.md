@@ -91,8 +91,8 @@ As mentioned throughout, how to use logging levels is not something that is comp
 2. [http://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels](StackOverflow - Logging Levels)
 3. [http://stackoverflow.com/questions/7839565/logging-levels-logback-rule-of-thumb-to-assign-log-levels](StackOverflow - Logging Levels 2)
 
+---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

@@ -123,7 +123,8 @@ I have made some of my closest friends through the events and community in Notti
 
 Please enjoy all the things that are "up in Notts" - and let me know about the things you find!
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

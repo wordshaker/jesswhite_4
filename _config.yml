@@ -6,8 +6,8 @@ url: "https://jesswhite.co.uk/"
 title: Jessica White
 subtitle: Technologist | Speaker | Event Organiser
 description: "Jessica White's personal blog"      # used by search engines
-avatar: assets/img/logo.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar: assets/img/logo.png                       # Empty for no avatar in navbar
+favicon: assets/img/favicon/favicon.ico               # Icon displayed in the tab
 
 # Header and footer text
 header_text: Jessica White  # Change Blog header text

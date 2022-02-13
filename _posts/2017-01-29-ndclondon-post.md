@@ -77,7 +77,8 @@ Along with learning about some great technologies and re-igniting my passion or 
 
 NDC is good for you. It's not great for your waistline.
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

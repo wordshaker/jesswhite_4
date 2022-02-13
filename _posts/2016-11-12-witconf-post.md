@@ -132,8 +132,8 @@ Just because people think they know what's best for you, doesn't mean they are r
 
 > You are a valuable asset. A great engineer. Make sure the world knows it.
 
+---
 
-<br/>
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

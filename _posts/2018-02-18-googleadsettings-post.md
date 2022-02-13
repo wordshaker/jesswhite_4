@@ -58,7 +58,8 @@ Happy Googling.
 
 - <a href="https://support.google.com/ads/answer/2662922?hl=en-GB" rel="noreferrer" target="_blank">Opt out of seeing personalised ads</a>
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>
