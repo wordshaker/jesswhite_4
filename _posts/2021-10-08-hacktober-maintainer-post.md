@@ -3,11 +3,8 @@ layout: post
 title: Maintaining Repositories During Hacktober
 description: "A guide to maintaining repositories during Hacktoberfest"
 date: 2021-10-08
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-11-19/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2021']
 ---
 
 ----
@@ -65,7 +62,7 @@ On the main page of your repository add *hacktoberfest* as a topic tag. See the 
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-08/topic.png" alt="Screen shot of the GitHub Topic section.">
+<img src="{{site.baseurl}}/assets/img/posts/2021/10-08/topic.png" alt="Screen shot of the GitHub Topic section.">
 </div>
 <br/>
 
@@ -75,7 +72,7 @@ Add a *hacktoberfest-accepted* label which can be applied to approved issues or 
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-08/label.png" alt="Screen shot of the hacktoberfest-accepted label in GitHub.">
+<img src="{{site.baseurl}}/assets/img/posts/2021/10-08/label.png" alt="Screen shot of the hacktoberfest-accepted label in GitHub.">
 </div>
 <br/>
 
@@ -85,7 +82,7 @@ To ensure spam pull requests aren't counted as a Hacktoberfest contribution just
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-08/spam.png" alt="Screen shot of the spam label in GitHub.">
+<img src="{{site.baseurl}}/assets/img/posts/2021/10-08/spam.png" alt="Screen shot of the spam label in GitHub.">
 </div>
 <br/>
 
@@ -95,7 +92,7 @@ A lot of the items mentioned in this section are listed in the Community Profile
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2021-10-08/community.png" alt="Screen shot of the GitHub Community Profile page.">
+<img src="{{site.baseurl}}/assets/img/posts/2021/10-08/community.png" alt="Screen shot of the GitHub Community Profile page.">
 </div>
 <br/>
 

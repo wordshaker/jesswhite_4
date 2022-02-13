@@ -3,10 +3,8 @@ layout: post
 title: "My First NDC"
 description: "The experience of volunteering at NDC London 2017"
 date: 2017-01-29
-cover: "/assets/blog_header.jpg"
-categories: [personal, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>

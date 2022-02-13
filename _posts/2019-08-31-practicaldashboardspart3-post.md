@@ -3,10 +3,8 @@ layout: post
 title: Metric Baselines For APIs
 description: "Part Three of A Practical Guide To Dashboarding. Standardised baselines for measuring API behaviour and how they can be used."
 date: 2019-08-31
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2019']
 ---
 
 ----
@@ -58,7 +56,7 @@ This refers to the requests made to an API per second. The reason to measure thi
 If the traffic is at expected levels, and there are problems elsewhere, it may not be dealing with the load that's causing your problems.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-08-31/traffic.png" alt="Errors">
+<img src="{{site.baseurl}}/assets/img/posts/2019/08-31/traffic.png" alt="Errors">
 </div>
 
 ---
@@ -77,7 +75,7 @@ This means in order to determine what an erroring call, conversations will be ne
 The reason to measure the difference between success and failing calls is because this ratio can be an expected difference, or can tell you more about why you are seeing differences in latency.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-08-31/error.png" alt="Errors">
+<img src="{{site.baseurl}}/assets/img/posts/2019/08-31/error.png" alt="Errors">
 </div>
 
 ---

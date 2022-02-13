@@ -3,10 +3,8 @@ layout: post
 title: "NodeConf London"
 description: "NodeConf London 2016"
 date: 2016-05-11
-cover: "/assets/blog_header.jpg"
-categories: [personal, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2016']
 ---
 
 <br/>

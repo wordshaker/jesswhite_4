@@ -3,10 +3,8 @@ layout: post
 title: "Error! Error!"
 description: "Getting your error levels right - An assessment of error levels and what they mean."
 date: 2017-03-11
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>

@@ -3,10 +3,8 @@ layout: post
 title: What's up in Nott's?
 description: "The many offerings of the Nottingham Tech Scene and why you should take part in them."
 date: 2018-04-05
-cover: "/assets/blog_header.jpg"
-categories: [personal, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2018']
 ---
 
 
@@ -39,7 +37,7 @@ Anyone can attend meetups. Some allow under-18s, some don't (please ask the orga
 There are currently over 30 tech meetups arranged in Nottingham. A list of the event and times can be found at <a href="https://nottingham.digital/" rel="noreferrer" target="_blank">Nottingham.Digital</a>.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-05/meetup.jpg" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-05/meetup.jpg" alt="Tools">
 </div>
 
 ### Hackathons
@@ -57,7 +55,7 @@ There are a few hackathons around the midlands - including Hack Manchester and H
 I could write an entire post on all the great things about hackathons and the benefits of them. One day I might, but you should definitely try to experience one for yourself. You don't need to be a developer! Just arrive wanting to have fun!
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-05/hackathon.jpg" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-05/hackathon.jpg" alt="Tools">
 </div>
 
 ### Hackspaces
@@ -100,7 +98,7 @@ There are many places in Nottingham offering workshops and experiences to take p
 - <strong><a href="http://www.nottinghamcontemporary.org/" rel="noreferrer" target="_blank">Contemporary</a></strong> might seem a strange choice for a semi-tech focused list. A lot of great events and workshops are hosted here. There are DJ sets for gaming music, workshops to learn how to code or design... in fact it is so varied it is really hard to make a list. Check it out and find out what interesting things you can find.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-05/laugh.jpg" alt="Laugh">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-05/laugh.jpg" alt="Laugh">
 </div>
 
 
