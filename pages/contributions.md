@@ -9,12 +9,21 @@ tags: [Page]
 - [Contents](#contents)
 - [Awards and Certificates](#awards-and-certificates)
 - [Founder](#founder)
-- [Certifications](#certifications)
 - [Event Organisation](#event-organisation)
+  - [Meetup Organisation](#meetup-organisation)
+  - [Conference Organisation](#conference-organisation)
+  - [Agenda And Organisation Committees](#agenda-and-organisation-committees)
+  - [Individual Event Organisation](#individual-event-organisation)
 - [Event Sponsorship](#event-sponsorship)
 - [Speaking Engagements](#speaking-engagements)
+  - [Conferences](#conferences)
+  - [Meetups](#meetups)
+  - [Panel Discussions](#panel-discussions)
 - [Outreach](#outreach)
 - [Volunteering](#volunteering)
+  - [Master of Ceremonies](#master-of-ceremonies)
+  - [Organisations](#organisations)
+  - [Conference Crew](#conference-crew)
 - [Podcast](#podcast)
 - [Publications](#publications)
 
@@ -148,6 +157,7 @@ This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb O
 ---
 
 ## Podcast
+- <a href="https://unhandledexceptionpodcast.com/posts/0006-ddd/" rel="noreferrer" target="_blank">Unhandled Exception Episode 6: The DDD Conferences</a> _(2020)_
 - <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2020)_
 - <a href="https://www.dotnetrocks.com/?show=1526" rel="noreferrer" target="_blank">.Net Rocks</a> _(2018)_
 - <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2018)_
