@@ -69,10 +69,19 @@ Though again structured, the content of the sessions is less led or spoon fed. T
 Again, trust is important. The coach trusts the person they are coaching to be honest with themselves and the coach. They trust them to act on what is revealed in their sessions. The person being coached trusts that the coach is giving them the appropriate prompts to help them identify what the next best steps are. They trust the coach will speak up when they think there are other options or the approach being taken isn't the most appropriate course of action, while not engaging their own motivations or bias.
 
 ### Sponsorship
+The support with the lowest commitment and complexity is sponsorship. This is where you enable opportunities for other people. If they want to be a speaker, and you have a good reputation with user groups or conferences, sponsor them to speak in your place or alongside you. If someone at work whats the opportunity to learn more about a specialism such as testing, suggest to a team partaking in a project around that area to involve them in the work. If you are an architect and know a developer who wants to explore your career route a bit more, sponsor them by asking the company if they can shadow you or take on some architectural responsibilities with your oversight.
 
+There are numerous ways you can open doors and make opportunities available that wouldn't otherwise be there as a sponsor.
+
+### Things to be mindful of
+There is a common danger to all these roles. When acting in the capacity of a mentor, coach or sponsor you will get close to the person you are working with. Because they will be looking to you for guidance, this can sometimes blur from the professional/career focused guidance into more personal realms.
+
+The thing to keep in mind is that you are not a qualified therapist, and where people need professional help it can be damaging to attempt to take on this role without the appropriate training. If a person is showing danger signs of anxiety, depression or other mental health issues, please refer them to spaces where they can get the appropriate support.
+
+The exception to this rule (at least the way I've been conducting myself) is where a person is showing signs of burn out. In those cases, I would normally try to help the person identify that they are burning out, how much they are currently taking on and to encourage them to either lessen their load or take time off completely to recover. We can all be at risk at pushing ourselves too hard; no matter the reasons for doing so. Burnout is prevalent in our industry and something we can help each other identify and acknowledge.
 
 ## Leading technical decisions
-
+As we've already explored, leadership is a soft-skill that can be applied and demonstrated in a multitude of capacities. In this section, we shall go through leadership in terms of training people and coordinating technical decisions. Though again this can be applied at any stage of your career, this is more in mind of Senior Developers, Technical Architects, Leads and similar.
 
 ## People management
 
