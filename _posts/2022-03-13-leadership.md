@@ -52,11 +52,17 @@ Typically these behaviours wouldn't be considered "leadership" per-se, but in my
 
 ## Mentoring, Coaching and Sponsorship
 
-When being a Mentor, Coach or Sponsor, you may be asked to take up this role in a personal or a technical capacity, or a combination of both. There are a lot of valueable resources and training material out there to help you when you take up this responsibility, but note, you can do theses roles whenever you feel comfortable to. There is no minimum requirement or expectation to make you a capable and effective mentor, coach or sponsor.
+When being a Mentor, Coach or Sponsor, you may be asked to take up this role in a personal or a technical capacity, or a combination of both. There are a lot of valuable resources and training material out there to help you when you take up this responsibility, but note, you can do theses roles whenever you feel comfortable to. There is no minimum requirement or expectation to make you a capable and effective mentor, coach or sponsor.
 
 ### Mentoring
+For mentoring there tends to be a dynamic between the mentor and mentee, where the mentor had more experience in an area a mentee wants to explore. They are to some degree more senior in an area or topic and the mentee wishes to learn from them.
+
+Mentoring often requires quite a high degree of structure. Whether it's guiding the mentee with suggestions, developing a plan for the mentee to follow; there will be an element of goal setting to give that person a path to follow. There are a number of useful patterns you can follow as a mentor which I will discuss in a later blog post. 
+
+Because a mentor is expected to give guidance to a mentee about their options and pathways, there is a strong level of trust in this dynamic. Trust that the mentor is making their best efforts to give advice that is suitable for the person they are responsible for. Trust that the mentee will make efforts to take on advice, try to meet their goals, and be open and honest if the route isn't quite right for them or the structure of the relationship isn't suiting them or their learning style as well 
 
 ### Coaching
+
 
 ### Sponsorship
 
