@@ -138,7 +138,7 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 ## Volunteering
 
 ### Master of Ceremonies
-
+ 
 - **<a href="https://devaroundthesun.org/" rel="noreferrer" target="_blank">Dev Around the Sun</a>** _(2020)_
 
 Co-presented between talks with <a href="https://twitter.com/jonathanfmills" rel="noreferrer" target="_blank">Jonathan Mills</a> for 3 hours of Dev Around The Sun. this was a conference-come-telethon to raise money for Direct Reliefs Corona Virus Fund.
