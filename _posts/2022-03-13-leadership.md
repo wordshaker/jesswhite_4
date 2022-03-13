@@ -62,7 +62,11 @@ Mentoring often requires quite a high degree of structure. Whether it's guiding 
 Because a mentor is expected to give guidance to a mentee about their options and pathways, there is a strong level of trust in this dynamic. Trust that the mentor is making their best efforts to give advice that is suitable for the person they are responsible for. Trust that the mentee will make efforts to take on advice, try to meet their goals, and be open and honest if the route isn't quite right for them or the structure of the relationship isn't suiting them or their learning style as well 
 
 ### Coaching
+Coaching is slightly different from mentorship, and some may see it as an evolution from mentorship. First of all, the dynamic of the relationship changes. A coach doesn't necessarily need to be senior to or more experienced than the person being coached. In fact, the person being coached can be at the same level or over take the person who is coaching them.
 
+Though again structured, the content of the sessions is less led or spoon fed. The coach asks questions, and prompts to help the person they are coaching to identify their own next steps, places to grow, or next areas of focus. The person being coached may still choose to have goals and be held accountable to them by the coach, but ultimately it is all driven from the person being coached.
+
+Again, trust is important. The coach trusts the person they are coaching to be honest with themselves and the coach. They trust them to act on what is revealed in their sessions. The person being coached trusts that the coach is giving them the appropriate prompts to help them identify what the next best steps are. They trust the coach will speak up when they think there are other options or the approach being taken isn't the most appropriate course of action, while not engaging their own motivations or bias.
 
 ### Sponsorship
 
