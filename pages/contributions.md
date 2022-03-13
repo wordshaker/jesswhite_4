@@ -144,7 +144,7 @@ I have ran stalls at a couple of careers fairs promoting the local tech communit
 Co-presented between talks with <a href="https://twitter.com/jonathanfmills" rel="noreferrer" target="_blank">Jonathan Mills</a> for 3 hours of Dev Around The Sun. this was a conference-come-telethon to raise money for Direct Reliefs Corona Virus Fund.
 
 ### Organisations
-- **<a href="https://dotnetfoundation.org/blog/2020/06/15/net-foundation-election-2020-nominations-open" rel="noreferrer" target="_blank">.NET Nomination Committee</a>** _(2020)_
+- **<a href="https://dotnetfoundation.org/blog/2020/06/15/net-foundation-election-2020-nominations-open" rel="noreferrer" target="_blank">.NET Nomination Committee</a>** _(2020 and 2021)_
 
 This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb Othman. This committee was put together to encourage people to submit to the .NET Foundation board elections, with some focus on increasing all forms of diversity. As a group it was also our responsibility to narrow down the submissions down to 18 which the community could vote on. This gives a choice of around 3 people per board seat.
 
@@ -158,6 +158,7 @@ This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb O
 ---
 
 ## Podcast
+- <a href="https://unhandledexceptionpodcast.com/posts/0032-jesswhite/" rel="noreferrer" target="_blank">Unhandled Exception Episode 32: Technical Leadership</a> _(2022)_
 - <a href="https://unhandledexceptionpodcast.com/posts/0006-ddd/" rel="noreferrer" target="_blank">Unhandled Exception Episode 6: The DDD Conferences</a> _(2020)_
 - <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2020)_
 - <a href="https://www.dotnetrocks.com/?show=1526" rel="noreferrer" target="_blank">.Net Rocks</a> _(2018)_
