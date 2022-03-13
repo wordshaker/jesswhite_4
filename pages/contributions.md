@@ -108,6 +108,7 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - Hull Devs - UK - Who needs Dashboards? _(2018)_
 
 ### Panel Discussions
+- <a href="https://youtu.be/75iOn2PxMqc" rel="noreferrer" target="_blank">Microsoft UK Tech Community Day - Code of Conducts (2:17 on the video)</a> _(2020)_
 - <a href="https://dev.to/azure/the-cloud-skills-show-languages-frameworks-1adi#:~:text=The%20Cloud%20Skills%20Show%20is,start%20a%20career%20in%20tech)." rel="noreferrer" target="_blank">The Cloud Skills Show - Series 1 Episode 2 - Languages & Frameworks</a> _(2020)_
 - <a href="https://dev.to/azure/the-cloud-skills-show-series-2-episode-1-hacktoberfest-16np" rel="noreferrer" target="_blank">The Cloud Skills Show - Series 2 Episode 2 - Hacktoberfest!</a> _(2020)_
 - <a href="https://dev.to/azure/the-cloud-skills-show-net-31n3" rel="noreferrer" target="_blank">The Cloud Skills Show - Series 2 Episode 2 -.NET</a> _(2020)_
