@@ -109,7 +109,7 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 
 ### Panel Discussions
 - <a href="https://dev.to/azure/the-cloud-skills-show-languages-frameworks-1adi#:~:text=The%20Cloud%20Skills%20Show%20is,start%20a%20career%20in%20tech)." rel="noreferrer" target="_blank">The Cloud Skills Show - Series 1 Episode 2 - Languages & Frameworks</a> _(2020)_
-- <a href="https://dev.to/azure/the-cloud-skills-show-series-2-episode-1-hacktoberfest-16np" rel="noreferrer" target="_blank">The Cloud Skills Show - Series 2 Episode 2 - Hacktoberfest!</a> _(2020)_
+- <a href="https://dev.to/azure/the-cloud-skills-show-series-2-episode-1-Hacktoberfest-16np" rel="noreferrer" target="_blank">The Cloud Skills Show - Series 2 Episode 2 - Hacktoberfest!</a> _(2020)_
 - <a href="https://dev.to/azure/the-cloud-skills-show-net-31n3" rel="noreferrer" target="_blank">The Cloud Skills Show - Series 2 Episode 2 -.NET</a> _(2020)_
 - <a href="https://skillsmatter.com/skillscasts/14078-have-i-got-dot-net-for-you" rel="noreferrer" target="_blank">ProgNET</a> - UK - Have I Got .NET For You (comedy)  _(2019)_
 - Trent Uni - UK - Women In STEM for International Women's Day  _(2018)_

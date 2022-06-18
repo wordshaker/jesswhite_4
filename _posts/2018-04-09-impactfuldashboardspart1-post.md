@@ -77,13 +77,13 @@ There are many cases where execution dashboards differ however. Here are just a 
 
 This might seem like an obvious question, but the answers may not be what you expect. Rather than "you can reach the webpage", success might be that the feature can accept a certain load or have a certain response time. It might be a security concern - the app or feature might want to be only accessible from certain places. **Find out what success should look like**. This will not only help you know the requirements for what your monitoring, but may even provide some test cases or requirements you didn't know about.
 
-* **What are the KPI’s / SLA's?**
+* **What are the KPI’s / SLAs?**
 
 Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPI's that need to be considered at this level.
 
-SLA's are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" rel="noreferrer" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
+SLAs are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" rel="noreferrer" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLAs is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
 
-As part of this you may want to find out who should be informed if these KPI's aren't met or SLA's are broken. Also, what action should be taken, if any. What is the impact?
+As part of this you may want to find out who should be informed if these KPI's aren't met or SLAs are broken. Also, what action should be taken, if any. What is the impact?
 
 * **What are the base metrics we would normally use for this?**
 

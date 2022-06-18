@@ -23,7 +23,7 @@ Determining these measures can be more difficult than first anticipated and they
 
 > _"These tools aren’t just useful abstractions. Without them, you cannot know if your system is reliable, available or even useful. If they don’t tie explicitly back to your business objectives, then you don’t have data on whether the choices you make are helping or hurting your business." - Google SRE Book_
 
-In this post, we will go through how these measurements are linked, what they are and how they can be defined and measured. Throughout this post I refer to "service". It is most likely your SLO's and SLA's will be set around domain boundaries, but it depends on how your system is architected and organised. For the purpose of this high level exploration, service/ system can refer to a technical component, domain or product, depending on your system.
+In this post, we will go through how these measurements are linked, what they are and how they can be defined and measured. Throughout this post I refer to "service". It is most likely your SLOs and SLAs will be set around domain boundaries, but it depends on how your system is architected and organised. For the purpose of this high level exploration, service/ system can refer to a technical component, domain or product, depending on your system.
 
 For SLOs and SLAs you will most likely be discussing them with product / the wider business at a feature, product, project or domain level.
 
@@ -41,7 +41,7 @@ These help when agreeing SLAs. By knowing what the expected behaviour of a servi
 
 Whether SLAs and SLOs are met and achieved are measured using SLIs.
 
-Another way to look at this is SLO's set the expectations, SLAs determine consequences to some of those expectations not being met and SLIs are how we measure if the expectations are being met.
+Another way to look at this is SLOs set the expectations, SLAs determine consequences to some of those expectations not being met and SLIs are how we measure if the expectations are being met.
 
 <br/>
 
@@ -55,11 +55,11 @@ Now we have established the basics of what each are and how they are connected; 
 
 ## Service Level Objective (SLO)
 
-The top tier of these measurements and contracts is the Service Level Objective (SLO). An SLO sets the expectation for how available a service is and how it should perform. By no means are SLO's purely technical measurements. They require the input of a business and should be linked to both product and overall business expectation.
+The top tier of these measurements and contracts is the Service Level Objective (SLO). An SLO sets the expectation for how available a service is and how it should perform. By no means are SLOs purely technical measurements. They require the input of a business and should be linked to both product and overall business expectation.
 
 SLOs are measurable, numerical values of systems availability/reliability. They go hand in hand with <a href="https://landing.google.com/sre/sre-book/chapters/embracing-risk/#xref_risk-management_unreliability-budgets" rel="noreferrer" target="_blank">error budgets, which are targets for the maximum amount of time a service is unavailable/unreliable in a quarter</a>.
 
-When it comes to discussing work, a team and product can refer back to SLO's to help determine it's value and purpose. This is assuming it is a well defined "good" measure which doesn't increase work for a team because it's too stretched.
+When it comes to discussing work, a team and product can refer back to SLOs to help determine it's value and purpose. This is assuming it is a well defined "good" measure which doesn't increase work for a team because it's too stretched.
 
 ### Setting SLOs
 
@@ -69,7 +69,7 @@ It is advised that objectives are limited. This helps determine what behaviour i
 
 Most importantly, the objectives need to demonstrate what the reasonable expectations of a service is. They need to be achievable and focused.
 
-### Determining SLO's
+### Determining SLOs
 
 There are a number of factors when defining and determining SLOs. As mentioned SLOs have to tie into business and product need, as well as the technical considerations such as feasibility of measurement and cost. 
 
@@ -91,7 +91,7 @@ As mentioned, it is also possible to set objectives which are too low. When a se
 
 One of the reasons why perfection is unattainable is that is it is expensive. Operation costs increase the more reliable and available you want your service to be. As such, it is suggested in the Google SRE book that the lowest level of reliability that can be achieved while still making dependants, clients etc happy with the level of service, should be stated as an SLO.
 
-There may also be costs outside of operational costs that would need to be considered when trying to meet certain objectives. If to achieve an SLO the service needs rewriting, a system rearchitecting or an unachievable budget requirement needs satisfying (i.e. new tooling etc) - it's not a suitable SLO.
+There may also be costs outside of operational costs that would need to be considered when trying to meet certain objectives. If to achieve an SLO the service needs rewriting, a system re-architecting or an unachievable budget requirement needs satisfying (i.e. new tooling etc) - it's not a suitable SLO.
 
 <strong>Flexibilities of measures</strong>
 
@@ -109,7 +109,7 @@ This budget accounts for down time due to deployments, production issues and une
 
 These are contracts (which can be explicit or implicit) for what can be expected from a service in terms of it's reliability, performance and behaviour. These are tied into SLOs, as the objectives outline the expected service levels agreed by the business, whereas SLAs are the contractual agreements that these service levels will be met.
 
-SLA's normally have some form of consequence when they are not met. This can be financial remediation, but can come in other forms as well. These contracts can also be with multiple forms of third parties. It can be with external clients, internal teams - anyone using your service/product.
+SLAs normally have some form of consequence when they are not met. This can be financial remediation, but can come in other forms as well. These contracts can also be with multiple forms of third parties. It can be with external clients, internal teams - anyone using your service/product.
 
 They are a good way to have clear and strong relationship with your customers, consumers and clients using your service. This is because they increase the transparency around expected interactions and levels of service agreed by both parties.
 

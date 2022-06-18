@@ -106,7 +106,7 @@ This will happen, there is no real way of avoiding it. When you start to see som
 </div>
 Right now the world is a bit scary. Knowing if you are going down the right path is not something that necessarily comes easily.
 
-You know what? It's not the end of the world. You might be good at one part of development and suck at another. I am working to be a great back-end engineer. Part of this is because I SUCK at front end engineering. You might not enjoy a certain challenge within engineering yet flourish in another.
+You know what? It's not the end of the world. You might be good at one part of development and suck at another. I am working to be a great backend engineer. Part of this is because I SUCK at front end engineering. You might not enjoy a certain challenge within engineering yet flourish in another.
 
 If after a few years, you aren't enjoying being an engineer, there are many roles you can move into that don't involve code and are still very rewarding. Don't sink under the pressure. If you knew everything about your future, life would be dull. You will be great. 
 

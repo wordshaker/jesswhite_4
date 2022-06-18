@@ -35,7 +35,7 @@ The [NodeConf London](http://london.nodeconf.com/) included the following talks:
 
 All of the talks should be watched and are available on [Youtube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2). Below is a list of a few of my favourites:
 ##### [Nikhila Ravi](href="https://www.youtube.com/watch?v=SwJUH3Le91s) - Server-less architecture in the wild:
-An insightful and intelligent talk going through using a "serveless" architecture. This talk includes demonstrating the creation of a "serverless jukebox" including a live demonstration of the work available on Github.
+An insightful and intelligent talk going through using a "serverless" architecture. This talk includes demonstrating the creation of a "serverless jukebox" including a live demonstration of the work available on GitHub.
 
 ##### [Christian Heilmann](https://www.youtube.com/watch?v=jHTSCXQ3-hU) - Making ES6 happen with ChakraCore and Node:
 This talk is not only enlightening but hilarious. Christian Heilman is a highly entertaining speaker who is clearly knowledgeable and passionate about what he is talking about. Even as a JS newbie I could follow what he was talking about and instantly started looking into ChakraCore as soon as I got home.
