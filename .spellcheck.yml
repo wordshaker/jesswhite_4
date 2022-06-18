@@ -4,7 +4,7 @@ matrix:
   - '**/*.md'
   default_encoding: utf-8
   aspell:
-    lang: en
+    lang: en_GB
   dictionary:
     wordlists:
     - wordlist.txt
