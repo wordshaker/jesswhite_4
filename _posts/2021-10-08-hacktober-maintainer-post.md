@@ -40,6 +40,9 @@ tags: ['2021']
 
 <br/>
 
+
+fkae beggingging bananana thirst thrist
+
 It's that most wonderful time of the year again! <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a> takes place for the whole of October with the aim of encouraging people to contribute to Open Source. If you have some open source repositories you'd like to encourage contributions to, there are a few things you can do to make the experience better for you, and the people interacting with your repository.
 
 This post is a guide to some of the things I've learnt while looking after open repositories.
