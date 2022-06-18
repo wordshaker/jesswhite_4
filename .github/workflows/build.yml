@@ -10,7 +10,7 @@ jobs:
         ruby-version: [ '2.6', '2.7' ]
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
@@ -19,7 +19,6 @@ jobs:
 
     - name: GitHub Spellcheck
       uses: igsekor/pyspelling-any@v1.0.4
-
 
     - name: Build
       run: |
