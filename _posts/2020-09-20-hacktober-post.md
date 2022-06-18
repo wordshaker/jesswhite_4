@@ -26,9 +26,9 @@ To sign up, <a href="https://Hacktoberfest.digitalocean.com/" rel="noreferrer" t
 
 <br/>
 
-## Which PR's count for Hacktoberfest?
+## Which PRs count for Hacktoberfest?
 
-Hacktober is <a href="https://Hacktoberfest.digitalocean.com/Hacktoberfest-update" rel="noreferrer" target="_blank">now an opt-in process for maintainers</a> as there have been issues with spam PRs. Spam PR's are where people have raised pull-requests for changes that have no beneficial impact to the repository.
+Hacktober is <a href="https://Hacktoberfest.digitalocean.com/Hacktoberfest-update" rel="noreferrer" target="_blank">now an opt-in process for maintainers</a> as there have been issues with spam PRs. Spam PRs are where people have raised pull-requests for changes that have no beneficial impact to the repository.
 
 What this means is that if an open-source repository is happy to have contributions from those taking part in Hacktoberfest, they need to label their topics with a `Hacktoberfest` label
 
@@ -87,7 +87,7 @@ Hopefully this code of conduct will outline what you can do if you experience an
 
 The code of conduct may be in a markdown file, often named `CODE_OF_CONDUCT.md` or may be attached in the README of the project.
 
-### Check current issues and PR's for tone of voice. 
+### Check current issues and PRs for tone of voice. 
 
 An option is to look through current issues and pull requests that have been picked up to see what the maintainers tone of voice is and how responsive they are. 
 

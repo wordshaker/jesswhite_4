@@ -27,7 +27,7 @@ tags: ['2021']
 - [What I've learnt as a maintainer](#what-ive-learnt-as-a-maintainer)
   - [Use the right licence](#use-the-right-licence)
   - [Have a Code Of Conduct in place](#have-a-code-of-conduct-in-place)
-  - [Have a cracking Readme](#have-a-cracking-README)
+  - [Have a cracking README](#have-a-cracking-README)
   - [Contribution Guidelines](#contribution-guidelines)
   - [Avoiding PR clashes](#avoiding-pr-clashes)
   - [Advantages to the above documentation](#advantages-to-the-above-documentation)
@@ -156,9 +156,9 @@ The trickiest bit in my point of view is having a plan in place for if any code 
 
 <br/>
 
-### Have a cracking Readme
+### Have a cracking README
 
-The Readme is the first thing I look at when going to a repository. As such it is a fantastic place, in my view, to link to any resources and give guidance on how to work with the repository. Some of the things I found useful to have in the README include:
+The README is the first thing I look at when going to a repository. As such it is a fantastic place, in my view, to link to any resources and give guidance on how to work with the repository. Some of the things I found useful to have in the README include:
 
 * #### Build badge
   In the README we have a build badge for our main branch. This easily shows if the main branch is in a good state.

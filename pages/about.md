@@ -13,7 +13,7 @@ Jessica is a technical architect, international speaker & avid learner. They wer
 
 They are a Director and Co-Founder of <a href="http://dddeastmidlands.com" target="_blank">DDD East Midlands</a>, a technology conference which first took place in October 2019. They also co-organise <a href="https://www.meetup.com/dotnetnotts/" target="_blank">.NET Notts Meetup</a>, which is a monthly event centered on talks about .NET.
 
-They also manage the <a href="https://github.com/wordshaker" target="_blank">public repos</a> for both event websites and their blogs, including reviewing code and setting up issues for events like <a href="https://Hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> which encourages people contributing to open source.
+They also manage the <a href="https://github.com/wordshaker" target="_blank">public repos</a> for both event websites and their blogs, including reviewing code and setting up issues for events like <a href="https://Hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a> which encourages people contributing to open source.
 
 Before switching to technology, they spent a previous life as a neuroscientist. They are easily bribed with coffee & love hearing about other people’s experiences. She really enjoys mentoring and teaching others, especially those who are newer to their tech careers.
 

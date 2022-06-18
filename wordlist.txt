@@ -15,6 +15,7 @@ APIness
 Apis
 APIs
 architected
+architecting
 Ardalis
 Ardunio
 Asshole
@@ -33,6 +34,7 @@ Bourgon
 Bourgon
 Brockley
 Cawthorne
+centered
 Centra
 CFP
 ChakraCore
@@ -47,10 +49,13 @@ codeclub
 CodeFirst
 CODEFIRST
 composability
+Conf
 COVID
+CPUs
 CRE
 Cronofy
 Currie
+curveballs
 Cyndi
 Cynefin
 D'n'D
@@ -77,8 +82,10 @@ don'ts
 Don'ts
 DotNet
 DotYork
+downtimes
 Easey
 eastmidlands
+elses
 Eran
 Erlend
 erroring
@@ -90,6 +97,7 @@ ExCel
 Experian
 FDM
 fecked
+financials
 Firtman
 Flexibilities
 Forkmann
@@ -103,6 +111,7 @@ Gosia
 GovJam
 Grafana
 Greggs
+Gumtree
 hackathon
 Hackathon
 hackathons
@@ -119,6 +128,7 @@ headshots
 Heilman
 Heilmann
 Heilmann
+homebrew
 html
 http
 https
@@ -127,10 +137,12 @@ img
 immunosuppressed
 impactful
 Impactful
+imposter
 Imposter
 Imposter
 incomings
 influencers
+integrations
 interpretable
 IoT
 ITSM
@@ -149,6 +161,7 @@ khellang
 Kibana
 Kjersti
 Klint
+KPI
 KPIs
 Kubernetes
 Lambla
@@ -156,6 +169,7 @@ Lauper
 Lehnardt
 Lerman
 Liam
+licencing
 Licencing
 Lincs
 linter
@@ -177,6 +191,7 @@ Melo
 Melo
 Mentorship
 MERCHANTABILITY
+mergeable
 microlith
 Microlith
 Microliths
@@ -193,7 +208,9 @@ MSc
 NDC
 NDC's
 Nearform
+Nearforms
 NearNow
+neuroscientist
 ngrok
 Nikhila
 Nikhila
@@ -213,6 +230,7 @@ oooo
 OpenSource
 organizations
 OSS
+oSTEM
 Othman
 Paket
 Paulin
@@ -231,6 +249,7 @@ PUBCONF
 PUBCONF
 publically
 queueing
+RabbitMQ
 Rabeb
 RaspberryPi
 Ravi
@@ -272,6 +291,7 @@ Sonos
 SouthWest
 Spors
 Spotify
+SQS
 SRE
 stackoverflow
 Steffen
@@ -290,12 +310,15 @@ th
 tooling's
 Transferrable
 Travelodge
+Trello
 Trenaman
 Uber
 UCP
 UI
 UI
 uk
+un
+Un
 Unhandled
 Unidays
 unrequired
@@ -312,6 +335,7 @@ WeAreTechWomen
 WebEx
 webhook
 webhook
+webpage
 wecandoit
 Whitworth
 Wilcock

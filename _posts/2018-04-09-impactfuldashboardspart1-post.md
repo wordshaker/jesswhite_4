@@ -58,7 +58,7 @@ Management Information (MI) have projects aiding in the success of these overall
 
 * **What are the KPI’s of your project**
  
-KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" rel="noreferrer" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
+KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" rel="noreferrer" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPIs associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
 
 * **How might this initiative fail?**
 
@@ -79,11 +79,11 @@ This might seem like an obvious question, but the answers may not be what you ex
 
 * **What are the KPI’s / SLAs?**
 
-Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPI's that need to be considered at this level.
+Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPIs that need to be considered at this level.
 
 SLAs are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" rel="noreferrer" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLAs is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
 
-As part of this you may want to find out who should be informed if these KPI's aren't met or SLAs are broken. Also, what action should be taken, if any. What is the impact?
+As part of this you may want to find out who should be informed if these KPIs aren't met or SLAs are broken. Also, what action should be taken, if any. What is the impact?
 
 * **What are the base metrics we would normally use for this?**
 
@@ -109,7 +109,7 @@ We all know that ~~annoying~~ adorable phase all kids go through when they are c
 
 - **WHY** do you need this information?
 - **WHO** is it for / needs this information?
-- **WHAT** does it provide? Is it measuring anything that we need to track based on the previous conversations we have with our stakeholders around KPI's? Is it a new concern or requirement?
+- **WHAT** does it provide? Is it measuring anything that we need to track based on the previous conversations we have with our stakeholders around KPIs? Is it a new concern or requirement?
 - **HOW** long is it needed for?
 - **WHY** does it need to live on the dashboard?
 - **COULD** it live somewhere else?
@@ -138,7 +138,7 @@ The importance of communication in the creation of dashboards and visualisations
 
 #### There isn't one perfect tool that is going to solve all your problems
 
-There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example <a href="https://www.datadoghq.com/" rel="noreferrer" target="_blank">Datadog</a>) and those that are used for log analytics (an example is <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html" rel="noreferrer" target="_blank">Kibana</a>). Some tools will specialise in a certain type of monitoring such as <a href="https://www.tableau.com/" rel="noreferrer" target="_blank">Tableau</a> which is aimed at analysing BI data opposed to <a href="https://www.zabbix.com/" rel="noreferrer" target="_blank">Zabbix</a> which is more suited for operational data. There are some that are more cross-functional as well.
+There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example <a href="https://www.datadoghq.com/" rel="noreferrer" target="_blank">DataDog</a>) and those that are used for log analytics (an example is <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html" rel="noreferrer" target="_blank">Kibana</a>). Some tools will specialise in a certain type of monitoring such as <a href="https://www.tableau.com/" rel="noreferrer" target="_blank">Tableau</a> which is aimed at analysing BI data opposed to <a href="https://www.zabbix.com/" rel="noreferrer" target="_blank">Zabbix</a> which is more suited for operational data. There are some that are more cross-functional as well.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/assets/img/posts/2018/04-09/tools.png" alt="Tools">

@@ -122,7 +122,7 @@ This is the same as Googles "Latency" measurement. The time between request and 
 
 #### When the number of successful calls go down or falls to zero while error calls rise
 
-It's clear that there is some issue. For many API's there will be a baseline, especially for outward facing API's. We cannot expect all API's to be perfect, with no erroring calls, but we can know what behaviour we consider "normal" and acceptable by the KPI's and act when our metrics differ.
+It's clear that there is some issue. For many API's there will be a baseline, especially for outward facing API's. We cannot expect all API's to be perfect, with no erroring calls, but we can know what behaviour we consider "normal" and acceptable by the KPIs and act when our metrics differ.
 
 #### The total count of successes and errors also shows us how much traffic is hitting the API.
 

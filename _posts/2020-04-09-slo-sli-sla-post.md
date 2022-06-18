@@ -128,7 +128,7 @@ Once these draft SLAs are written they need to be proposed to the business to be
 For internal SLAs, the expectation of how different services/domains interact can effect a users journey end to end. It can be beneficial to consider overall contracts at a high level in certain circumstances to get an idea of a "worst case" for all SLAs. I.e. what the slowest agreed journey is end-to-end for your consumer/customer given all components and domains involved are meeting their maximum SLA for latency.
 
 All of this process involves the cooperation of multiple departments in your company. For example:
-- Tech will be impacted by what is currently achievable with what they have built and if SLI's are in place to measure the agreed contract is being met.
+- Tech will be impacted by what is currently achievable with what they have built and if SLIs are in place to measure the agreed contract is being met.
 - Product could be impacted by trying to meet consumer/customer/clients needs and discussions around that.
 - Finances and the business as a whole could be impacted by the consequences of a SLA not being met.
 
@@ -152,9 +152,9 @@ It may be that outages from external dependencies can mean that SLAs aren't met.
 
 ## Service-Level Indicators (SLI)
 
-Lastly, we come to SLIs. These are the measures of level of service, which help us determine if we are meeting the SLOs and SLAs. SLI's can include measurements of availability or downtime as well as metrics about how your service is performing.
+Lastly, we come to SLIs. These are the measures of level of service, which help us determine if we are meeting the SLOs and SLAs. SLIs can include measurements of availability or downtime as well as metrics about how your service is performing.
 
-If you have some baselines of metrics currently in place in your system, some of these SLI's may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="https://jesswhite.co.uk/2019/08/31/practicaldashboardspart3-post.html" rel="noreferrer" target="_blank">Metric Baselines For APIs</a> and <a href="https://jesswhite.co.uk/2019/06/15/practicaldashboardspart2-post.html" rel="noreferrer" target="_blank">Metrics Baselines for Services
+If you have some baselines of metrics currently in place in your system, some of these SLIs may already be covered. Common measurements often include errors, duration of calls and rate of throughput. Some of these measures are covered in my previous posts <a href="https://jesswhite.co.uk/2019/08/31/practicaldashboardspart3-post.html" rel="noreferrer" target="_blank">Metric Baselines For APIs</a> and <a href="https://jesswhite.co.uk/2019/06/15/practicaldashboardspart2-post.html" rel="noreferrer" target="_blank">Metrics Baselines for Services
 </a>.
 
 In order to measure SLAs and SLOs, SLIs need to be put into place. Objectives and agreements are often tracked by percentage over time, and as such SLIs are often aggregated and measured in the same way to see if expectations are met.
