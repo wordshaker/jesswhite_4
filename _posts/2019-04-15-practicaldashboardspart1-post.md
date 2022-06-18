@@ -3,10 +3,8 @@ layout: post
 title: Introduction To Baselines for Dashboards
 description: "Part One of A Practical Guide To Dashboarding. Why dashboards are important and how to keep them useful."
 date: 2019-04-15
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2019']
 ---
 
 ----
@@ -171,6 +169,6 @@ _Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

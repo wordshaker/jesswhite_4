@@ -3,10 +3,8 @@ layout: post
 title: "Microservices Day"
 description: "Microservices Day London 2016"
 date: 2016-05-10
-cover: "/assets/blog_header.jpg"
-categories: [personal, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2016']
 ---
 <br/>
 
@@ -93,8 +91,8 @@ Microservices Day did feel a bit like a practice for NodeConf, but it was free s
 
 It was interesting to hear about how companies had dealt with the transition to a microservices architecture and it was the first time I had come across SWIM protocol which I found a particularly interesting concept. The use of Docker in production, and the way in which companies were testing new functionality was slightly different from what I have experienced. There were a few things throughout the day that I think are worthy of further investigation, with the aim of eventually trying out some of them in my own work.                        
 
+---
 
-<br/>
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

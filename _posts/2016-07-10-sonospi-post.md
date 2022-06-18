@@ -3,10 +3,8 @@ layout: post
 title: "Sonos Pi Project"
 description: "For alerting on Sonos based on Datadog events"
 date: 2016-07-10
-cover: "/assets/blog_header.jpg"
-categories: [project, alerting]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2016']
 ---
 
 <br/>
@@ -30,7 +28,8 @@ We test drove our code, pairing using a red, green, refactor pattern. Once it wa
 
 The code for this can be found [here](href="https://github.com/sonos-alerts) with all current instructions on how to work it. The DataDog details are currently not included.
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

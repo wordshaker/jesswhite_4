@@ -3,10 +3,8 @@ layout: post
 title: "Goodbye WIT & Thank You"
 description: "A farewell and best luck to the future to the meetup I founded and organised for a number of years."
 date: 2017-07-06
-cover: "/assets/blog_header.jpg"
-categories: [personal, organisation, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>
@@ -83,10 +81,11 @@ Overall, it's been a fun ride. I am grateful to you all and will be forever supp
 Never forget to be excellent to each other, and party on.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2017-07-06/billandted.gif" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2017/07-06/billandted.gif" alt="Tools">
 </div>
 
+---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

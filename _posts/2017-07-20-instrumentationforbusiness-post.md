@@ -3,10 +3,8 @@ layout: post
 title: Implementing Instrumentation For Business Need
 description: "A case study on driving instrumentation through business requirements"
 date: 2017-07-20
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>
@@ -117,8 +115,8 @@ The aim is to eventually build team specific dashboards as well as feature speci
 
 There are many ways in which this work could develop and grow. It's an area I could discuss at length and that's exactly what I’m going to do in a future blog post...
 
+---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

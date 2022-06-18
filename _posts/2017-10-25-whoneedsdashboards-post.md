@@ -3,10 +3,8 @@ layout: post
 title: Who Needs Dashboards?
 description: "An overview of the different types of dashboards and what they are for."
 date: 2017-10-25
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 ----
@@ -86,7 +84,7 @@ Dashboards also make it easier to communicate what is going on to other areas of
 Both of these types have their own uses and strengths. By combining the two, you can create a dashboard that's of interest to an even wider audience. By having a combined BI/MI dashboard, a united vision on what the business is trying to achieve and their progress to that goal can be shown. 
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2017-10-25/MIBI.JPG" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2017/10-25/MIBI.JPG" alt="Tools">
 </div>
 _Above: A mock of a combined MI and BI dashboard._
 
@@ -230,8 +228,8 @@ Thank you to: [Darren Whitworth](https://www.linkedin.com/in/darrenwhitworth1/),
 - [From Strategy to Business Models and to Tactics](http://www.hbs.edu/faculty/Publication%20Files/10-036.Pdf)
 - [Defining Strategy, Implementation, and Execution](https://hbr.org/2015/03/defining-strategy-implementation-and-execution)
 
+---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>
