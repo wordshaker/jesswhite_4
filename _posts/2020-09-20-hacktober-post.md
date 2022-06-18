@@ -21,16 +21,16 @@ October has come around quickly, which means it's time to turn that GitHub graph
 
 Hacktoberfest is an event where the aim is to encourage participation on the open source community. In exchange for a number of pull requests on OSS repositories, participants are rewarded with a t-shirt and some stickers. 
 
-To sign up, <a href="https://hacktoberfest.digitalocean.com/" rel="noreferrer" target="_blank"> head over to the Hacktoberfest website</a>.
+To sign up, <a href="https://Hacktoberfest.digitalocean.com/" rel="noreferrer" target="_blank"> head over to the Hacktoberfest website</a>.
 
 
 <br/>
 
-## Which PR's count for Hacktoberfest?
+## Which PRs count for Hacktoberfest?
 
-Hacktober is <a href="https://hacktoberfest.digitalocean.com/hacktoberfest-update" rel="noreferrer" target="_blank">now an opt-in process for maintainers</a> as there have been issues with spam PRs. Spam PR's are where people have raised pull-requests for changes that have no beneficial impact to the repository.
+Hacktober is <a href="https://Hacktoberfest.digitalocean.com/Hacktoberfest-update" rel="noreferrer" target="_blank">now an opt-in process for maintainers</a> as there have been issues with spam PRs. Spam PRs are where people have raised pull-requests for changes that have no beneficial impact to the repository.
 
-What this means is that if an open-source repository is happy to have contributions from those taking part in Hacktoberfest, they need to label their topics with a `hacktoberfest` label
+What this means is that if an open-source repository is happy to have contributions from those taking part in Hacktoberfest, they need to label their topics with a `Hacktoberfest` label
 
 <br/>
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
@@ -39,7 +39,7 @@ What this means is that if an open-source repository is happy to have contributi
 
 <br/>
 
-On the main page of the repository you want to contribute to in GitHub you will see an About section on the right-hand side. Here the topic labels are displayed in blue tablets under the about text. Check that the `hacktoberfest` label is present if Hacktoberfest is your current reason for contributing to open-source.
+On the main page of the repository you want to contribute to in GitHub you will see an About section on the right-hand side. Here the topic labels are displayed in blue tablets under the about text. Check that the `Hacktoberfest` label is present if Hacktoberfest is your current reason for contributing to open-source.
 
 <br/>
 
@@ -57,7 +57,7 @@ This repository lists projects by language that have labels indicating that ther
 
 #### <a href="https://up-for-grabs.net/#/" rel="noreferrer" target="_blank">Up For Grabs</a>
 
-A site where you can search for issues that available by label, langauge, tag or name. It shows projects which have issues that indicate they are looking for contributors. This is for all levels and not only beginner friendly issues.
+A site where you can search for issues that available by label, language, tag or name. It shows projects which have issues that indicate they are looking for contributors. This is for all levels and not only beginner friendly issues.
 
 #### <a href="https://www.firsttimersonly.com/" rel="noreferrer" target="_blank">First Timers Only</a>
 
@@ -87,7 +87,7 @@ Hopefully this code of conduct will outline what you can do if you experience an
 
 The code of conduct may be in a markdown file, often named `CODE_OF_CONDUCT.md` or may be attached in the README of the project.
 
-### Check current issues and PR's for tone of voice. 
+### Check current issues and PRs for tone of voice. 
 
 An option is to look through current issues and pull requests that have been picked up to see what the maintainers tone of voice is and how responsive they are. 
 

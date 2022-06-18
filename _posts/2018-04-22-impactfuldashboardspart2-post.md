@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting the most out of your dashboards
-description: "Part Two of Creating & Maintaining Impactful Dashboards. The lifetimes of different dashboards and metrucs and how to manage them."
+description: "Part Two of Creating & Maintaining Impactful Dashboards. The lifetimes of different dashboards and metrics and how to manage them."
 date: 2018-04-22
 image: "assets/img/posts/twitter.jpg"
 tags: ['2018']
