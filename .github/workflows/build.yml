@@ -17,6 +17,10 @@ jobs:
         ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true
 
+    - name: GitHub Spellcheck
+      uses: igsekor/pyspelling-any@v1.0.4
+
+
     - name: Build
       run: |
         gem install bundler
