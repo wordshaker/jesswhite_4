@@ -56,7 +56,7 @@ If this is a Business Intelligence (BI) style dashboard those using it are going
 
 Management Information (MI) have projects aiding in the success of these overall objectives. Again by knowing which company objective these initiatives are targeted at aiding, we can measure to determine the effect its having on the overall company objective.
 
-* **What are the KPI’s of your project**
+* **What are the KPIs of your project**
  
 KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" rel="noreferrer" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPIs associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
 
@@ -77,7 +77,7 @@ There are many cases where execution dashboards differ however. Here are just a 
 
 This might seem like an obvious question, but the answers may not be what you expect. Rather than "you can reach the webpage", success might be that the feature can accept a certain load or have a certain response time. It might be a security concern - the app or feature might want to be only accessible from certain places. **Find out what success should look like**. This will not only help you know the requirements for what your monitoring, but may even provide some test cases or requirements you didn't know about.
 
-* **What are the KPI’s / SLAs?**
+* **What are the KPIs / SLAs?**
 
 Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPIs that need to be considered at this level.
 

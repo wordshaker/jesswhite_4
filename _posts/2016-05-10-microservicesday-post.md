@@ -36,7 +36,7 @@ The [Agenda](http://microservicesday.com/#agenda) of the day included:
 
 ### Ones To Watch
 
-All of the talks are available on [YoutTube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBZkM4ZSGO0fjkNTXEIteQy9"). 
+All of the talks are available on [YouTube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBZkM4ZSGO0fjkNTXEIteQy9"). 
 
 Below is a list of a few of my favourites:
 #### [Richard Rodger](https://www.youtube.com/watch?v=9VC6YeQeZVk) - Solving service discovery: Node.js microservices without a registry:

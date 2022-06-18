@@ -144,7 +144,7 @@ Operational dashboards that cover software concerns may include:
 
 - Database Read/Write times
 - State of queueing technology i.e. partitions or the time to process a message
-- SLA’s of third parties (internal or external) and whether they are being met
+- SLAs of third parties (internal or external) and whether they are being met
 - Utilisation, saturation and error rates for services <a href="http://www.brendangregg.com/usemethod.html" rel="noreferrer" target="_blank">(USE)</a>
 -Rate of traffic, errors and duration of responses for API’s <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" rel="noreferrer" target="_blank">(RED)</a>
 
