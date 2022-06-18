@@ -67,7 +67,7 @@ A flat structure encourages the idea that everyone's view is valid, as the only 
 
 I love the term 'Microlith' which Jason used to refer to tightly coupled microservices. This is definitely a danger when moving from a monolith to a microservices architecture. In this talk Jason Melo discussed the journey from monolith to microservice in the following phases:
 
-##### Phase 1a - Cultural mindshift: EMBRACE THE CHAOS! 
+##### Phase 1a - Cultural mind shift: EMBRACE THE CHAOS! 
 Everyone is involved in DevOps and it is not an individuals role! There will be well defined service ownership and LOADS of databases! Multiple run times!
 These are factors which some may have difficulty with in the beginning.   
 
