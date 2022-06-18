@@ -171,7 +171,7 @@ The indicators required to measure whether the objectives and agreements are bei
 
 <strong>Simple and discrete</strong>
 
-Not overcomplicating measurements means that it will be less likely to have erroneous or missed measurements.
+Not over-complicating measurements means that it will be less likely to have erroneous or missed measurements.
 
 <strong>Impact of measurement</strong>
 
