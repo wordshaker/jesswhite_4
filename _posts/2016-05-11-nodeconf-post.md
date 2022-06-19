@@ -22,7 +22,7 @@ The [NodeConf London](http://london.nodeconf.com/) included the following talks:
 * [Kassandra Perch](https://twitter.com/nodebotanist) - Robots, code and people
 * [Nikhila Ravi](https://twitter.com/nikhilaravi) - Server-less architecture in the wild
 * [James Halliday](https://twitter.com/substack) - The disintermediated web
-* [Christian Heilmannn](https://twitter.com/codepo8) - Making ES6 happen with ChakraCore and Node
+* [Christian Heilmann](https://twitter.com/codepo8) - Making ES6 happen with ChakraCore and Node
 * [Colin Ihrig](https://twitter.com/cjihrig) - State of Node.js Core
 * [Thomas Watson](https://twitter.com/wa7son) - It goes to eleven
 * [Emily Rose](https://twitter.com/nexxylove) - How I learned to stop worrying
@@ -37,7 +37,7 @@ All of the talks should be watched and are available on [YouTube](https://www.yo
 ##### [Nikhila Ravi](href="https://www.youtube.com/watch?v=SwJUH3Le91s) - Server-less architecture in the wild:
 An insightful and intelligent talk going through using a "serverless" architecture. This talk includes demonstrating the creation of a "serverless jukebox" including a live demonstration of the work available on GitHub.
 
-##### [Christian Heilmannn](https://www.youtube.com/watch?v=jHTSCXQ3-hU) - Making ES6 happen with ChakraCore and Node:
+##### [Christian Heilmann](https://www.youtube.com/watch?v=jHTSCXQ3-hU) - Making ES6 happen with ChakraCore and Node:
 This talk is not only enlightening but hilarious. Christian Heilmann is a highly entertaining speaker who is clearly knowledgeable and passionate about what he is talking about. Even as a JS newbie I could follow what he was talking about and instantly started looking into ChakraCore as soon as I got home.
 
 ##### [Kassandra Perch](https://www.youtube.com/watch?v=edYnouynBxg) - Robots, code and people:
