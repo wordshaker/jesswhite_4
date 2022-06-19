@@ -20,7 +20,6 @@ tags: [Page]
   - [Meetups](#meetups)
   - [Panel Discussions](#panel-discussions)
   - [Podcasts / Webcasts](#podcasts--webcasts)
-- [- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2018)_](#--side-hustle-success-podcast-2018)
 - [Outreach](#outreach)
 - [Volunteering](#volunteering)
   - [Master of Ceremonies](#master-of-ceremonies)
@@ -123,6 +122,8 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2020)_
 - <a href="https://www.dotnetrocks.com/?show=1526" rel="noreferrer" target="_blank">.Net Rocks</a> _(2018)_
 - <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2018)_
+
+
 ---
 
 ## Outreach
