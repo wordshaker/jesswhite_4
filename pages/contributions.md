@@ -117,7 +117,7 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - Lincs Tech Week - UK - The Future of Technology  _(2018)_
 
 ### Podcasts / Webcasts
-- <a href="https://www.youtube.com/watch?v=fhcNFU9rOPY/" rel="noreferrer" target="_blank">Cloud Conversations Ep 49: Allyship, mentoring, & organising a conferences</a> _(2022)_
+- <a href="https://www.youtube.com/watch?v=fhcNFU9rOPY/" rel="noreferrer" target="_blank">Cloud Conversations Episode 49: Allyship, mentoring, & organising a conferences</a> _(2022)_
 - - <a href="https://unhandledexceptionpodcast.com/posts/0032-jesswhite/" rel="noreferrer" target="_blank">Unhandled Exception Episode 32: Technical Leadership</a> _(2022)_
 - <a href="https://unhandledexceptionpodcast.com/posts/0006-ddd/" rel="noreferrer" target="_blank">Unhandled Exception Episode 6: The DDD Conferences</a> _(2020)_
 - <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2020)_
