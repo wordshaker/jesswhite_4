@@ -19,12 +19,13 @@ tags: [Page]
   - [Conferences](#conferences)
   - [Meetups](#meetups)
   - [Panel Discussions](#panel-discussions)
+  - [Podcasts / Webcasts](#podcasts--webcasts)
+- [- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2018)_](#--side-hustle-success-podcast-2018)
 - [Outreach](#outreach)
 - [Volunteering](#volunteering)
   - [Master of Ceremonies](#master-of-ceremonies)
   - [Organisations](#organisations)
   - [Conference Crew](#conference-crew)
-- [Podcast](#podcast)
 - [Publications](#publications)
 
 ---
@@ -53,7 +54,7 @@ tags: [Page]
 - <a href="http://dddeastmidlands.com" rel="noreferrer" target="_blank">DDD East Midlands</a>. _(2018 - present)_
 
 ### Agenda And Organisation Committees
-- NDC London Agenda Committee _(2019 - present)_
+- NDC London Agenda Committee _(2019 - 2022)_
 - ProgNET _(2019)_
 
 ### Individual Event Organisation
@@ -115,6 +116,13 @@ _See <a href="https://noti.st/jesspwhite" rel="noreferrer" target="_blank">my No
 - Trent Uni - UK - Women In STEM for International Women's Day  _(2018)_
 - Lincs Tech Week - UK - The Future of Technology  _(2018)_
 
+### Podcasts / Webcasts
+- <a href="https://www.youtube.com/watch?v=fhcNFU9rOPY/" rel="noreferrer" target="_blank">Cloud Conversations Episode 49: Allyship, mentoring, & organising a conferences</a> _(2022)_
+- - <a href="https://unhandledexceptionpodcast.com/posts/0032-jesswhite/" rel="noreferrer" target="_blank">Unhandled Exception Episode 32: Technical Leadership</a> _(2022)_
+- <a href="https://unhandledexceptionpodcast.com/posts/0006-ddd/" rel="noreferrer" target="_blank">Unhandled Exception Episode 6: The DDD Conferences</a> _(2020)_
+- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2020)_
+- <a href="https://www.dotnetrocks.com/?show=1526" rel="noreferrer" target="_blank">.Net Rocks</a> _(2018)_
+- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2018)_
 ---
 
 ## Outreach
@@ -153,14 +161,6 @@ This was alongside Julie Lerman, Steve (Ardalis) Smith, Iris Classon and Rabeb O
 
 - <a href="https://jesswhite.co.uk/2017/06/19/ndcoslo2017-post.html" rel="noreferrer" target="_blank">NDC Oslo</a> - Norway _(2017)_
 - <a href="https://jesswhite.co.uk/2017/01/29/ndclondon-post.html" rel="noreferrer" target="_blank">NDC London</a> - UK _(2017)_
-
----
-
-## Podcast
-- <a href="https://unhandledexceptionpodcast.com/posts/0006-ddd/" rel="noreferrer" target="_blank">Unhandled Exception Episode 6: The DDD Conferences</a> _(2020)_
-- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/67129996" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2020)_
-- <a href="https://www.dotnetrocks.com/?show=1526" rel="noreferrer" target="_blank">.Net Rocks</a> _(2018)_
-- <a href="https://www.stitcher.com/podcast/stephen-haunts/side-hustle-success-podcast/e/57361496" rel="noreferrer" target="_blank">Side Hustle Success Podcast</a> _(2018)_
 
 ---
 
