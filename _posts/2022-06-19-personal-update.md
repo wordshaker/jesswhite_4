@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A personal update
+title: A Personal Update
 description: "Sometimes mental health comes first"
-date: 20212-06-19
+date: 2022-06-19
 image: "assets/img/posts/twitter.jpg"
 tags: ['2022']
 ---
@@ -18,7 +18,7 @@ tags: ['2022']
 
 This is not the usual content I put on this site, but sometimes it's good to share that behind the screen and keyboard is yet another human. 
 
-This last 12 months has been eventful and not in the good kind of way. Though I've managed a couple of talks and a couple of podcasts, and I've kept up the majority of the mentoring I take part in out of work hours; in general my extra-curricular activities have slowed down. It has felt like the year of half-finished blog posts. Un-finished ideas.
+This last 12 months has been eventful, and not in the good kind of way. Though I've managed a couple of talks and a couple of podcasts, and I've kept up the majority of the mentoring I take part in out of work hours; in general my extra-curricular activities have slowed down. It has felt like the year of half-finished blog posts. Un-finished ideas.
 
 Sometimes, everything seems to hit in a wave. In the last 9 months or so I've lost a couple of people I was close to to cancer. Both times hit very hard. 
 
