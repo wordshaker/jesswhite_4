@@ -3,10 +3,8 @@ layout: post
 title: Implementing Instrumentation For Business Need
 description: "A case study on driving instrumentation through business requirements"
 date: 2017-07-20
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>
@@ -58,7 +56,7 @@ The full power of instrumentation wasn't being utilised. To address this we had 
 
 + Observing features are behaving as expected.
 + Observing the health of a feature.
-+ Checking SLA's are being adhered to.
++ Checking SLAs are being adhered to.
 + Being able to identify where problems are arising with ease.
 + Identifying areas to be optimised.
 
@@ -93,7 +91,7 @@ Once gained, the product owner included acceptance criteria for instrumentation 
 
 This process has been followed for a couple of projects now. In our case, it has worked very well.
 
-The first project was a back-end feature integrating with a third party. The dashboard was shared with development and another department. It enabled both teams not only to spot bugs easily but also react to unusual behaviour. Further, we could answer questions about response times with the third parties.
+The first project was a backend feature integrating with a third party. The dashboard was shared with development and another department. It enabled both teams not only to spot bugs easily but also react to unusual behaviour. Further, we could answer questions about response times with the third parties.
 
 By driving our dashboards through business need, they are evolving in a way that benefits developers and stakeholders. They are being viewed by those who need to see them and they have information that is useful to both parties. Instrumentation is no longer a second class citizen and is being utilised again. Another useful benefit is that this has lead to greater transparency across departments and has given us a unified view of the products we are delivering. This in turn has lead to improved collaboration all round.
 
@@ -117,8 +115,8 @@ The aim is to eventually build team specific dashboards as well as feature speci
 
 There are many ways in which this work could develop and grow. It's an area I could discuss at length and that's exactly what I’m going to do in a future blog post...
 
+---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

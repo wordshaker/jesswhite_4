@@ -3,10 +3,8 @@ layout: post
 title: "Microservices Day"
 description: "Microservices Day London 2016"
 date: 2016-05-10
-cover: "/assets/blog_header.jpg"
-categories: [personal, events]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2016']
 ---
 <br/>
 
@@ -38,7 +36,7 @@ The [Agenda](http://microservicesday.com/#agenda) of the day included:
 
 ### Ones To Watch
 
-All of the talks are available on [Youtube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBZkM4ZSGO0fjkNTXEIteQy9"). 
+All of the talks are available on [YouTube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBZkM4ZSGO0fjkNTXEIteQy9"). 
 
 Below is a list of a few of my favourites:
 #### [Richard Rodger](https://www.youtube.com/watch?v=9VC6YeQeZVk) - Solving service discovery: Node.js microservices without a registry:
@@ -69,7 +67,7 @@ A flat structure encourages the idea that everyone's view is valid, as the only 
 
 I love the term 'Microlith' which Jason used to refer to tightly coupled microservices. This is definitely a danger when moving from a monolith to a microservices architecture. In this talk Jason Melo discussed the journey from monolith to microservice in the following phases:
 
-##### Phase 1a - Cultural mindshift: EMBRACE THE CHAOS! 
+##### Phase 1a - Cultural mind shift: EMBRACE THE CHAOS! 
 Everyone is involved in DevOps and it is not an individuals role! There will be well defined service ownership and LOADS of databases! Multiple run times!
 These are factors which some may have difficulty with in the beginning.   
 
@@ -93,8 +91,8 @@ Microservices Day did feel a bit like a practice for NodeConf, but it was free s
 
 It was interesting to hear about how companies had dealt with the transition to a microservices architecture and it was the first time I had come across SWIM protocol which I found a particularly interesting concept. The use of Docker in production, and the way in which companies were testing new functionality was slightly different from what I have experienced. There were a few things throughout the day that I think are worthy of further investigation, with the aim of eventually trying out some of them in my own work.                        
 
+---
 
-<br/>
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

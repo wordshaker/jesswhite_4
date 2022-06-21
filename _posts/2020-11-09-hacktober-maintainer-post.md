@@ -3,11 +3,8 @@ layout: post
 title: Maintaining Repositories - A Hacktober Story
 description: "What I've learnt about and will consider for future repository maintenance based on my experience of being a maintainer of repositories taking part in Hacktoberfest."
 date: 2020-11-09
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-11-19/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2020']
 ---
 
 ----
@@ -25,7 +22,7 @@ This year I have been hands on with maintaining the .NET Notts and DDD East Midl
 - [What I've learnt as a maintainer](#what-ive-learnt-as-a-maintainer)
   - [Use the right licence](#use-the-right-licence)
   - [Have a Code Of Conduct in place](#have-a-code-of-conduct-in-place)
-  - [Have a cracking Readme](#have-a-cracking-readme)
+  - [Have a cracking README](#have-a-cracking-README)
   - [Guide for how to run the code and locally](#guide-for-how-to-run-the-code-and-locally)
   - [Contribution Guidelines](#contribution-guidelines)
   - [Avoiding PR clashes](#avoiding-pr-clashes)
@@ -64,7 +61,7 @@ Not only does this enforce how your software can be used, but also many contribu
 
 The Code of Conduct is for maintainers as well as contributors. Having a code of conduct makes it clear what behaviour and language is expected of all those taking part in the repository. It also states what will happen if anyone behaves in a way that is not allowable by the maintainers.
 
-This means all those contributing are prewarned to the consequences of actions that make others feel targeted, uncomfortable or abused. If anyone is made to feel unsafe, there are instructions for how to report the behaviour that has made them feel that way.
+This means all those contributing are pre-warned to the consequences of actions that make others feel targeted, uncomfortable or abused. If anyone is made to feel unsafe, there are instructions for how to report the behaviour that has made them feel that way.
 
 All in all this document helps provide the information necessary to try to preserve a good culture in the repositories you are maintaining and make sure that everyone taking part has a good experience.
 
@@ -72,12 +69,12 @@ The trickiest bit in my point of view is having a plan in place for if any code 
 
 <br/>
 
-### Have a cracking Readme
+### Have a cracking README
 
-The Readme is the first thing I look at when going to a repository. As such it is a fantastic place, in my view, to link to any resources and give guidance on how to work with the repository. Some of the things I found useful to have in the readme include:
+The README is the first thing I look at when going to a repository. As such it is a fantastic place, in my view, to link to any resources and give guidance on how to work with the repository. Some of the things I found useful to have in the README include:
 
 * #### Build badge
-  In the readme we have a build badge for our main branch. This easily shows if the main branch is in a good state.
+  In the README we have a build badge for our main branch. This easily shows if the main branch is in a good state.
 
 * #### Links to other markdown files
   As the README is the first place a lot of people look for information, we found it useful to have links to the other files including the Contribution Guidelines and Code of Conduct.
@@ -148,7 +145,7 @@ A lot of the items mentioned in this section are listed in the Community Profile
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2020-11-19/community.png" alt="Screen shot of the GitHub Community Profile page.">
+<img src="{{site.baseurl}}/assets/img/posts/2020/11-19/community.png" alt="Screen shot of the GitHub Community Profile page.">
 </div>
 <br/>
 
@@ -227,6 +224,6 @@ _Jess_
 
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

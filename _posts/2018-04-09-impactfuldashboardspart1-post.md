@@ -3,10 +3,8 @@ layout: post
 title: Handy tips for Creating Dashboards
 description: "Part One of Creating & Maintaining Impactful Dashboards. What to consider when creating dashboards and what discussions to have about them."
 date: 2018-04-09
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2018']
 ---
 
 ----
@@ -29,7 +27,7 @@ An example of an everyday dashboard is a dashboard in a car. There are a few dif
 A driver would also need to be alerted if there was something wrong with their car that they may need to act on - the oil needs changing or there is a problem with the engine. These will also appear on a dashboard but in a different way to the information that is needed all the time. This is so that attention is drawn to it, that the driver knows it is more urgent. Some cars may show them as a specially shaped light that flashes up when there is a problem. For less urgent alerts, they may show up in a different colour or format. Examples are that the cars indicator lights or fog lights are on. 
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-09/cardash.png">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-09/cardash.png">
 </div>
 
 Dashboards are used in very much the same way when covering projects, initiatives and systems. A good dashboard should be easy to read and react to. The information you need on a regular basis should be easy to identify, but if something is abnormal and needs to be reacted to urgently, it should attract the attention of those that need to react to it.
@@ -58,9 +56,9 @@ If this is a Business Intelligence (BI) style dashboard those using it are going
 
 Management Information (MI) have projects aiding in the success of these overall objectives. Again by knowing which company objective these initiatives are targeted at aiding, we can measure to determine the effect its having on the overall company objective.
 
-* **What are the KPI’s of your project**
+* **What are the KPIs of your project**
  
-KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" rel="noreferrer" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPI's associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
+KPI is an acronym that stands for <a href="https://en.wikipedia.org/wiki/Performance_indicator" rel="noreferrer" target="_blank">Key Performance Indicator</a>. Most company plans and objectives will have KPIs associated with them. Again by having measurements associated with these, the success of the initiatives can be monitored as well as their progress. If it doesn't look like a KPI is going to be met, reactive measures can be taken.
 
 * **How might this initiative fail?**
 
@@ -79,13 +77,13 @@ There are many cases where execution dashboards differ however. Here are just a 
 
 This might seem like an obvious question, but the answers may not be what you expect. Rather than "you can reach the webpage", success might be that the feature can accept a certain load or have a certain response time. It might be a security concern - the app or feature might want to be only accessible from certain places. **Find out what success should look like**. This will not only help you know the requirements for what your monitoring, but may even provide some test cases or requirements you didn't know about.
 
-* **What are the KPI’s / SLA's?**
+* **What are the KPIs / SLAs?**
 
-Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPI's that need to be considered at this level.
+Back to Key Performance indicators! These might not be apparent from the "what success looks like" conversation. Further to this, there may be separate KPIs that need to be considered at this level.
 
-SLA's are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" rel="noreferrer" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLA's is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
+SLAs are <a href="https://en.wikipedia.org/wiki/Service-level_agreement" rel="noreferrer" target="_blank">Service Level Agreements</a>. They may be determined by internal or external relationships. It's a contract for how your app / feature / system / hosting etc. is expected to perform outwardly. You may have an obligation to only have a certain amount of downtime, or to a certain response time for example. Breaking SLAs is not only a problem for reputation, but it can have a financial impact as well, be it through fines or losing partners. 
 
-As part of this you may want to find out who should be informed if these KPI's aren't met or SLA's are broken. Also, what action should be taken, if any. What is the impact?
+As part of this you may want to find out who should be informed if these KPIs aren't met or SLAs are broken. Also, what action should be taken, if any. What is the impact?
 
 * **What are the base metrics we would normally use for this?**
 
@@ -104,14 +102,14 @@ There are going to many points in the creation and maintenance of your dashboard
 When having these conversations, there is one rule I stick to. While maintaining a degree of professionalism - **channel your inner toddler**.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-09/toddler.png" alt="Toddler">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-09/toddler.png" alt="Toddler">
 </div>
 
 We all know that ~~annoying~~ adorable phase all kids go through when they are curious about everything in the world. They want to know _why_, _when_, _what_, _who_ and then they might go back to why and the cycle continues. If we channel our inner toddlers and revert back to this tendency - we can keep our dashboards beautiful, clean and useful. 
 
 - **WHY** do you need this information?
 - **WHO** is it for / needs this information?
-- **WHAT** does it provide? Is it measuring anything that we need to track based on the previous conversations we have with our stakeholders around KPI's? Is it a new concern or requirement?
+- **WHAT** does it provide? Is it measuring anything that we need to track based on the previous conversations we have with our stakeholders around KPIs? Is it a new concern or requirement?
 - **HOW** long is it needed for?
 - **WHY** does it need to live on the dashboard?
 - **COULD** it live somewhere else?
@@ -140,10 +138,10 @@ The importance of communication in the creation of dashboards and visualisations
 
 #### There isn't one perfect tool that is going to solve all your problems
 
-There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example <a href="https://www.datadoghq.com/" rel="noreferrer" target="_blank">Datadog</a>) and those that are used for log analytics (an example is <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html" rel="noreferrer" target="_blank">Kibana</a>). Some tools will specialise in a certain type of monitoring such as <a href="https://www.tableau.com/" rel="noreferrer" target="_blank">Tableau</a> which is aimed at analysing BI data opposed to <a href="https://www.zabbix.com/" rel="noreferrer" target="_blank">Zabbix</a> which is more suited for operational data. There are some that are more cross-functional as well.
+There are many tools out there, each with their own main focus or specialism. There are differences between tools that specialise in metrics (for example <a href="https://www.datadoghq.com/" rel="noreferrer" target="_blank">DataDog</a>) and those that are used for log analytics (an example is <a href="https://www.elastic.co/guide/en/kibana/current/introduction.html" rel="noreferrer" target="_blank">Kibana</a>). Some tools will specialise in a certain type of monitoring such as <a href="https://www.tableau.com/" rel="noreferrer" target="_blank">Tableau</a> which is aimed at analysing BI data opposed to <a href="https://www.zabbix.com/" rel="noreferrer" target="_blank">Zabbix</a> which is more suited for operational data. There are some that are more cross-functional as well.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2018-04-09/tools.png" alt="Tools">
+<img src="{{site.baseurl}}/assets/img/posts/2018/04-09/tools.png" alt="Tools">
 </div>
 
 To know which one is suitable for your needs at the time often requires research and a building a business case. If you end up using multiple tools - that is ok! There is nothing wrong with that! As long as using multiple tools is suitable for your needs.
@@ -214,6 +212,6 @@ _Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

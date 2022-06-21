@@ -3,10 +3,8 @@ layout: post
 title: Danger Signs of Dashboarding
 description: "Part Three of Creating & Maintaining Impactful Dashboards. Keeping dashboards useful."
 date: 2018-04-23
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2018']
 ---
 
 ----
@@ -145,6 +143,6 @@ _Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

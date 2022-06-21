@@ -3,10 +3,8 @@ layout: post
 title: "Error! Error!"
 description: "Getting your error levels right - An assessment of error levels and what they mean."
 date: 2017-03-11
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2017']
 ---
 
 <br/>
@@ -64,7 +62,7 @@ It is used however. An example given in [reference 2](http://stackoverflow.com/q
 
 #### INFO
 
-The information level of logging is generally used for things you want to know about but that don't cause your application to crash. There is a lot of confusion between the difference between information and debug, the principle I work by is that if it information that would be informative in production, log it as information. There is a careful balance that needs to be achieved however. You want to avoid noise, but be informative. For example, if you receive a 500 from an api, log it. Maybe don't log all teh information corresponding to it. 
+The information level of logging is generally used for things you want to know about but that don't cause your application to crash. There is a lot of confusion between the difference between information and debug, the principle I work by is that if it information that would be informative in production, log it as information. There is a careful balance that needs to be achieved however. You want to avoid noise, but be informative. For example, if you receive a 500 from an api, log it. Maybe don't log all the information corresponding to it. 
 
 The other thing to consider when logging to production is the content of the information. You do not want to log sensitive or identifying information about customers for instance. Internal ID's would be fine as you can track information without revealing anything you don't intend to. Logs are not a secure place for storage. 
 
@@ -93,8 +91,8 @@ As mentioned throughout, how to use logging levels is not something that is comp
 2. [http://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels](StackOverflow - Logging Levels)
 3. [http://stackoverflow.com/questions/7839565/logging-levels-logback-rule-of-thumb-to-assign-log-levels](StackOverflow - Logging Levels 2)
 
+---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

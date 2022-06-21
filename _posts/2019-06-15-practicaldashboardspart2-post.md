@@ -3,10 +3,8 @@ layout: post
 title: Metrics Baselines for Services
 description: "Part Two of A Practical Guide To Dashboarding. Standardised baselines for measuring Services behaviour and how they can be used."
 date: 2019-06-15
-cover: "/assets/blog_header.jpg"
-categories: [observability, tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2019']
 ---
 
 ----
@@ -40,7 +38,7 @@ In Brendan Gregg's original definition he describes utilisation as _"the average
 When applying this to our definition for analysing services, this refers to how long a service takes to do it's process, the work it needs to do. It's the time from input to outcome. 
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-06-15/utilisation.png" alt="Layers">
+<img src="{{site.baseurl}}/assets/img/posts/2019/06-15/utilisation.png" alt="Layers">
 </div>
 
 ---
@@ -50,7 +48,7 @@ _Analogy: a person clocking in and out of work. The time from when they clock in
 
 This information tells us how long it is taking to process the work. 
 
-This may align to key performance indicators (KPI's) relating to the service or whether this is having a detrimental effect on service level agreements (SLA's). This metric can indicate where work might need to be done to address issues in the system. For example, it might be an API is slow in responding, but that is due to the downstream effects of this service taking a long time to do it's job.
+This may align to key performance indicators (KPIs) relating to the service or whether this is having a detrimental effect on service level agreements (SLAs). This metric can indicate where work might need to be done to address issues in the system. For example, it might be an API is slow in responding, but that is due to the downstream effects of this service taking a long time to do it's job.
 
 By itself, this metric is useful. In combination with saturation and error, it becomes even more valuable.
 
@@ -63,7 +61,7 @@ This is where the definitions I use for service metrics diverges a bit. Here I u
 This could be in a literal queue in the case of services - RabbitMQ, SQS or similar. There a couple of measures for this - the depth of queue, and the oldest message.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-06-15/saturation.png" alt="Layers">
+<img src="{{site.baseurl}}/assets/img/posts/2019/06-15/saturation.png" alt="Layers">
 </div>
 
 ---
@@ -84,7 +82,7 @@ For monitoring services, errors are pretty much what you would expect. When meas
 Without causing too much noise we need to measure these errors in a suitable way. If it is a fatal error, don't just show it on a dashboard - alert on it. It needs an immediate response.
 
 <div style="text-align:center; width:70%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/2019-06-15/error.png" alt="Layers">
+<img src="{{site.baseurl}}/assets/img/posts/2019/06-15/error.png" alt="Layers">
 </div>
 
 ---
@@ -162,6 +160,6 @@ _Chapter 1 - Creating & Maintaining Impactful Dashboards Series_
 
 ---
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

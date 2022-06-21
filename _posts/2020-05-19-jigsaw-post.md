@@ -3,11 +3,8 @@ layout: post
 title: Pre-loved Systems Are Like Second Hand Jigsaw Puzzles
 description: "Working out domains when working with pre-existing systems. How to put together the full picture of a system."
 date: 2020-05-19
-cover: "/assets/blog_header.jpg"
-image: "assets/img/2020-05-19/twitter.jpg"
-categories: [tech]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2020']
 ---
 
 ----
@@ -32,7 +29,7 @@ There are a number of scenarios that can happen when we try to solve our jigsaw 
 
 It might not be clear that you have more than one jigsaw until you have struggled putting similar pieces together and found they don't look quite right. It's a lot of wasted effort and can be incredibly frustrating.
 
-In terms of preloved systems, this is what can happen when you try to figure out a system from components up, when it turns out there are two domain areas you are responsible for. In these systems these domains might not be clearly separated. It can be much harder to separate than two jigsaw puzzles and really hard to see clearly.
+In terms of pre-loved systems, this is what can happen when you try to figure out a system from components up, when it turns out there are two domain areas you are responsible for. In these systems these domains might not be clearly separated. It can be much harder to separate than two jigsaw puzzles and really hard to see clearly.
 
 ### 2. There are missing pieces
 
@@ -44,7 +41,7 @@ For pre-loved systems a missing piece can happen from a number of situations. Th
 
 You might not have a full extra puzzle but you might have a few extra pieces that don't fit. You wouldn't find out until the majority of the puzzle was done that this was the case.
 
-Again, with your systems if there are extra parts of the system that don't seem to fit, there could be numerous reasons for this. It may be that you've been handed a piece that fits in someone else's domain. It might be the extra components aren't used or aren't finished, in which case you might be able to deprecate them. We all love deleting code and saving money after all! But, like with the jigsaw puzzle, you won't have a clear view that these are "extra" until you've managed to put together a full picture of what you have. This can take time when you are building your view from the components up.
+Again, with your systems if there are extra parts of the system that don't seem to fit, there could be numerous reasons for this. It may be that you've been handed a piece that fits in someone elses domain. It might be the extra components aren't used or aren't finished, in which case you might be able to deprecate them. We all love deleting code and saving money after all! But, like with the jigsaw puzzle, you won't have a clear view that these are "extra" until you've managed to put together a full picture of what you have. This can take time when you are building your view from the components up.
 
 ### 4. You can fit pieces together, but they don't look quite right.
 
@@ -78,7 +75,7 @@ Also talk to the consumers of your services. These could be internal or external
 
 Here, my examples are angled towards backend systems as that's what I know, but talking to consumers can give you a really good idea about the boundaries of your system and it's interactions.
 
-When having these discussions I often ask for their documentation. When integrating with this domain or onboarding a new member to work on interaction with this domain, what is the documentation they refer to? 
+When having these discussions I often ask for their documentation. When integrating with this domain or on-boarding a new member to work on interaction with this domain, what is the documentation they refer to? 
 
 If there are any available, it is also good to ask about any service level agreements that are in place. These are agreements about behaviour that are in place, where if they are not met, there are consequences to the business. <a href="https://jesswhite.co.uk/2020/04/09/slo-sli-sla-post.html" rel="noreferrer" target="_blank">More can be read about Service Levels in this blog post.</a>
 
@@ -114,7 +111,6 @@ _Jess_
 
 ---
 
-
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>

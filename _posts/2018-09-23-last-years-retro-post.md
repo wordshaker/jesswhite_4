@@ -3,10 +3,8 @@ layout: post
 title: Three Is The Magic Number
 description: "A reflection on 3 years of working in tech. What I've done and what I've learnt from it."
 date: 2018-09-23
-cover: "/assets/blog_header.jpg"
-categories: [personal]
-comments: false
-share: true
+image: "assets/img/posts/twitter.jpg"
+tags: ['2018']
 ---
 
 ----
@@ -21,7 +19,7 @@ I try to treat a lot of my career and personal development much like I would a t
 
 I think a lot of what we do in software engineering can be applied in day to day life. We are iterating on ourselves after all. Even for the little things (if you haven't Kanban-ed your Christmas gift list yet - it will change your whole experience). There is one thing I haven't adopted yet which is the sprint demo. 
 
-Most sprint demos are an act of celebration of the work completed. A huzzah and hurray. It's a move from the negative gripes and the continual building to take a step back and show off the grand stuff you've produced as a team. This is often done publicly to stakeholders, sometimes to the whole company if the company is small enough. For this experiment, you are my audience. Welcome to the sprint demo of my three years in Technology.
+Most sprint demos are an act of celebration of the work completed. A huzzah and hurrah. It's a move from the negative gripes and the continual building to take a step back and show off the grand stuff you've produced as a team. This is often done publicly to stakeholders, sometimes to the whole company if the company is small enough. For this experiment, you are my audience. Welcome to the sprint demo of my three years in Technology.
 
 Now this post might seem like a _not so humble brag_, but honestly it's not. I recognise when it's written down, I'm doing pretty alright. It's been a busy time. As with any retro for a piece of work that's really dragging out, I have the bad habit of focusing on the negatives, what's not gone to plan or what I haven't done yet, never taking the time to acknowledge or celebrate what's been accomplished. I'm hoping that by taking a step back and acknowledging how much progression I've made and what's been achieved in the last three years - I might start being a little nicer to myself for a while.
 
@@ -29,7 +27,7 @@ I went to a talk by Lars Klint at NDC Sydney where he talked about goal setting 
 
 It's not a thing I would have considered without encouragement from others. Thank you to the likes of Todd Gardner and Mat McLoughlin for critiquing abstracts and others for pep talks and advice. Also to Moreton, who is a continual support. It's true what they say, you should surround yourself with more experienced, smarter people than yourself. It is a great way to learn and grow. 
 
-Off the back of these small accomplishments, I have had an amazing year. I have met people I admire, traveled the world (something I've never been able to afford or have the time to do), I've learnt new things and challenged myself. Speaking is still terrifying to me, but I am still learning and trying to make myself better.
+Off the back of these small accomplishments, I have had an amazing year. I have met people I admire, travelled the world (something I've never been able to afford or have the time to do), I've learnt new things and challenged myself. Speaking is still terrifying to me, but I am still learning and trying to make myself better.
 
 Part of the reason I've decided to do this publicly is to encourage others to stop, take a step back, and do the same. Whether your accomplishment is "made an omelette for the first time" or "opened a chain of popular hotels", they are your wins. They are personal. You are winning. 
 
@@ -93,6 +91,6 @@ Well, happy third tech birthday to me. Does this mean I'm a real grown-up develo
 
 J x
 
-<div style="text-align:center; width:20%; margin-left: 10%;" markdown="1">
+<div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
 </div>
