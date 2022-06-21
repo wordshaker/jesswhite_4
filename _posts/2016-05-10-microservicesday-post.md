@@ -36,7 +36,7 @@ The [Agenda](http://microservicesday.com/#agenda) of the day included:
 
 ### Ones To Watch
 
-All of the talks are available on [Youtube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBZkM4ZSGO0fjkNTXEIteQy9"). 
+All of the talks are available on [YouTube](https://www.youtube.com/playlist?list=PL0CdgOSSGlBZkM4ZSGO0fjkNTXEIteQy9"). 
 
 Below is a list of a few of my favourites:
 #### [Richard Rodger](https://www.youtube.com/watch?v=9VC6YeQeZVk) - Solving service discovery: Node.js microservices without a registry:
@@ -67,7 +67,7 @@ A flat structure encourages the idea that everyone's view is valid, as the only 
 
 I love the term 'Microlith' which Jason used to refer to tightly coupled microservices. This is definitely a danger when moving from a monolith to a microservices architecture. In this talk Jason Melo discussed the journey from monolith to microservice in the following phases:
 
-##### Phase 1a - Cultural mindshift: EMBRACE THE CHAOS! 
+##### Phase 1a - Cultural mind shift: EMBRACE THE CHAOS! 
 Everyone is involved in DevOps and it is not an individuals role! There will be well defined service ownership and LOADS of databases! Multiple run times!
 These are factors which some may have difficulty with in the beginning.   
 

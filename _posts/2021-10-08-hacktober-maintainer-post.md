@@ -27,7 +27,7 @@ tags: ['2021']
 - [What I've learnt as a maintainer](#what-ive-learnt-as-a-maintainer)
   - [Use the right licence](#use-the-right-licence)
   - [Have a Code Of Conduct in place](#have-a-code-of-conduct-in-place)
-  - [Have a cracking Readme](#have-a-cracking-readme)
+  - [Have a cracking README](#have-a-cracking-README)
   - [Contribution Guidelines](#contribution-guidelines)
   - [Avoiding PR clashes](#avoiding-pr-clashes)
   - [Advantages to the above documentation](#advantages-to-the-above-documentation)
@@ -40,7 +40,7 @@ tags: ['2021']
 
 <br/>
 
-It's that most wonderful time of the year again! <a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a> takes place for the whole of October with the aim of encouraging people to contribute to Open Source. If you have some open source repositories you'd like to encourage contributions to, there are a few things you can do to make the experience better for you, and the people interacting with your repository.
+It's that most wonderful time of the year again! <a href="https://Hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a> takes place for the whole of October with the aim of encouraging people to contribute to Open Source. If you have some open source repositories you'd like to encourage contributions to, there are a few things you can do to make the experience better for you, and the people interacting with your repository.
 
 This post is a guide to some of the things I've learnt while looking after open repositories.
 
@@ -56,9 +56,9 @@ To protect against this, the rules of Hacktober have tightened to make it possib
 
 To opt your repository into Hacktoberfest do **EITHER** of the following.
 
-**1. Add `hacktoberfest` to the repositories topic**
+**1. Add `Hacktoberfest` to the repositories topic**
 
-On the main page of your repository add *hacktoberfest* as a topic tag. See the image below to see where this is editable.
+On the main page of your repository add *Hacktoberfest* as a topic tag. See the image below to see where this is editable.
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
@@ -66,13 +66,13 @@ On the main page of your repository add *hacktoberfest* as a topic tag. See the 
 </div>
 <br/>
 
-**2. Add a `hacktoberfest-accepted` label**
+**2. Add a `Hacktoberfest-accepted` label**
 
-Add a *hacktoberfest-accepted* label which can be applied to approved issues or pull requests in your repository.
+Add a *Hacktoberfest-accepted* label which can be applied to approved issues or pull requests in your repository.
 
 <br/>
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
-<img src="{{site.baseurl}}/assets/img/posts/2021/10-08/label.png" alt="Screen shot of the hacktoberfest-accepted label in GitHub.">
+<img src="{{site.baseurl}}/assets/img/posts/2021/10-08/label.png" alt="Screen shot of the Hacktoberfest-accepted label in GitHub.">
 </div>
 <br/>
 
@@ -148,7 +148,7 @@ Not only does this enforce how your software can be used, but also many contribu
 
 The Code of Conduct is for maintainers as well as contributors. Having a code of conduct makes it clear what behaviour and language is expected of all those taking part in the repository. It also states what will happen if anyone behaves in a way that is not allowable by the maintainers.
 
-This means all those contributing are prewarned to the consequences of actions that make others feel targeted, uncomfortable or abused. If anyone is made to feel unsafe, there are instructions for how to report the behaviour that has made them feel that way.
+This means all those contributing are pre-warned to the consequences of actions that make others feel targeted, uncomfortable or abused. If anyone is made to feel unsafe, there are instructions for how to report the behaviour that has made them feel that way.
 
 All in all this document helps provide the information necessary to try to preserve a good culture in the repositories you are maintaining and make sure that everyone taking part has a good experience.
 
@@ -156,12 +156,12 @@ The trickiest bit in my point of view is having a plan in place for if any code 
 
 <br/>
 
-### Have a cracking Readme
+### Have a cracking README
 
-The Readme is the first thing I look at when going to a repository. As such it is a fantastic place, in my view, to link to any resources and give guidance on how to work with the repository. Some of the things I found useful to have in the readme include:
+The README is the first thing I look at when going to a repository. As such it is a fantastic place, in my view, to link to any resources and give guidance on how to work with the repository. Some of the things I found useful to have in the README include:
 
 * #### Build badge
-  In the readme we have a build badge for our main branch. This easily shows if the main branch is in a good state.
+  In the README we have a build badge for our main branch. This easily shows if the main branch is in a good state.
 
 * #### Links to other markdown files
   As the README is the first place a lot of people look for information, we found it useful to have links to the other files including the Contribution Guidelines and Code of Conduct.

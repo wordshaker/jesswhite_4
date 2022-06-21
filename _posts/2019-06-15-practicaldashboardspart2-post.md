@@ -48,7 +48,7 @@ _Analogy: a person clocking in and out of work. The time from when they clock in
 
 This information tells us how long it is taking to process the work. 
 
-This may align to key performance indicators (KPI's) relating to the service or whether this is having a detrimental effect on service level agreements (SLA's). This metric can indicate where work might need to be done to address issues in the system. For example, it might be an API is slow in responding, but that is due to the downstream effects of this service taking a long time to do it's job.
+This may align to key performance indicators (KPIs) relating to the service or whether this is having a detrimental effect on service level agreements (SLAs). This metric can indicate where work might need to be done to address issues in the system. For example, it might be an API is slow in responding, but that is due to the downstream effects of this service taking a long time to do it's job.
 
 By itself, this metric is useful. In combination with saturation and error, it becomes even more valuable.
 
