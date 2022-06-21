@@ -20,7 +20,7 @@ Dashboarding is part of the instrumentation portion of monitoring. The main purp
 
 In the - <a href="https://landing.google.com/sre/book/chapters/monitoring-distributed-systems.html" rel="noreferrer" target="_blank">Google SRE book</a> dashboards are defined as following:
 
-> _"An application (usually web-based) that provides a summary view of a service's core metrics. A dashboard may have filters, selectors, and so on, but is **prebuilt to expose the metrics most important to its users**. The dashboard **might also display team information** such as ticket queue length, a list of high-priority bugs, the current on-call engineer for a given area of responsibility, or recent pushes."_
+> _"An application (usually web-based) that provides a summary view of a service's core metrics. A dashboard may have filters, selectors, and so on, but is **pre-built to expose the metrics most important to its users**. The dashboard **might also display team information** such as ticket queue length, a list of high-priority bugs, the current on-call engineer for a given area of responsibility, or recent pushes."_
 
 This description is probably aimed at the more 'technical' dashboards but there are two elements of this definition which support the definition just given which I have placed in bold.
 
@@ -144,7 +144,7 @@ Operational dashboards that cover software concerns may include:
 
 - Database Read/Write times
 - State of queueing technology i.e. partitions or the time to process a message
-- SLA’s of third parties (internal or external) and whether they are being met
+- SLAs of third parties (internal or external) and whether they are being met
 - Utilisation, saturation and error rates for services <a href="http://www.brendangregg.com/usemethod.html" rel="noreferrer" target="_blank">(USE)</a>
 -Rate of traffic, errors and duration of responses for API’s <a href="https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html" rel="noreferrer" target="_blank">(RED)</a>
 
@@ -175,7 +175,7 @@ The overlap in responsibilities for both types of execution teams, no matter the
 
 Equally, if a company has a separate data team, they will want to see dashboards relating to the health and performance of their databases and the hardware the database is hosted on.
 
-There are also situations where product owners or stakeholders benefit from these dashboards too. This is more common is small businesses but I have seen examples of product using development information dashboards instead of having their own to see if SLA's are being met for a third party for example. 
+There are also situations where product owners or stakeholders benefit from these dashboards too. This is more common is small businesses but I have seen examples of product using development information dashboards instead of having their own to see if SLAs are being met for a third party for example. 
 
 In terms of guiding improvement, the product team are also likely to be interested in a heads up if a particular feature or product is offering a poor customer experience or is showing signs of performance degradation. This can also be the case if the business are looking at pushing a particular feature which may need active work to support the demand of the increased customer uptake; otherwise this effort may not be accounted for in upcoming business plans.
 

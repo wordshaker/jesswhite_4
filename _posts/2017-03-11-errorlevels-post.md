@@ -62,7 +62,7 @@ It is used however. An example given in [reference 2](http://stackoverflow.com/q
 
 #### INFO
 
-The information level of logging is generally used for things you want to know about but that don't cause your application to crash. There is a lot of confusion between the difference between information and debug, the principle I work by is that if it information that would be informative in production, log it as information. There is a careful balance that needs to be achieved however. You want to avoid noise, but be informative. For example, if you receive a 500 from an api, log it. Maybe don't log all teh information corresponding to it. 
+The information level of logging is generally used for things you want to know about but that don't cause your application to crash. There is a lot of confusion between the difference between information and debug, the principle I work by is that if it information that would be informative in production, log it as information. There is a careful balance that needs to be achieved however. You want to avoid noise, but be informative. For example, if you receive a 500 from an api, log it. Maybe don't log all the information corresponding to it. 
 
 The other thing to consider when logging to production is the content of the information. You do not want to log sensitive or identifying information about customers for instance. Internal ID's would be fine as you can track information without revealing anything you don't intend to. Logs are not a secure place for storage. 
 

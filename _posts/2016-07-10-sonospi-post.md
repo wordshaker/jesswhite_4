@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sonos Pi Project"
-description: "For alerting on Sonos based on Datadog events"
+description: "For alerting on Sonos based on DataDog events"
 date: 2016-07-10
 image: "assets/img/posts/twitter.jpg"
 tags: ['2016']
@@ -11,7 +11,7 @@ tags: ['2016']
 
 ----
 <center>
-<h3>Using a Raspberry Pi to make vocal alerts on a Sonos based off output from Datadog.</h3>
+<h3>Using a Raspberry Pi to make vocal alerts on a Sonos based off output from DataDog.</h3>
 </center>
 --- 
 <br/>
